@@ -72,3 +72,34 @@ third_nav_title: School Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BM64nd1WUq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Eladneerg | Greendale The Musical @ Kallang Theater 2016
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kfgk6Ng7muY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Greendale Secondary School Celebrates 10 with 10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWi6IXuZp3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Greendale Secondary School on CNA
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZiPXVxpL4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Greendale Secondary School In The News
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOCAknCj0r0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Greendale Secondary School: Outdoor and Adventure Education
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rbtYdlCjVIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Greendale Sec OAE News
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbGjE5VyHxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Greendale Sec 10th Anniversary Commemorative Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jT_dZIU-UTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Celebrate 10 with 10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvgjqRJ2OBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
