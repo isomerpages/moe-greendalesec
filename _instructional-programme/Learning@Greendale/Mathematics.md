@@ -55,3 +55,19 @@ Some of the activities that students get to experience through the Mathematics C
 
 <img src="/images/maweb-5.jpg" 
      style="width:75%">
+		 
+<img src="/images/maweb-6.jpg" 
+     style="width:75%">
+		 
+**Innovation Week**
+
+Every year, the school allocates a week – termed as Innovation Week - for students to experience the different subjects beyond the textbook. The Mathematics Signature Programs for the Innovation Week are the MathXcape and the Statistics Poster Workshop for the Secondary One and Two students respectively.
+
+**MathXcape (Secondary 1)**
+
+MathXcape is an escape room game constructed with Mathematics puzzles. The Mathematics puzzles are specifically designed to suit the proficiency of the Secondary One students. Students are given an hour to decipher the puzzles to ‘escape’ the locked room. The comic strip below depicts a simplified example of the MathXcape puzzles.
+
+<img src="/images/maweb-7.jpg" 
+     style="width:75%">
+<img src="/images/maweb-8.jpg" 
+     style="width:75%">
