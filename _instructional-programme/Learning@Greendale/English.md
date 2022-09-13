@@ -16,3 +16,18 @@ The department pedagogy is closely aligned to Syllabus 2020 to produce engaged 2
 
 <img src="/images/Picture1.jpg" 
      style="width:60%">
+
+The department also adopts the CLEARR Pedagogical Framework in our lesson design.
+
+<img src="/images/Picture2.jpg" 
+     style="width:60%">
+		 
+The department works very closely with the School Library to encourage our students to be readers.
+
+<img src="/images/picture3.png" 
+     style="width:70%">
+
+<img src="/images/picture4.png" 
+     style="width:80%">
+
+![](/images/Picture6.png)
