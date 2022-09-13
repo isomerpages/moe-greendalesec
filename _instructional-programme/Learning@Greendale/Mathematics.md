@@ -80,3 +80,15 @@ MathXcape is an escape room game constructed with Mathematics puzzles. The Mathe
      style="width:75%">
 <img src="/images/maweb-10.jpg" 
      style="width:75%">
+		 
+### Extension
+
+**Greendale Young Mathematician**
+
+The Young Mathematician is a program that aims to stretch the best Mathematics students from each of the different streams and instil a greater passion for the subject. Under the Young Mathematician Program, students meet up once to twice a term to partake in Mathematics – related activities such as Sudoku, analysing game theories behind board games, solving Olympiad questions to escape a locked room, etc.
+
+<img src="/images/maweb-11.jpg" 
+     style="width:75%">
+		 
+<img src="/images/maweb-12.jpg" 
+     style="width:75%">
