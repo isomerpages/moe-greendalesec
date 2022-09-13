@@ -92,3 +92,61 @@ During the prestigious 4PM Debate Competition, our school compete against Tanjon
 
 <img src="/images/mtlsw-23.jpg" 
      style="width:75%">
+		 
+For the next two rounds with Commonwealth and Bartley Secondary Schools, we were unable to proceed to the Finals. Nevertheless, the debaters learned valuable lessons and acquired confidence throughout the whole experience.
+
+![](/images/MT14.png)
+![](/images/MT15.png)
+
+For National Malay Poetry Recital Competition at Raffles Girls School, ARISSA NADYNE M R wrote and recited a poetry entitled Sang Nila. Sang Nila Utama’s pursuit of his dream through the discovery of Singapore Island truly inspired Arissa and thus the poetry. Below is her entry.
+
+**_Sang Nila Pemacu Jaya_**
+
+_Terpacak tegap nama Sang Nila Utama_ <br>
+_Di sana kau inginkan pulau idaman_ <br>
+_Di sana kau inginkan ketenteraman_ <br>
+_Pulau indah dan bersih_ <br>
+_Ombak mendayu-dayu_ <br>
+_Pasir pantai putih berbuih_ <br>
+_Menjadi penyeri hati yang rintih_
+
+_Malangnya dalam engkau meniti pulau itu_ <br>
+_Kau dilanda onak dan duri_ <br>
+_Tatkala bahtera dilayari_ <br>
+_Malam gelap kilat menerangi_ <br>
+_Guruh dan taufan turut menemani_
+
+_Namun Sang Nila, kau teguh berdiri_ <br>
+_Menghadap lautan bergelora_ <br>
+_Yang lapar menggila kerana inginkan mahkota_ <br>
+_Kau sanggup berkorban_ <br>
+_Biar mahkota hilang abadi_ <br>
+_Asalkan pulau menjadi idaman hati_ <br>
+_Asalkan anak kapal setia berdiri_ <br>
+_Kau berjuang dengan berani_ <br>
+_Tanpa rasa gentar dan rugi_ <br>
+_Kau cekal dengan pulau idaman hati_
+
+_Akhirnya bahtera melabuhkan tirainya_ <br>
+_Kau terpersona dengan serinya_ <br>
+_Kini kau berada di pulau idaman_ <br>
+_Namun secara tiba-tiba_ <br>
+_Seekor singa datang menerpa_ <br>
+_Kau merenung mata Si Singa_ <br>
+_Kau dan singa bertentangan mata_ <br>
+_Sinar matanya memukau jiwa_ <br>
+_Akhirnya kau menang dalam renungan itu_ <br>
+_Kerana kau tahu nilai pulau ini_ <br>
+_Pulau ini idaman hati_ <br>
+_Lalu kau namakan pulau ini Singapura_ 
+
+_Kini terpacak tegap nama Sang Nila Utama_ <br>
+_Aku menganggapmu sebagai idola_ <br>
+_Kerana kau langsung tidak berpaling tadah_ <br>
+_Kau teguh bertekad memahat sejarah_ <br>
+_Sang Nila Utama_ <br>
+_Kau di sanubari anak Singapura_
+
+**_Arissa Nadyne M R_** <br>
+**_Sekolah Menengah Greendale_** <br>
+**_26 Mac 2019_**
