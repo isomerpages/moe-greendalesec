@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - School Symbols.md
       - School History.md
       - School Advisory Committee.md
       - Greendale Family/.keep
