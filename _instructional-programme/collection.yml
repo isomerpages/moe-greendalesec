@@ -2,4 +2,5 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Learning@Greendale/.keep
       - Instructional Programme.md
