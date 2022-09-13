@@ -2,5 +2,6 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Learning@Greendale/English.md
       - Learning@Greendale/.keep
       - Instructional Programme.md
