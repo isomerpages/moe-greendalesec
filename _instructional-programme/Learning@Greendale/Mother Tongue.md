@@ -147,6 +147,59 @@ _Kau teguh bertekad memahat sejarah_ <br>
 _Sang Nila Utama_ <br>
 _Kau di sanubari anak Singapura_
 
-**_Arissa Nadyne M R_** <br>
-**_Sekolah Menengah Greendale_** <br>
-**_26 Mac 2019_**
+**Arissa Nadyne M R** <br>
+**Sekolah Menengah Greendale** <br>
+**26 Mac 2019**
+
+NURUL UMAIRAH N R’s poetry was about Badang in which entails the strength of Malay folk character in his search of his true self through the various challenges that he faced.
+
+**_Monolog Si Badang_**
+
+_Wahai Badang gagah perkasa_ <br>
+_Berani melawan sesiapa sahaja_ <br>
+_Kau menarik kapal dua bahtera_ <br>
+_Kau menjulang batu Singapura_ <br>
+_Kau gagah Badang kaulah perkasa_
+
+_Tidak! Aku bukan yang kau maksudkan_ <br>
+_Malah aku hina_ <br>
+_Aku dicemuh tanpa belasan_ <br>
+_Kerna aku kurang berdaya_ <br>
+_Aku insan kerdil dan lemah_
+
+_Siapakah diri ku ini?_ <br>
+_Aku masih mencari-cari_ <br>
+_Aku rasa kehilangan_ <br>
+_Setelah aku makan muntah itu_ <br>
+_Muntah itu telah meracuni jiwaku_ <br>
+_Siapakah Badang sebenarnya?_ <br>
+_Seorang pengecut yang tiada maruah_ <br>
+_Memakan muntah sebagai ganti_ <br>
+_Hanya membuktikan keberanian_ <br>
+_Yang tidak pernah wujud sama sekali_
+
+_Tetapi aku percaya kegagahanmu luar biasa_ <br>
+_Kau bertarung nyawa_ <br>
+_Kau mengalahkan semua_ <br>
+_Mungkin kau masih belum mengerti_ <br>
+_Kekuatan dan kegagahanmu_ <br>
+_tersemadi di dalam diri_ <br>
+_Kau kuat bukan kerana muntah_ <br>
+_Kau kuat bukan kerana jin yang menggoda_ <br>
+_Sebenarnya keberanian sudah ada pada dirimu_
+
+_Di hati ini tergulung sebuah harapan_ <br>
+_Jika kau Badang dapat membela_ <br>
+_Izinkan aku membela masa depanku_ <br>
+_Demi negara yang ku cinta_ <br>
+_Demi kasih dan hak insani_ <br>
+_Demi memartabatkan manusiawi_ <br>
+_Aku sanggup berusaha_ <br>
+_Kerana aku ingin menjadi sepertimu Badang_ <br>
+_Keberanianmu menjadi nilaiku  
+Ketekalanmu menjadi budayaku_ <br>
+_Kejayaanmu menjadi sejarahku_
+
+**Nurul Umairah N R** <br>
+**Sekolah Menengah Greendale** <br>
+**26 March 2019**
