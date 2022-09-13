@@ -203,3 +203,9 @@ _Kejayaanmu menjadi sejarahku_
 **Nurul Umairah N R** <br>
 **Sekolah Menengah Greendale** <br>
 **26 March 2019**
+
+Some other competitions that our students have participated includes the National Secondary School Chinese Newspaper Editing Competition, Creative Writing and Photo-taking Competition.
+
+<img src="/images/MT16.png" 
+     style="width:75%">
+![](/images/MT17.png)
