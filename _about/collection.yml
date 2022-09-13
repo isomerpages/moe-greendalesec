@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - School Videos/Our Home, Our Pride.md
       - School Videos/.keep
       - Principal's Message.md
