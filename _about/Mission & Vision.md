@@ -28,3 +28,8 @@ The metaphor illustrates a young plant deeply rooted to ground, nurtured and cha
 
 <img src="/images/GG_new_2.jpg" 
      style="width:75%">
+		 
+![](/images/learner.png)
+![](/images/Learner-1.jpg)
+![](/images/Learner-2.jpg)
+![](/images/Learner-3.jpg)
