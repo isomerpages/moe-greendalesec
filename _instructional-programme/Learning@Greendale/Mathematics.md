@@ -71,3 +71,12 @@ MathXcape is an escape room game constructed with Mathematics puzzles. The Mathe
      style="width:75%">
 <img src="/images/maweb-8.jpg" 
      style="width:75%">
+		 
+**Statistics Poster (Secondary 2)**
+
+“Why learn all these Math when we are never going to use these skills?” That is a rather common question that the Mathematics teachers receive. So in one of the bigger Mathematics department “Relate Mathematics to Real-Life” effort, a Statistics Poster Workshop is conducted for all Secondary Two students. At the workshop, students learn how to create posters that presents statistical findings. Students have the opportunity to craft their research questions, conduct surveys, tabulate the statistics and finally present their findings in the different statistical diagrams that they have learnt.
+
+<img src="/images/maweb-9.jpg" 
+     style="width:75%">
+<img src="/images/maweb-10.jpg" 
+     style="width:75%">
