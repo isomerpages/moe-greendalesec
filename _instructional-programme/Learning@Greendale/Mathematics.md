@@ -92,3 +92,9 @@ The Young Mathematician is a program that aims to stretch the best Mathematics s
 		 
 <img src="/images/maweb-12.jpg" 
      style="width:75%">
+		 
+##### Excellence
+
+**Competitions**
+
+Some competitions that our students have participated in includes the Sudoku Challenge in 2017, NSC 2018 and Problems in Real World Context Mathematics Competition 2018.
