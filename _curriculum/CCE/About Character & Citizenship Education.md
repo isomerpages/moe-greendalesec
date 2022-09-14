@@ -139,3 +139,22 @@ We believe in providing a variety of training for our students. All Greendale st
 
 <img src="/images/training1.png" 
      style="width:75%">
+		 
+### Opportunities
+
+Our student leaders are given the opportunity to serve in various capacities after receiving training. Student Councillors are involved in organising and carrying out the different school events such as Teacher’s Day celebrations. Sports leaders are involved in planning and running the annual Inter-Class Games. Our CCE ambassadors organise and spearhead CCE engagement initiatives such as Anti-Bullying and Cyberwellness Week.
+
+<img src="/images/image14.jpg" 
+     style="width:50%">
+		 
+_Sports Leaders plan and execute Games Carnival_
+
+<img src="/images/opportunity.png" 
+     style="width:50%">
+		 
+_CCE ambassadors launching a Cyberwellness Campaign and emcee-ing during National Day celebrations_
+
+<img src="/images/image17.jpg" 
+     style="width:50%">
+
+_Student Councillors leading school events_
