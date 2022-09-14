@@ -2,16 +2,16 @@ collections:
   instructional-programme:
     output: true
     order:
-      - Learning@Greendale/Smart Electrical Technology.md
-      - Learning@Greendale/EBS & CPA.md
-      - Learning@Greendale/Food and Consumer Education.md
-      - Learning@Greendale/Design & Technology.md
-      - Learning@Greendale/Art.md
-      - Learning@Greendale/Physical Education.md
-      - Learning@Greendale/Humanities.md
-      - Learning@Greendale/Science.md
-      - Learning@Greendale/Mathematics.md
-      - Learning@Greendale/Mother Tongue.md
-      - Learning@Greendale/English.md
       - Learning@Greendale/.keep
+      - Learning@Greendale/English.md
+      - Learning@Greendale/Mother Tongue.md
+      - Learning@Greendale/Mathematics.md
+      - Learning@Greendale/Science.md
+      - Learning@Greendale/Humanities.md
+      - Learning@Greendale/Art.md
+      - Learning@Greendale/Design & Technology.md
+      - Learning@Greendale/Food and Consumer Education.md
+      - Learning@Greendale/EBS & CPA.md
+      - Learning@Greendale/Smart Electrical Technology.md
+      - Learning@Greendale/Physical Education.md
       - Instructional Programme.md
