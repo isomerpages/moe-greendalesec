@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Learning@Greendale/EBS & CPA.md
       - Learning@Greendale/Food and Consumer Education.md
       - Learning@Greendale/Design & Technology.md
       - Learning@Greendale/Art.md
