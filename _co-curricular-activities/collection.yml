@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Football.md
       - Sports & Games/Canoeing.md
       - Sports & Games/Fencing.md
       - Sports & Games/Floorball.md
