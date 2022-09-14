@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/Theatricks!.md
-      - Performing Arts/Dance Ensemble.md
-      - Performing Arts/Greendale Chorale.md
-      - Performing Arts/Greendale Orchestra.md
-      - Performing Arts/Angklung Ensemble.md
       - Performing Arts/.keep
+      - Performing Arts/Angklung Ensemble.md
+      - Performing Arts/Greendale Orchestra.md
+      - Performing Arts/Greendale Chorale.md
+      - Performing Arts/Dance Ensemble.md
+      - Performing Arts/Theatricks!.md
       - Sports & Games/.keep
       - Sports & Games/Softball.md
       - Sports & Games/Floorball.md
