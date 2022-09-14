@@ -2,12 +2,12 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Clubs/Robotics.md
-      - Clubs/Library Club.md
-      - Clubs/Outdoor Adventure Club (ODAC).md
-      - Clubs/Greendale Broadcasting Corporation (GBC).md
-      - Clubs/Art Club.md
       - Clubs/.keep
+      - Clubs/Art Club.md
+      - Clubs/Greendale Broadcasting Corporation (GBC).md
+      - Clubs/Outdoor Adventure Club (ODAC).md
+      - Clubs/Library Club.md
+      - Clubs/Robotics.md
       - Performing Arts/.keep
       - Performing Arts/Angklung Ensemble.md
       - Performing Arts/Greendale Orchestra.md
