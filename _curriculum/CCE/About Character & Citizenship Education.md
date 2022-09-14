@@ -70,3 +70,7 @@ _Our students learning about Total Defence through card games_
 <img src="/images/image46.png" 
      style="width:50%">
 _Commemorating Racial Harmony Day_
+
+**Serving others through Values-in-Action programmes**
+
+At Greendale, we believe that every student can be a servant leader who are able to make positive changes. Our Values-in-Action programmes are designed to be progressive, to encourage our students to make active steps to better the lives of those around them. As we often say, small actions can have big impact. Through these programmes, our students learn to initiate their own projects to positively impact those around them.
