@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/About Character & Citizenship Education.md
       - CCE/.keep
