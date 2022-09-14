@@ -46,3 +46,6 @@ The design of the 2019 CPA syllabus is guided by the Computing Curriculum Framew
 * Core Concepts of computing
 * Components of computational thinking (CT) 
 * Practices of computing practitioners and professionals
+
+<img src="/images/ebs-cpa.jpg" 
+     style="width:80%">
