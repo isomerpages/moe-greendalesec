@@ -86,3 +86,46 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary Two</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">UNIT</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSONS / DURATION</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSON OBJECTIVES</span><br><span style="font-weight:bold;font-style:inherit">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TIME PERIOD</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·        Know that one’s understanding of gender roles should not be limited by gender stereotypes</span><br><br><span style="font-weight:inherit;font-style:inherit">·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female</span><br><span style="font-weight:inherit;font-style:inherit">·        Understand what sexual orientation entails</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 5</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2A (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2B (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender</span><br><br><span style="font-weight:inherit;font-style:inherit">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+  </tr>
+</tbody>
+</table>
