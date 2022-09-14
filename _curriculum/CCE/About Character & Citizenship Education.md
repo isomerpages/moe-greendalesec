@@ -74,3 +74,61 @@ _Commemorating Racial Harmony Day_
 **Serving others through Values-in-Action programmes**
 
 At Greendale, we believe that every student can be a servant leader who are able to make positive changes. Our Values-in-Action programmes are designed to be progressive, to encourage our students to make active steps to better the lives of those around them. As we often say, small actions can have big impact. Through these programmes, our students learn to initiate their own projects to positively impact those around them.
+
+<img src="/images/via.png" 
+     style="width:60%">
+		 
+_Sec 1s writing notes to appreciate our frontliners during the fight against Covid-19_
+
+<img src="/images/via2.png" 
+     style="width:60%">
+		 
+_Sec 2s Values-in-Action Project – Designing a prototype for the elderly with mobility issues after learning about their needs during visits to an elderly home_
+
+<img src="/images/image23.jpg" 
+     style="width:60%">
+_Sec 3s Values-in-Action Project – Raising awareness and funds for mental health and inclusiveness_
+
+<img src="/images/image24.png" 
+     style="width:60%">
+		 
+_Sec 4/5s Values-in-Action Project – Engaging the Punggol Community in a ‘Thank My Neighbour’ Campaign_
+
+**Learning to be future-ready through Education and Career Guidance Programmes**
+
+Education and Career Guidance Programmes aims to equip our students with the necessary knowledge, skills and values, to make decisions for successful transition from school to further education or work.  Our students have the opportunity to explore post-secondary educational pathways through talks and learning journeys to post-secondary institutions, as well as explore career pathways through our annual Careers Day and Work Experience Programmes.
+
+<img src="/images/ecg.png" 
+     style="width:60%">
+		 
+_Learning journeys to post-secondary institutions_
+
+<img src="/images/image27.jpg" 
+     style="width:50%">
+		 
+_Acquiring interview skills through workshops_
+
+<img src="/images/image28.jpg" 
+     style="width:50%">
+_Learning Journeys to industries during Careers Day_
+
+<img src="/images/ecg2.png" 
+     style="width:60%">
+		 
+_5 day Work Experience Programme_
+
+### Talent Development & Student Leadership
+
+At Greendale, we believe that every student can be a leader. We aim to build confident leaders with the heart to serve. A wide variety of training and opportunities are afforded to develop leaders at each level. Students have the opportunity to serve as subject representatives in their classes, take on leadership positions in their CCAs and in the school as CCA leaders and Student Councillors respectively. 
+
+Greendale’s student leadership development programme is guided by the principles of Servant Leadership by Robert Greenleaf.
+
+_The servant-leader is servant first. It begins with the natural feeling that one wants to serve. Then conscious choice brings one to aspire to lead. The best test is: do those served grow as persons: do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? And, what is the effect on the least privileged in society; will they benefit, or, at least, not be further deprived?  
+(Greenleaf, 1977/2002)_
+
+The Greendale Student Leadership Journey is based on Servant Leadership principles. The inverted pyramid signals how leaders with greater responsibilities need to support the rest of the student population through the ability to serve.  
+
+There are outcome goals for each of the 5 levels of leadership tied to the Servant Leadership traits. Minimally, all students should seek to become responsible leaders. At the highest level of leadership, we aim for our student leaders to demonstrate the traits of being a servant leader.
+
+<img src="/images/image5.jpg" 
+     style="width:85%">
