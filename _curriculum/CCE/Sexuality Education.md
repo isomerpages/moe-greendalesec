@@ -35,3 +35,54 @@ You may click here ([https://www.moe.gov.sg/education/programmes/social-and-emot
 a. Science
 
 b. Character and Citizenship Education (CCE)
+
+### Sexuality Education Lessons:
+
+6. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly. Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.
+
+7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
+
+**At Greendale Secondary School, the following Sexuality Education lessons will be taught in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary One</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">UNIT</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSONS / DURATION</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSON OBJECTIVES</span><br><span style="font-weight:bold;font-style:inherit">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TIME PERIOD</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span><br><span style="font-weight:inherit;font-style:inherit">·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 4 Week 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">3 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 4 Week 2</span></td>
+  </tr>
+</tbody>
+</table>
