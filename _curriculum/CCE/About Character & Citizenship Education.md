@@ -132,3 +132,10 @@ There are outcome goals for each of the 5 levels of leadership tied to the Serva
 
 <img src="/images/image5.jpg" 
      style="width:85%">
+		 
+### Training
+
+We believe in providing a variety of training for our students. All Greendale students are exposed to Servant Leadership as part of the Class Committee training at the beginning of each year. Dedicated trainings are also provided to expose students to the traits of Servant Leadership. Our appointed Student Leaders can look forward to our school’s signature Aspiring Leaders’ and Inspiring Leaders’ Training Programmes from Secondary 2 onwards.
+
+<img src="/images/training1.png" 
+     style="width:75%">
