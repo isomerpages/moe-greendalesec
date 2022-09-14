@@ -260,3 +260,49 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+##### eTeens Programme:
+
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.
+
+9. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Greendale Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d8zo{background-color:#EAEAEA;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-s283{background-color:#B0B0B0;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">Topics/Lessons</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">Programme Learning Objectives</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">Time Period</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 3 Week 9)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mass Talk by HPB appointed vendor</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">· Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:inherit;font-style:inherit">· Modes of transmission</span><br><span style="font-weight:inherit;font-style:inherit">· Modes of protection, specifically on how the condom is used</span><br><span style="font-weight:inherit;font-style:inherit">· Consequences and impact of STIs/HIV</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Term 2 Week 8</span></td>
+  </tr>
+</tbody>
+</table>
+
+### Information for Parents
+
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents through Parents’ Gateway at the start of the year and is also downloadable [here](/files/Annex-A-Opt-out-form-for-Sexuality-Education.pdf). The completed form is to be submitted by 31/1/2022.
+
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B-Opt-out-form-for-e-teens.pdf). The completed form is to be submitted by 31/1/2022.
+
+13.      Parents can contact the school at [greendale\_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
