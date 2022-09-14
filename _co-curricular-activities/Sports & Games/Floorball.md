@@ -8,3 +8,4 @@ Training is 3 times weekly and a single session would typically consist of physi
 
 In 2020,  our B Division girls made it to the 2nd round for that year’s tournament before National Games were suspended due to Covid-19.
 
+![](/images/BL0_4974.jpg)
