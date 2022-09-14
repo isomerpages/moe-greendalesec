@@ -129,3 +129,46 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary Three</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">UNIT</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSONS / DURATION</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSON OBJECTIVES</span><br><span style="font-weight:bold;font-style:inherit">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TIME PERIOD</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1A (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</span><br><span style="font-weight:inherit;font-style:inherit">Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.</span><br><span style="font-weight:inherit;font-style:inherit">Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1B (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</span><br><span style="font-weight:inherit;font-style:inherit">Know that a decision to end a relationship will have consequences on oneself and others.</span><br><span style="font-weight:inherit;font-style:inherit">Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</span><br><span style="font-weight:inherit;font-style:inherit">Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</span><br><span style="font-weight:inherit;font-style:inherit">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 2 Week 7</span></td>
+  </tr>
+</tbody>
+</table>
