@@ -49,3 +49,24 @@ The highlight of CCE at Greendale is in its customised CCE curriculum, termed as
 
 <img src="/images/image42.jpg" 
      style="width:40%">
+		 
+### Classroom Experiences
+
+Besides classroom lessons to acquire the relevant skills and knowledge in CCE, Greendale students are also exposed to a wide suite of programmes to enhance their learning experiences. Students are actively involved during our Citizenship Education (CE) commemoration events, engaged in learning through our Education & Career Guidance (ECG) programmes to be future-ready, and actively serving those around them through our progressively designed Values-in-Action (VIA) opportunities.
+
+**Commemorating key National events**
+
+We commemorate key national events in Greendale as part of our Citizenship Education. Students are actively engaged in learning during these programmes through a series of classroom lessons and assembly programmes. As with our focus on experiential learning, our students are active participants in these programmes. For examples, during our annual National Day Celebrations, our Secondary 3 students plan and execute a Social Enterprise Bazaar to raise awareness and funds for our partner beneficiary. As part of our nation’s goal towards an inclusive society, our students chose mental health as the theme and focus for the bazaar.
+
+<img src="/images/image43.jpg" 
+     style="width:50%">
+_Envisioning their future as part of National Day Commemoration_
+<img src="/images/image44.jpg" 
+     style="width:50%">
+_Our annual Social Enterprise Bazaar as part of National Day celebrations_
+<img src="/images/image45.png" 
+     style="width:50%">
+_Our students learning about Total Defence through card games_
+<img src="/images/image46.png" 
+     style="width:50%">
+_Commemorating Racial Harmony Day_
