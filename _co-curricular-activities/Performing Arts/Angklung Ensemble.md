@@ -16,4 +16,3 @@ Every member will be involved in learning how to play Angklung, which will serve
 During training, to instil the importance of teamwork, the Sec 2 and Sec 3 players will partner with new members and Sec 1 members for peer teaching and helping the ensemble to improve in their playing.  
   
 Yearly, Greendale Angklung Ensemble will perform during the Sec 1 CCA Fair and Greendale’s Chinese New Year Celebration.
-
