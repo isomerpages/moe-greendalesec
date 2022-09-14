@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs/.keep
       - Performing Arts/.keep
       - Performing Arts/Angklung Ensemble.md
       - Performing Arts/Greendale Orchestra.md
