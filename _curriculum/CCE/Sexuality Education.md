@@ -172,3 +172,91 @@ b. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary Four</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">UNIT</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSONS / DURATION</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSON OBJECTIVES</span><br><span style="font-weight:bold;font-style:inherit">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TIME PERIOD</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</span><br><span style="font-weight:inherit;font-style:inherit">·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">3 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">4 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 8</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Secondary Five</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">UNIT</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSONS / DURATION</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">LESSON OBJECTIVES</span><br><span style="font-weight:bold;font-style:inherit">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TIME PERIOD</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1 (60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</span><br><span style="font-weight:inherit;font-style:inherit">·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
