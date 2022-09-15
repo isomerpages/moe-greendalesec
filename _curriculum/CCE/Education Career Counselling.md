@@ -53,3 +53,31 @@ The programmes under **GDLS ECG Framework** will enable our students to:
 ### Careers Day
 
 The objective of the Careers Day is to inspire the Sec 3 students to explore career paths and post-secondary education options. Students attend talks by guest speakers from a wide variety of industries in the morning and visit post-secondary education institutes or industries in the afternoon.
+
+<img src="/images/image19.jpg" 
+     style="width:50%">
+
+### Experience Poly / ITE Programme
+
+Students spent a few days immersing themselves in one of the Poly / ITE courses to get a taste of life as a Poly/ITE student and experience the facilities offered.
+
+<img src="/images/ecg3.png" 
+     style="width:50%">
+
+### Work Attachment Programme
+
+The Work Attachment Programme is a 5-day work-readiness
+
+programme designed to increase students’ understanding of the skills needed in the workplace. Students learn how to research options, and acquire new skills that are necessary to pursue a career, such as preparing a portfolio. The work attachment experience also enhances the students’ future education or career prospects.
+
+![](/images/ecg4.png)
+
+##### ECG Counselling Service
+
+Our ECG Counsellor, Ms Adeline Ng, supports students (individually or in small groups) by exploring their interests and strengths, and addressing their concerns or questions about education options and career exploration. Students may make an appointment with her through the following means, or ask her questions online.
+
+* Online booking form: [http://go.gov.sg/gdlssecg](http://www.tinyurl.com/gdlssecgappt)
+
+* Email: [ng_ling_ling_adeline@schools.gov.sg](mailto:ng_ling_ling_adeline@schools.gov.sg)
+
+Please note that Ms Adeline Ng is available at GDLS every Wednesday and Friday from 8am to 5pm.
