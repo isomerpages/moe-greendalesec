@@ -69,3 +69,51 @@ iii. **To provide relevant and accurate information to stakeholders** such as p
   </tr>
 </tbody>
 </table>
+
+**Section 2: Character Development Program @ Greendale Secondary School**
+
+9. In line with our school’s vision of Learners, Thinkers, Leaders, the school has the following summary-example of assessment tools to evaluate how each student fares in the areas of character development. Again, it is important to note that each assessment tool cited may serve to evaluate or measure more than one desired outcome.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b6pe{background-color:#EAEAEA;text-align:center;vertical-align:top}
+.tg .tg-nvmp{background-color:#EAEAEA;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-kveo{background-color:#EAEAEA;text-align:left;vertical-align:top}
+.tg .tg-in3t{background-color:#B0B0B0;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zamo{background-color:#EAEAEA;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-qhty{background-color:#EAEAEA;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit">School Vision</span></th>
+    <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit">Desired outcomes</span></th>
+    <th class="tg-in3t"><span style="font-weight:inherit;font-style:inherit">Assessment tools</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zamo"><span style="font-weight:inherit;font-style:inherit">Learners</span></td>
+    <td class="tg-b6pe"><span style="font-weight:inherit;font-style:inherit">Students to be committed life-long learners who take responsibility for their personal growth.</span><br></td>
+    <td class="tg-kveo"><span style="font-weight:inherit;font-style:inherit">1)</span> Conduct grade<span style="font-weight:inherit;font-style:inherit">: To assess the general behavior of each student that would set the foundation of a learning culture in school.</span><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">2)</span> <span style="font-weight:700">Personal Qualities rubric</span><span style="font-weight:inherit;font-style:inherit">:</span> <span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">To assess the personal qualities of each student in becoming life-long learners who take responsibility for their growth.</span><br><br><span style="font-weight:inherit;font-style:inherit">3)</span> <span style="font-weight:700">CCA grade</span><span style="font-weight:inherit;font-style:inherit">:</span> <span style="font-weight:inherit;font-style:inherit">To assess their co-curricular learning commitment and abilities.</span><br><span style="font-weight:inherit;font-style:inherit">N.B.: This set of assessment tools will also provide vital assessment data relevant to the development of Greendale</span> <span style="font-style:italic">Thinkers</span> <span style="font-weight:inherit;font-style:inherit">and</span> <span style="font-style:italic">Leaders</span><span style="font-weight:inherit;font-style:inherit">.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zamo"><span style="font-weight:inherit;font-style:inherit">Thinkers</span></td>
+    <td class="tg-b6pe"><span style="font-weight:inherit;font-style:inherit">Students to develop critical minds that reflect deeply and challenge issues and understandings for greater clarity and stronger solutions.</span><br></td>
+    <td class="tg-qhty"><span style="font-weight:700">Critical &amp; Inventive Thinking (part of 21CC Assessment Rubrics used across departments and teams for Project Work, ALP feedback etc.)</span><span style="font-weight:inherit;font-style:inherit">: To assess how well each student is able to think critically and be future-ready to take on the challenges of the 21st century.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nvmp"><span style="font-weight:inherit;font-style:inherit"> </span><span style="font-style:italic">Leaders</span></td>
+    <td class="tg-b6pe"><span style="font-weight:inherit;font-style:inherit"> Students to be confident leaders who are role models in service to community and society in the use of their talents and efforts.</span></td>
+    <td class="tg-kveo"><span style="font-weight:700">Servant Leadership traits</span><span style="font-weight:inherit;font-style:inherit">: To assess how far each student is developed in each servant leadership trait.</span></td>
+  </tr>
+</tbody>
+</table>
+
+### Holistic Assessment @ Greendale Secondary School
+
+10. The school is developing a school-wide holistic assessment tool, that will reflect assessment data of both instructional programme and character development efforts. The outcome is a Holistic Assessment Report Card, which teachers, students and parents can use to reflect on teaching and learning efforts and discuss how the student can better learn to achieve their desired outcomes. The purpose of the Holistic Assessment Report Card is to provide stakeholders (students, parents, teachers), the critical information and data on, to what extent the Greendale student is learning and developing into the desired **_Learner, Thinker, Leader._**
