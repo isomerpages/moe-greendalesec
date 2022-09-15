@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE/Homework Policy.md
-      - CCE/Assessment Policy.md
-      - CCE/Education Career Counselling.md
       - CCE/.keep
       - CCE/About Character & Citizenship Education.md
       - CCE/Sexuality Education.md
+      - CCE/Education Career Counselling.md
+      - CCE/Assessment Policy.md
+      - CCE/Homework Policy.md
