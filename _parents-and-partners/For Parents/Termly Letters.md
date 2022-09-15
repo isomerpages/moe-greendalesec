@@ -22,3 +22,12 @@ third_nav_title: For Parents
 * [End of Term 3 Updates](/files/End-of-Term-3-Updates.pdf)
 * [Term 4](/files/2021-Termly-Information-Sheet_05-2021-1.pdf)
 * [End of Year Updates](/files/2021-End-of-Year-Information-Sheet_06-2021.pdf)
+
+### 2020
+
+* [Term 1](/files/2020_01_Termly_Information_Sheet.pdf)
+* [Preparing for Term 2 Updates](/files/2020_01a-Preparing-for-Term-2-Information-Sheet.pdf)
+* [Term 2](/files/2020_02_Term_2_Information_Sheet.pdf)
+* [Term 3](/files/2020_Term_3_Termly_Information_Sheet.pdf)
+* [Important Updates before Mid-Term break](/files/Important_Updates_for_Term-3_Weeks_6__7__before_Mid-Term_Break_.pdf)
+* [Term 4](/files/2020-Final-Term-Letter.pdf)
