@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/Assessment Policy.md
       - CCE/Education Career Counselling.md
       - CCE/.keep
       - CCE/About Character & Citizenship Education.md
