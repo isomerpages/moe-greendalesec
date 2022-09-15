@@ -36,3 +36,13 @@ SUPPORT new PSG parents to ensure the children's well-being in school;
 SHARE parenting tips and information and build your network and have a SUSTAINABLE partnership with school and involvement of parents.
 
 ***Our tagline: Serve with a HEART, support with LOVE and collaborate with PASSION!***
+
+### Positive Parenting Seminars (MSF)
+
+**Triple P Level 2 - Effective Parenting Approach to Raising Your Child**
+
+During your children’s growing up years, you may need some strategies to manage their behaviour, particularly when they reach adolescence. To support parents in building a healthy relationship with their child, the school is offering the _Positive Parenting Programme_ **(Triple P) Level 2 Seminar series**, endorsed by the Ministry of Social and Family Development (MSF).
+
+For parents and guardians of Greendale Secondary School students, we are pleased to invite you to attend the **Triple P Level 2 Seminars**, free of charge. The programme is designed to equip parents with knowledge and skills in managing children's behaviours during their tween and teen years.
+
+For more information, please refer to the Parents' Blog update here
