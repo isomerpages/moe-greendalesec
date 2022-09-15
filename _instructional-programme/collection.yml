@@ -2,6 +2,7 @@ collections:
   instructional-programme:
     output: true
     order:
+      - Instructional Programme.md
       - Learning@Greendale/.keep
       - Learning@Greendale/English.md
       - Learning@Greendale/Mother Tongue.md
@@ -14,4 +15,3 @@ collections:
       - Learning@Greendale/EBS & CPA.md
       - Learning@Greendale/Smart Electrical Technology.md
       - Learning@Greendale/Physical Education.md
-      - Instructional Programme.md
