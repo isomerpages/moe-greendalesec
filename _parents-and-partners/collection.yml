@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - For Parents/Secondary 1.md
       - For Parents/Termly Letters.md
       - For Parents/Parent Support.md
       - For Parents/.keep
