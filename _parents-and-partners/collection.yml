@@ -2,5 +2,5 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - Parent Support/Parent Support.md
-      - Parent Support/.keep
+      - For Parents/Parent Support.md
+      - For Parents/.keep
