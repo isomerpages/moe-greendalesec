@@ -81,3 +81,30 @@ Our ECG Counsellor, Ms Adeline Ng, supports students (individually or in small g
 * Email: [ng_ling_ling_adeline@schools.gov.sg](mailto:ng_ling_ling_adeline@schools.gov.sg)
 
 Please note that Ms Adeline Ng is available at GDLS every Wednesday and Friday from 8am to 5pm.
+
+### MySkillsFuture Portal – Online Resource for Secondary Students
+
+Students can also explore their career interests, gather education and industry information, and have their personal profiling or resume created online via the e-portal: [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+
+![](/images/9-1.png)
+
+### ECG Guide for Parents
+
+Parents who would like some tips and advice on supporting your child in his/her key education stages, may read the e-publication titled “[Journeying with Our Children, Achieving their Aspirations](http://www.moe.gov.sg/microsites/ecg-parent-guide)”.
+
+### Some Useful Links
+
+To find out more about MOE’s ECG curriculum, please refer to this link:  
+[https://www.moe.gov.sg/programmes/education-and-career-guidance](https://www.moe.gov.sg/programmes/education-and-career-guidance)
+
+To learn about various post-secondary education options, please refer to:  
+[https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary)
+
+For information about Polytechnic Early Admissions Exercise (Poly EAE), please refer to: [https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+
+For information about ITE Early Admissions Exercise (ITE EAE), please refer to:  
+[https://www.moe.gov.sg/post-secondary/admissions/ite-eae](https://www.moe.gov.sg/post-secondary/admissions/ite-eae)
+
+For information about Polytechnic Foundation Programme (PFP), please refer to: [https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html)
+
+For information about Direct-Entry-Scheme to Polytechnic Programme (DPP), please refer to: [https://www.moe.gov.sg/post-secondary/admissions/dpp](https://www.moe.gov.sg/post-secondary/admissions/dpp)
