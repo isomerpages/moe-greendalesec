@@ -2,5 +2,6 @@ collections:
   greendale-xperience:
     output: true
     order:
+      - Student Leadership.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
