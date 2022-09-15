@@ -4,3 +4,6 @@ permalink: /parents-partners/parent-support/parent-engagement/notification-to-pa
 description: ""
 third_nav_title: For Parents
 ---
+### CCA Briefing/Selection for Secondary 1s
+
+* CCA Briefing (More than 5MB)
