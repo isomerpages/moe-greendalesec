@@ -44,3 +44,11 @@ The aim of homework is to encourage and support students’ learning. It is to a
 3. During Class Test periods, the amount of homework should be moderated (e.g. subject teacher may give homework but students are not required to submit the assignment during CT week OR subject teachers to give a longer period of time for students to finish the assignment). The rationale for this is to help students manage the competing demands of homework, revision for CT, remedials and CCA.
 
 4. During CCA competitions or SYF periods, subject teachers will take the heavier demands of CCA into consideration for affected students.
+
+### Management and coordination of homework
+
+1. The homework/tests/projects should be written on the whiteboard so that teachers can coordinate among themselves and ensure students are not overloaded on a particular day or week.
+
+2. Subject Teachers are to consider the total amount of homework given for the day and make adjustments to either the amount of homework or the deadline for submission where necessary.
+
+3. Students are expected to take down the list of daily homework in their student handbook. Teachers will refrain from assigning work and sending instructions or reminders via Whatsapp/ text messages.
