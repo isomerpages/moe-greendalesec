@@ -43,3 +43,17 @@ Secondary 2 potential student leaders undergo the **Aspiring Leaders’ Trainin
 ### Inspiring Leaders’ Training Programme
 
 Student Leaders who take on higher leadership appointments in Secondary 3 are placed on **the Inspiring Leaders’ Training Programme**. This programme is a year-long mentorship programme which equip our leaders to take on greater challenges in their roles as leaders of their CCAs or leaders in school. Students have the opportunity to learn important planning skills, with particular focus on the Servant Leadership traits of Foresight and Conceptualisation. A highlight of the Inspiring Leaders’ Training Programme is the training camp typically held in Gopeng, Perak. Leaders have the opportunity to put these skills to practice during the camp and they will also have the chance to plan the Secondary 1 Orientation Camp for their juniors.
+
+**Aspiring Leaders' Camp in Pulau Hantu**
+
+![](/images/leadership.png)
+
+**Waterfall abseiling during Inspiring Leaders' Training Camp**
+
+<img src="/images/Abseiling2.jpg" 
+     style="width:65%">
+		 
+**Caving during Inspiring Leaders' Training Camp**
+
+<img src="/images/Caving.jpg" 
+     style="width:50%">
