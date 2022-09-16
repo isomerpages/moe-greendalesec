@@ -2,5 +2,6 @@ collections:
   student-and-admin-service:
     output: true
     order:
+      - For Students/Class Timetable.md
       - For Students/For Students.md
       - For Students/.keep
