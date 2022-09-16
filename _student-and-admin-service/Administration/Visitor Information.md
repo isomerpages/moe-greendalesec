@@ -39,3 +39,10 @@ Do note that the operating hours of our General Office and, therefore its admini
 
 <img src="/images/car-decal.jpg" 
      style="width:60%">
+		 
+8.  As the school has limited parking lots, parents and visitors are encouraged to park their vehicles at the nearby public parking lots.
+
+*   Visitors are not allowed to park at any lots except those designated for visitors.
+*   The school reserves the right to deny entry to non-authorised personnel.
+
+![](/images/parking.jpg)
