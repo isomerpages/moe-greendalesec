@@ -174,5 +174,80 @@ Application for Financial Assistance is open throughout the year. Students who a
 
 <img src="/images/qr-code-go_go_sg-moe_fas_greendale_sec_sch.png" 
      style="width:50%">
+		 
+**Important Admin Note**: Applications submitted before 29 October 2021 are prioritized for processing first. For applications submitted from 30 October 2021, they will be processed accordingly. The school will contact the concerned for clarifications in the applications, if needed.
 
+To renew the financial assistance for the next calendar year, students will have to submit a NEW application with supporting documents. Students are encouraged to submit their new applications by end October in order to use the Textbook Grant, should their application qualify for MOE Financial Assistance.
 
+2.  Other Financial Assistance and Bursary by other Organisations
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Name of Bursary</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Organisation</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Requirement/How to obtain form</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Potong Pasir Constituency Citizens’ Consultative Committee Application for Study Motivational Awards</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Potong Pasir CC</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NTUC Fairprice Study Grant</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NTUC Fairprice</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Parent must be Fairprice member</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol North CCC Community Education Assistance Scheme</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol North</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol East CCC Community Education Assistance Scheme</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol East</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol West CCC Community Education Assistance Scheme</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol West</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Buddhist Federation SBF Bursary Award</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Buddhist Federation</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from Singapore Buddhist Federation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CDAC-SFCCA Bursary</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CDAC</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CDAC centres, schools, CDAC website:</span> <a href="http://www.cdac.org.sg/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">www.cdac.org.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MDIS Scholarship and Bursary Awards</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MDIS</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from school in November</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">The Straits Times Pocket Money Fund</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Straits Times</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from school</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CTS Educational Awards 2019</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chettiars’ Temple Society</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from school in October</span></td>
+  </tr>
+</tbody>
+</table>
