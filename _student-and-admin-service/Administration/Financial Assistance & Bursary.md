@@ -4,3 +4,175 @@ permalink: /student-admin-services/administration/financial-assistance-bursary/
 description: ""
 third_nav_title: Administration
 ---
+### MISCELLANEOUS & SCHOOL FEES
+
+1.  Miscellaneous and School Fees are collected between 20th of every month to 5th of next month. For students on GIRO, fees will be deducted on 26th of the month or the following working day if 26th the month falls on a non-working day.
+2.  We encourage parents to make fees payment through GIRO. It is more convenient and safer as students need not bring large amount of cash to school.
+3.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TYPES OF STUDENTS</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">SCHOOL FEES</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">MISC FEES</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2</span><span style="font-weight:inherit;font-style:inherit">ND</span> <span style="font-weight:bold;font-style:inherit">TIER MISC FEES</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TOTAL</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Citizen</span><br><br><span style="font-weight:inherit;font-style:inherit">·      Malay Students</span><br><span style="font-weight:inherit;font-style:inherit">·      Non-Malay Students</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$0</span><br><span style="font-weight:inherit;font-style:inherit">$5.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$20.00</span><br><span style="font-weight:inherit;font-style:inherit">$25.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Permanent Residents</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$380.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$400.00</span></td>
+  </tr>
+</tbody>
+</table>
+
+4.  School fees for International Student are as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">FEES</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">ASEAN*</span></th>
+    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">Non-ASEAN</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">School Fees</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$780.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,450.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Misc Fees</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">2</span><span style="font-weight:inherit;font-style:inherit">nd</span> <span style="font-weight:bold;font-style:inherit">Tier Fees</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Total Fees</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$800.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,470.00</span></td>
+  </tr>
+</tbody>
+</table>
+
+_\*List of ASEAN countries: Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam and Brunei_
+
+5.  Students who are eligible for an Edusave Account can use it to pay the 2nd Tier Miscellaneous Fees, whether they are on GIRO or on cash payment. Students who wish to do so can obtain the application form from the General Office.
+6.  GIRO deductions are made monthly. If the deduction for a particular month is unsuccessful due to insufficient funds, the amount will be deducted together with next month’s fees. The monthly GIRO deduction will be carried out on the 26th of each month.
+7.  The GIRO account will be suspended if it fails in the following month or exceeds 2 months fees. Once the arrears are settled in cash/cheque, the GIRO account will be automatically re-instated.
+
+### APPLICATION FOR MOE-FINANCIAL ASSISTANCE SCHEME (MOE-FAS)
+
+The following financial assistance schemes are available to needy Singaporean students:
+
+1.  Financial Assistance by Ministry of Education
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv" colspan="2"><span style="font-weight:bold;font-style:inherit">Income Criteria</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income of</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">not exceeding $2,750 per month</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income of</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Per Capita Income not exceeding $690 per month</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Term</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Does include</span></th>
+    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Does not include</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Gross income of family members in the same household</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Gross income of family members who contribute to the income of the household</span><br><span style="font-weight:inherit;font-style:inherit">·         Include allowances e,g. overtime, claims</span><br><span style="font-weight:inherit;font-style:inherit">·         Include employee’s CPF contribution</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         National Service allowance earned by NS men</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Severance compensation and insurance payment</span><br><span style="font-weight:inherit;font-style:inherit">·         Alimony payment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Dependent Children</span></td>
+    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">·         Unmarried children below 16 years old</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Unmarried children over 16 years old and receiving full time education</span><br><span style="font-weight:inherit;font-style:inherit">·         Unmarried handicapped children</span></td>
+  </tr>
+</tbody>
+</table>
+
+For more details, please refer to:
+
+[MOE FAS Eligibility/Submission Checklist](https://www.moe.gov.sg/financial-matters/financial-assistance)
+
+### How to apply
+
+Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by either scanning the QR code or clicking on it:
+
+[  
+](https://go.gov.sg/moe-fas-greendale-sec-sch)
+
+<img src="/images/qr-code-go_go_sg-moe_fas_greendale_sec_sch.png" 
+     style="width:50%">
+
+
