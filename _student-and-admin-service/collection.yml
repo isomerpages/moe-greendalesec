@@ -2,9 +2,6 @@ collections:
   student-and-admin-service:
     output: true
     order:
-      - Quick Links/.keep
-      - Quick Links/For Staff.md
-      - Quick Links/Greendalery.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Class Timetable.md
@@ -18,5 +15,8 @@ collections:
       - Administration/Financial Assistance & Bursary.md
       - Administration/Admission & Transfer.md
       - Administration/Other Forms of Subsidy.md
+      - Quick Links/.keep
+      - Quick Links/For Staff.md
+      - Quick Links/Greendalery.md
       - Student Support.md
       - FAQs.md
