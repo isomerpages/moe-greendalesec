@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Assessment Policy.md
       - CCE/.keep
       - CCE/About Character & Citizenship Education.md
       - CCE/Sexuality Education.md
