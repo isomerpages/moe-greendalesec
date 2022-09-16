@@ -1,4 +1,5 @@
 collections:
   student-and-admin-service:
     output: true
-    order: []
+    order:
+      - For Students/.keep
