@@ -2,9 +2,9 @@ collections:
   student-and-admin-service:
     output: true
     order:
-      - Quick Links/Greendalery.md
-      - Quick Links/For Staff.md
       - Quick Links/.keep
+      - Quick Links/For Staff.md
+      - Quick Links/Greendalery.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Class Timetable.md
