@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - Industry Partners.md
       - For Parents/Pick Up & Drop Off Car Decal.md
       - For Parents/Parents Gateway.md
       - For Parents/Secondary 4 & 5.md
