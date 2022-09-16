@@ -2,6 +2,7 @@ collections:
   student-and-admin-service:
     output: true
     order:
+      - Student Support.md
       - Administration/.keep
       - Administration/General Info.md
       - Administration/Visitor Information.md
