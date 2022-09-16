@@ -17,3 +17,7 @@ third_nav_title: For Students
 * [Secondary 3 Express](/files/GDSS-S3-EXP.pdf)
 * [Secondary 3 Normal (Academic)](/files/GDSS-S3-NA.pdf)
 * [Secondary 3 Normal (Technical)](/files/GDSS-S3-NT.pdf)
+* [Secondary 4 Express](/files/GDSS-S4-EXP.pdf)
+* [Secondary 4 Normal (Academic)](/files/GDSS-S4-NA.pdf)
+* [Secondary 4 Normal (Technical)](/files/GDSS-S4-NT.pdf)
+* [Secondary 5 Normal (Academic)](/files/GDSS-S5NA.pdf)
