@@ -2,6 +2,7 @@ collections:
   student-and-admin-service:
     output: true
     order:
+      - For Students/4N Intensive Timetable.md
       - For Students/Booklists.md
       - For Students/Holiday Homework.md
       - For Students/Assessment Schedule.md
