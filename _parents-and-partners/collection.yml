@@ -2,6 +2,7 @@ collections:
   parents-and-partners:
     output: true
     order:
+      - For Parents/Secondary 4 & 5.md
       - For Parents/Secondary 3.md
       - For Parents/Secondary 2.md
       - For Parents/Secondary 1.md
