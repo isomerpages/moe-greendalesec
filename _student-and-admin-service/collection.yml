@@ -2,6 +2,7 @@ collections:
   student-and-admin-service:
     output: true
     order:
+      - Quick Links/.keep
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Class Timetable.md
