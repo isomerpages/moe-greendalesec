@@ -64,3 +64,61 @@ Blended Learning will be carried out for **_Secondary 1, 2 and 3_** in Semeste
   </tr>
 </thead>
 </table>
+
+**Example of a typical 4-hour curriculum coverage**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-qkk5{background-color:#FFF;color:#3A3A3A;font-style:italic;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qkk5" colspan="2"><span style="font-weight:inherit;font-style:italic">Class Mentor Check-in</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">English</span></td>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">40 minutes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">Math</span></td>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">40 minutes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">Science</span></td>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">40 minutes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">PE</span></td>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">40 minutes</span></td>
+  </tr>
+  <tr>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">Geography</span></td>
+    <td class="tg-qkk5"><span style="font-weight:inherit;font-style:italic">40 minutes</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-c5gh{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-4p8a"><img src="/images/gg.jpg" width="285" height="300"></td>
+    <td class="tg-c5gh"><span style="font-weight:bold;font-style:inherit">Student-Initiated Learning (SIL)</span><br><br><span style="font-weight:inherit;font-style:inherit">Student-initiated learning enables our Greendale students to exercise agency, explore their interests and passions, and learn within and beyond the curriculum.</span><br><br><span style="font-weight:inherit;font-style:inherit">In Greendale Secondary School, we believe learning should not be confined to the formal curriculum.</span><br><br><span style="font-weight:inherit;font-style:inherit">Through SIL, we aim to enable our students to</span> <span style="font-weight:inherit;font-style:italic">grow</span> <span style="font-weight:inherit;font-style:inherit">to be lifelong learners, critical thinkers and confident leaders, and to</span> <span style="font-weight:inherit;font-style:italic">glow</span> <span style="font-weight:inherit;font-style:inherit">in their journey of exploration.</span></td>
+  </tr>
+</thead>
+</table>
