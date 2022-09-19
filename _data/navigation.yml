@@ -1,8 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About
     collection: about
+  - title: Curriculum
+    url: /curriculum/instructional-programme/
+    sublinks:
+      - title: Co-Curricular Activities
+        url: /curriculum/co-curriculum/about-cc/
+      - title: CCE
+        url: /curriculum/character-citizenship-education/about-character-citizenship-education/
+      - title: Assessment Policy
+        url: /curriculum/assessment-policy/
+      - title: Homework Policy
+        url: /curriculum/homework-policy/
