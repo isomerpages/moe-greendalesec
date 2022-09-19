@@ -48,3 +48,21 @@ third_nav_title: Achievements
 		 
 <img src="/images/Jian-Hao-2012-4E3.jpeg" 
      style="width:60%">
+		 
+<img src="/images/Goh-2012-4A4.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Randy-2013-4E1.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Cha-2013-4E2.jpeg" 
+     style="width:60%">
+		
+<img src="/images/Eugene-2013-4E2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Chan-2013-4E2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Raihana-2013-4A1.jpeg" 
+     style="width:60%">
