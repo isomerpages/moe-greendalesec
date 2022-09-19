@@ -2,10 +2,10 @@ collections:
   about:
     output: true
     order:
-      - Achievements/Alumni Achievements.md
-      - Achievements/Students.md
-      - Achievements/Staff.md
       - Achievements/.keep
+      - Achievements/Staff.md
+      - Achievements/Students.md
+      - Achievements/Alumni Achievements.md
       - School Symbols.md
       - School History.md
       - School Advisory Committee.md
