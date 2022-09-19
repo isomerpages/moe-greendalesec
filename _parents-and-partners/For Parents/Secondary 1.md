@@ -21,6 +21,7 @@ third_nav_title: For Parents
 * [Consent Form](/files/Consent-Form-for-Secondary-1.pdf)
  _*Alternatively, please provide response via Parents Gateway (recommended)._
  
- ### Secondary 1 2020 Reporting Day
+ 
+### Secondary 1 2020 Reporting Day
  
  * [Briefing Slides](/files/2020-Sec-1-Reporting-Day-Main-Slides_updated-18-Dec-2019.pdf)
