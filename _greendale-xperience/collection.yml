@@ -2,6 +2,7 @@ collections:
   greendale-xperience:
     output: true
     order:
+      - "Direct School Admission/DSA : Leadership.md"
       - "Direct School Admission/DSA : Design, Technology & Engineering (DTE).md"
       - Direct School Admission/Direct School Admission.md
       - Direct School Admission/.keep
