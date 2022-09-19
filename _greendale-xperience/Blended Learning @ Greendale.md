@@ -122,3 +122,9 @@ Blended Learning will be carried out for **_Secondary 1, 2 and 3_** in Semeste
   </tr>
 </thead>
 </table>
+
+**SIL activities students can explore to _Grow_ and _Glow_ at Greendale Secondary School.**
+
+![](/images/bl-2.jpg)
+
+We would like to invite our parents to be part of this learning experience with your child. You can find out more on supporting your child during Blended Learning days below:
