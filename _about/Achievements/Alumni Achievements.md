@@ -84,3 +84,23 @@ third_nav_title: Achievements
 		 
 <img src="/images/RP_DipMerit_Class2014.jpeg" 
      style="width:60%">
+		 
+<img src="/images/Vivien-Chan-v2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Goh-KY-v2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Chermaine-Chua-v2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Quek-JH-v2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Slide7.jpeg" 
+     style="width:60%">
+		
+<img src="/images/Wong-YJ-v2.jpeg" 
+     style="width:60%">
+		 
+		 
