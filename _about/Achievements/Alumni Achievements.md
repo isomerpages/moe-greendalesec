@@ -21,3 +21,12 @@ third_nav_title: Achievements
 
 <img src="/images/Glenn-Ng-2010-4T1.jpeg" 
      style="width:60%">
+		 
+<img src="/images/alumni5.png" 
+     style="width:60%">
+		 
+<img src="/images/alumni6.png" 
+     style="width:60%">
+		 
+<img src="/images/Tan-Rou-Hui.jpeg" 
+     style="width:60%">
