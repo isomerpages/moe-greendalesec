@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Pick Up & Drop Off Car Decal.md
-      - For Parents/Parents Gateway.md
-      - For Parents/Secondary 4 & 5.md
-      - For Parents/Secondary 3.md
-      - For Parents/Secondary 2.md
-      - For Parents/Secondary 1.md
-      - For Parents/Termly Letters.md
       - For Parents/Parent Support.md
+      - For Parents/Termly Letters.md
+      - For Parents/Secondary 1.md
+      - For Parents/Secondary 2.md
+      - For Parents/Secondary 3.md
+      - For Parents/Secondary 4 & 5.md
+      - For Parents/Parents Gateway.md
+      - For Parents/Pick Up & Drop Off Car Decal.md
       - Industry Partners.md
       - Community Partners.md
       - Alumni.md
