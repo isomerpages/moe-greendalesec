@@ -30,3 +30,21 @@ third_nav_title: Achievements
 		 
 <img src="/images/Tan-Rou-Hui.jpeg" 
      style="width:60%">
+
+<img src="/images/alumni7.png" 
+     style="width:60%">
+
+<img src="/images/Benjamin-2012-4E2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/Jolene-2012-4E2.jpeg" 
+     style="width:60%">
+		 
+<img src="/images/alumni8.png" 
+     style="width:60%">
+		 
+<img src="/images/alumni9.png" 
+     style="width:60%">
+		 
+<img src="/images/Jian-Hao-2012-4E3.jpeg" 
+     style="width:60%">
