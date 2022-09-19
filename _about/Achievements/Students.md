@@ -531,3 +531,593 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
+
+# Achievements 2016
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x4kc{background-color:#EAEAEA;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-d1kj{background-color:#EAEAEA;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s283{background-color:#B0B0B0;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">DEPARTMENT</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">COMPETITION</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">AWARD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d1kj" rowspan="8"><span style="font-weight:bold;font-style:inherit">Science</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">International Competitions &amp; Assessments for Schools (ICAS), Science</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Distinction: 4 students</span><br><br><span style="font-weight:inherit;font-style:inherit">Credit: 34 students</span><br><span style="font-weight:inherit;font-style:inherit">Merit: 45 students</span><br><span style="font-weight:inherit;font-style:inherit">Participation: 274 students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Crystals Growing Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Champion in Junior Category</span><br><br><span style="font-weight:inherit;font-style:inherit">Celest Liow Xue Ting (2E2)</span><br><span style="font-weight:inherit;font-style:inherit">Yuki Chua Pei Qin (2E2)</span><br><span style="font-weight:inherit;font-style:inherit">Best display</span><br><span style="font-weight:inherit;font-style:inherit">Ernest Ng (2E1)</span><br><span style="font-weight:inherit;font-style:inherit">Lim Ying Xuan (2E1)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">NYP Astronomy Competition 2016</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">2nd "Most Creative Astronomy Prize"</span><br><br><span style="font-weight:inherit;font-style:inherit">Chin Chi Yan (4E1)</span><br><span style="font-weight:inherit;font-style:inherit">School Best Participant Prize (General category)</span><br><span style="font-weight:inherit;font-style:inherit">Masagos Ahmad Muijahid B M (4E1)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> NYP Science and Technology Competition (Amazon Treasure Hunt)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Second Runner- up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> NYP Sciene and Technology Competition (Most Innovative Awards - Wind Powered Racer</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Most Innovative Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Chemical-powered Car Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Second Runner-up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Science Challenge (NSC)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Entered second round</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">15th Elementz Science Project Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Commendation</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Chua Meng Tze (2E3)</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Elliot Feng Ruiyu (2E3)</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Liu Xuantao (2E3)</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Peter Enwei (2E3)</span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Tan Qing En (2E3)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="11"><span style="font-weight:bold;font-style:inherit">Design and Technology/Applied Learning Programme</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Shell Stem Challenge</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1st Runner-up</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Toy Design Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3 Merit Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">D&amp;T Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Creative Aesthetics Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Eco Challenge 2016</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3rd and 4th in the Global Rankings</span><br><br><span style="font-weight:inherit;font-style:inherit">3rd: Daryl Chuang Jia Wei (3A1)</span><br><span style="font-weight:inherit;font-style:inherit">4th: Lou Lek Yuan from (3A2)</span><br><span style="font-weight:inherit;font-style:inherit">Singapore 1st and 2nd</span><br><span style="font-weight:inherit;font-style:inherit">1st: Daryl Chuang Jia Wei (3A1)</span><br><span style="font-weight:inherit;font-style:inherit">2nd: Lou Lek Yuan (3A2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Chips@ School</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">2nd in Ranking</span><br><br><span style="font-weight:inherit;font-style:inherit">Seah Teh (2E2)</span><br><span style="font-weight:inherit;font-style:inherit">Galvin Seow (2E2)</span><br><span style="font-weight:inherit;font-style:inherit">Gladys Ong (2e2)</span><br><span style="font-weight:inherit;font-style:inherit">Li Mun Cheng (2E2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Young Engineers Award (Bronze)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YEA Bronze Award for qualifying Sec 1 students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Young Engineers Award (Silver)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YEA Silver Award for qualifying Sec 2 students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Young Engineers Award (Gold)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YEA Gold Award for qualifying Sec 3 students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Maker Faire  2016</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Awarded Blue Ribbon for good projects on display</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Innergy Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Commmendation Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SIAE Aviation Safety Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">Computer Applications (CPA)/ Elements of Business Skills (EBS)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ignite Skills Challenge</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3rd position: 3 students Participation: 24 students</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Media Computing Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Bronze award for the Animation Category</span><br><br><span style="font-weight:inherit;font-style:inherit">Certificate of Participation for the Game Category</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">Humanities Department</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">5th Inter-school History Challenge: War &amp; Diplomacy</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1st runner up team prize</span><br><br><span style="font-weight:inherit;font-style:inherit">Lim Zi Xuan Glenda (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Chen Xin Yu (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Nur Atiqah Bte Mohammad S (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Frois Damien Raphael (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Kessler Tan (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Nabil Rafael B Roslan (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Nicholas Lim (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Muhammad Shafiq B Jahiden (3E3)</span><br><span style="font-weight:inherit;font-style:inherit">Teo Shao En, Wright (4E4)</span><br><span style="font-weight:inherit;font-style:inherit">Chng Natasha (4E5)</span><br><span style="font-weight:inherit;font-style:inherit">4th individual</span><br><span style="font-weight:inherit;font-style:inherit">Teo Shao En, Wright (4E4)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">NUS Geography Challenge</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Mother Tongue Department</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Bahas Akademia 4PM- Nasional (National Debate Competition by 4PM)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Quarter Final</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">Mathematics</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">NUS Statistics Poster Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certification of Participation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">A.MAZE Accounting Challenge at Ngee Ann Polytechnic.</span></td>
+    <td class="tg-x4kc"><span style="font-weight:bold;font-style:inherit;text-decoration:underline;background-color:#EAEAEA">Certificate of Participation</span><br><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Darrell Tan Hong Jun (5A1) </span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Chng Zhe Xun (5A1) </span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Celine Cho Yu Ling (4E4) </span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Kuah Jun Yang Darius (4E4) </span><br><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Axel Wong Jing Zhi (4E4)</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x4kc{background-color:#EAEAEA;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-d1kj{background-color:#EAEAEA;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s283{background-color:#B0B0B0;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">CCA</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">COMPETITION</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">ACHIEVEMENT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">National Cadet Corps</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Best Unit Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2015)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Outstanding Cadet Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ryan Lim Chi Huang (4E1)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">National Police Cadet Corps</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2015)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="6"><span style="font-weight:bold;font-style:inherit">Red Cross Youth</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Excellence Unit Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2010 - 2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Heartfelt Competition: Challenge Shield</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Ambassador of Blood Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Merit Awards (Top 5)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Trailblazers Championship</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award and Community Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Community Service Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">First Aid Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Junior Category: Gold</span><br><br><span style="font-weight:inherit;font-style:inherit">Senior Category: Commendation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="4"><span style="font-weight:bold;font-style:inherit">Fencing</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Inter School Fencing Championships</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Silver for Individual</span><br><br><span style="font-weight:inherit;font-style:inherit">Rosamond Ng Yu Ting (4E3)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Minime Fencing Championship 2016</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Under-14 Team Girls Sabre - Bronze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Novices Fencing Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Team Bronze for Girls Sabre Team Bronze for Boys Sabre Individual Silver for Boys Sabre</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> National Colours Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Rosamond Ng Yu Ting (4E3)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">ODAC</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Garang Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Adventure Race</span><br><br><span style="font-weight:inherit;font-style:inherit">Team 1st, 3rd, 5th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Orienteering Map Race</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Silver in B Div Girls</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">Sailing</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">International Dinghy Competition in Thailand</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4th - Lucius Chan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Youth Olympic Games 2018</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Youth Training Squad for Youth Olympic Games 2018</span><br><br><span style="font-weight:inherit;font-style:inherit">Lucius Chan, Bryan Ngu (graduated 2016)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit"> </span><br><br><span style="font-weight:bold;font-style:inherit">Robotics Club </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">World Robot Games</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Autonomous SUMO Competition</span><br><br><span style="font-weight:inherit;font-style:inherit">Team Gold, Silver, Bronze</span><br><span style="font-weight:inherit;font-style:inherit">Royal Rumble - 2 Performance Awards</span><br><span style="font-weight:inherit;font-style:inherit">Line Tracing - 2 Performance Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Toy Design Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3 Merit Awards</span><br><br><span style="font-weight:inherit;font-style:inherit">Team 1:</span><br><span style="font-weight:inherit;font-style:inherit">Tiang Ziling,Janesse 1E2</span><br><span style="font-weight:inherit;font-style:inherit">Yeoh Xue Min,Shermaine 1E4</span><br><span style="font-weight:inherit;font-style:inherit">Team 2 :</span><br><span style="font-weight:inherit;font-style:inherit">Lee Ming Xuan 1E3</span><br><span style="font-weight:inherit;font-style:inherit">Lee Wen Kai, Javier 1E3</span><br><span style="font-weight:inherit;font-style:inherit">Team 3 :</span><br><span style="font-weight:inherit;font-style:inherit">Maxwell Timothy Ebora Gulco 1E2</span><br><span style="font-weight:inherit;font-style:inherit">Jedd Laurence Buena Palattao 1E2</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Football </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">T-Net Northeast Friendship Tournament</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">C Div 1st, B Div 2nd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> </span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:bold;font-style:inherit">Angklung Ensemble</span><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Public Performance at Punggol CC for CNY</span></td>
+    <td class="tg-x4kc"></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Modern Dance</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Performance at Punggol Parade</span></td>
+    <td class="tg-x4kc"></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Choir </span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Voices of Singapore Festival</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Participated in a performance in CHIJMES</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Cross Country </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Cross Country Championships</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Individual 18th - John Wee 2E4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="3"><span style="font-weight:bold;font-style:inherit">Art Club</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Singapore Youth Festival Art Exhibition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Recognition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Recycling Art Competition 2016' organised by Resorts World Sentosa and Woodgrove Secondary School</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">2 Team of Finalists</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">NDP Interclass Art Competition 2016</span></td>
+    <td class="tg-x4kc"></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> </span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:bold;font-style:inherit">Library</span><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Scrabble Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Participation</span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x4kc{background-color:#EAEAEA;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-d1kj{background-color:#EAEAEA;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s283{background-color:#B0B0B0;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">CCA</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">COMPETITION</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">ACHIEVEMENT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">National Cadet Corps</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Best Unit Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2015)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Outstanding Cadet Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ryan Lim Chi Huang (4E1)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">National Police Cadet Corps</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Unit Overall Proficiency Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2015)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="6"><span style="font-weight:bold;font-style:inherit">Red Cross Youth</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Excellence Unit Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2010 - 2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Heartfelt Competition: Challenge Shield</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Champion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Ambassador of Blood Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Merit Awards (Top 5)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> Trailblazers Championship</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award and Community Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Community Service Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">First Aid Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Junior Category: Gold</span><br><br><span style="font-weight:inherit;font-style:inherit">Senior Category: Commendation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="4"><span style="font-weight:bold;font-style:inherit">Fencing</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Inter School Fencing Championships</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Silver for Individual</span><br><br><span style="font-weight:inherit;font-style:inherit">Rosamond Ng Yu Ting (4E3)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Minime Fencing Championship 2016</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Under-14 Team Girls Sabre - Bronze</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Novices Fencing Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Team Bronze for Girls Sabre Team Bronze for Boys Sabre Individual Silver for Boys Sabre</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> National Colours Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Rosamond Ng Yu Ting (4E3)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">ODAC</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Garang Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Adventure Race</span><br><br><span style="font-weight:inherit;font-style:inherit">Team 1st, 3rd, 5th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Orienteering Map Race</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Silver in B Div Girls</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">Sailing</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">International Dinghy Competition in Thailand</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4th - Lucius Chan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Youth Olympic Games 2018</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Youth Training Squad for Youth Olympic Games 2018</span><br><br><span style="font-weight:inherit;font-style:inherit">Lucius Chan, Bryan Ngu (graduated 2016)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit"> </span><br><br><span style="font-weight:bold;font-style:inherit">Robotics Club </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">World Robot Games</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Autonomous SUMO Competition</span><br><br><span style="font-weight:inherit;font-style:inherit">Team Gold, Silver, Bronze</span><br><span style="font-weight:inherit;font-style:inherit">Royal Rumble - 2 Performance Awards</span><br><span style="font-weight:inherit;font-style:inherit">Line Tracing - 2 Performance Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Toy Design Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3 Merit Awards</span><br><br><span style="font-weight:inherit;font-style:inherit">Team 1:</span><br><span style="font-weight:inherit;font-style:inherit">Tiang Ziling,Janesse 1E2</span><br><span style="font-weight:inherit;font-style:inherit">Yeoh Xue Min,Shermaine 1E4</span><br><span style="font-weight:inherit;font-style:inherit">Team 2 :</span><br><span style="font-weight:inherit;font-style:inherit">Lee Ming Xuan 1E3</span><br><span style="font-weight:inherit;font-style:inherit">Lee Wen Kai, Javier 1E3</span><br><span style="font-weight:inherit;font-style:inherit">Team 3 :</span><br><span style="font-weight:inherit;font-style:inherit">Maxwell Timothy Ebora Gulco 1E2</span><br><span style="font-weight:inherit;font-style:inherit">Jedd Laurence Buena Palattao 1E2</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Football </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">T-Net Northeast Friendship Tournament</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">C Div 1st, B Div 2nd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA"> </span><br><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:bold;font-style:inherit">Angklung Ensemble</span><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Public Performance at Punggol CC for CNY</span></td>
+    <td class="tg-x4kc"></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Modern Dance</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Performance at Punggol Parade</span></td>
+    <td class="tg-x4kc"></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Choir </span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Voices of Singapore Festival</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Participated in a performance in CHIJMES</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Cross Country </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Cross Country Championships</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Individual 18th - John Wee 2E4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="3"><span style="font-weight:bold;font-style:inherit">Art Club</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Singapore Youth Festival Art Exhibition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Recognition</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Recycling Art Competition 2016' organised by Resorts World Sentosa and Woodgrove Secondary School</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">2 Team of Finalists</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">NDP Interclass Art Competition 2016</span></td>
+    <td class="tg-x4kc"></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit"> </span><span style="font-weight:bold;font-style:inherit">Library </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Scrabble Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Participation</span></td>
+  </tr>
+</tbody>
+</table>
+
+# Achievements 2015
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d1kj{background-color:#EAEAEA;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-d8zo{background-color:#EAEAEA;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-s283{background-color:#B0B0B0;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s283"><span style="font-weight:700">DEPARTMENT</span></th>
+    <th class="tg-s283"><span style="font-weight:700">COMPETITION</span></th>
+    <th class="tg-s283"><span style="font-weight:700">AWARD</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:700">Science</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Chemical-powered Car Competition</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Champion:</span><br><span style="font-weight:inherit;font-style:inherit">1) Avia Lee Peng (3E4)</span><br><span style="font-weight:inherit;font-style:inherit">2) Xavier Sin Jun Ming (3E4)</span><br><span style="font-weight:inherit;font-style:inherit">3) Nurin Firzanah (3E4)</span><br><span style="font-weight:inherit;font-style:inherit">4) Augustine Wong Wei Tao (3E5)</span><br><span style="font-weight:inherit;font-style:inherit">5) Chu Bo Jun (3E5)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Science &amp; Technology Challenge</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Champion:</span><br><span style="font-weight:inherit;font-style:inherit">1) Nurazahani Bte Abdul Razak (3T1)</span><br><span style="font-weight:inherit;font-style:inherit">2) Siah Wee Leng (3T1)</span><br><span style="font-weight:inherit;font-style:inherit">3) Muhamad Danial Bin Johan K (3T1)</span><br><span style="font-weight:inherit;font-style:inherit">4) Tay Yeow Siang (3T1)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="4"><span style="font-weight:700">Design &amp; Technology</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Young Engineers Award</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Bronze: Sec 1 Level Wide</span><br><span style="font-weight:inherit;font-style:inherit">Silver: Sec 2 Level Wide</span><br><span style="font-weight:inherit;font-style:inherit">Gold: 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Shell Stem Innovation Challenge</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Top 3 East Zone Team</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Toy Design Competition</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">2nd prize and Merit prize</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Singapore Productivity Association (SPA) IQC Assessment 2015</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Bronze Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:700">Student Leadership</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">The Leadership Faceoff Challenge</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Certificate of Participation:</span><br><span style="font-weight:inherit;font-style:inherit">1) Joey Ong - 3E1</span><br><span style="font-weight:inherit;font-style:inherit">2) Mindy Ho - 3E1</span><br><span style="font-weight:inherit;font-style:inherit">3) Fong Wan Qing - 3E1</span><br><span style="font-weight:inherit;font-style:inherit">4) Izzah Arina - 3E3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:700">Humanities</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">NUS Geography Challenge 2015</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Individual</span><br><span style="font-weight:inherit;font-style:inherit">1) Liew Weng Yi - 4E1 (Silver Award)</span><br><span style="font-weight:inherit;font-style:inherit">2) Andrew Chew - 4E1 (Bronze Award)</span><br><span style="font-weight:inherit;font-style:inherit">3) Merugu Rohan Reddy - 4E1 (Participation)</span><br><span style="font-weight:inherit;font-style:inherit">4) Chua Wen Hsi - 4E1 (Participation)</span><br><span style="font-weight:inherit;font-style:inherit"> </span><br><span style="font-weight:inherit;font-style:inherit">Team: Semi-finals (Top 40)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:700">Mathematics</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">Singapore Math Kangaroo Contest</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">2E3 Hei Hao- Gold award</span><br><span style="font-weight:inherit;font-style:inherit">2E3 Wang Manxi- Gold award</span><br><span style="font-weight:inherit;font-style:inherit">2E3 Wang Haiyi- Bronze award</span><br><span style="font-weight:inherit;font-style:inherit">2E1 Lee Huilin- Bronze award</span><br><span style="font-weight:inherit;font-style:inherit">2E1 Fanny Xueqi- Bronze award  </span></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x4kc{background-color:#EAEAEA;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-d1kj{background-color:#EAEAEA;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-s283{background-color:#B0B0B0;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">CCA</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">COMPETITION</span></th>
+    <th class="tg-s283"><span style="font-weight:bold;font-style:inherit">ACHIEVEMENT</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Greendale Orchestra</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SYF 2015 Arts Presentation for Chinese Orchestra</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Movement and Dance</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SYF 2015 Arts Presentation for Dance (International)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Greendale Chorale</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SYF 2015 Arts Presentation for Choir</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Angklung</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SYF 2015 Arts Presentation for Instrumental Ensemble (Angklung)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Theatricks!</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SYF 2015 Arts Presentation for Drama (English)</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">National Cadet Corps</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Best Unit Competition</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2014)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">National Police Cadet Corps</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Unit Overall Proficiency Award</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2014)</span><br><br><span style="font-weight:inherit;font-style:inherit"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">Red Cross Youth</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Excellent Unit Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2010 - 2014)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Community Service Award</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Gold Award (2009 - 2014)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Football</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">T-Net Northeast Friendship Challenge</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">B Div and C Div Winners</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Canoeing</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National Inter School Canoeing Championhips 2015</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Finalist in C girls K2 event</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Floorball</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">U Sports 3v3 Floorball Faceoff</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Champion - U15 Boys</span><br><br><span style="font-weight:inherit;font-style:inherit">First Runner-up - U15 Girls</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj" rowspan="2"><span style="font-weight:bold;font-style:inherit">ODAC</span><br><br><span style="font-weight:bold;font-style:inherit"> </span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">GARANG 2015</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">"GeCKo Competition</span><br><br><span style="font-weight:inherit;font-style:inherit">1st - C Div Girls</span><br><span style="font-weight:inherit;font-style:inherit">1st - B Div Girls</span><br><span style="font-weight:inherit;font-style:inherit">3rd - B Div Boys"</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Orienteering Map Race</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3rd - U14 Category</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d1kj"><span style="font-weight:bold;font-style:inherit">Sec 2 students</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">National C Division Handball Competition 2015</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">2nd Runners Up</span></td>
+  </tr>
+</tbody>
+</table>
