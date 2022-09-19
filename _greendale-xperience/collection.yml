@@ -2,12 +2,12 @@ collections:
   greendale-xperience:
     output: true
     order:
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Student Leadership.md
+      - Talent Development.md
+      - Direct School Admission/.keep
       - "Direct School Admission/DSA : Outdoor  Adventure.md"
       - "Direct School Admission/DSA : Leadership.md"
       - "Direct School Admission/DSA : Design, Technology & Engineering (DTE).md"
       - Direct School Admission/Direct School Admission.md
-      - Direct School Admission/.keep
-      - Talent Development.md
-      - Student Leadership.md
-      - Learning for Life Programme.md
-      - Applied Learning Programme.md
