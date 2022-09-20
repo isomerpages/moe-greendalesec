@@ -2,8 +2,6 @@ collections:
   greendale-xperience:
     output: true
     order:
-      - Blended Learning @ Greendale.md
-      - National Digital Literacy Programme.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Student Leadership.md
@@ -13,3 +11,5 @@ collections:
       - "Direct School Admission/DSA : Leadership.md"
       - "Direct School Admission/DSA : Design, Technology & Engineering (DTE).md"
       - Direct School Admission/Direct School Admission.md
+      - National Digital Literacy Programme.md
+      - Blended Learning @ Greendale.md
