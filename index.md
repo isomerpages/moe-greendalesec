@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Greendale Secondary School
+      title: Greendale
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Click here for yearbook 2022
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -21,6 +21,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      subtitle: Our Home . Our Pride
   - infobar:
       title: Infobar title
       subtitle: Subtitle
