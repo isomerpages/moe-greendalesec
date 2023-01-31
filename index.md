@@ -12,15 +12,12 @@ sections:
       button: Click here for yearbook 2022
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: 2023 Class Test 1 Schedule
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: News & Events
+          description: Yearbook 2022
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
       subtitle: Our Home . Our Pride
   - infobar:
       title: Infobar title
