@@ -3,7 +3,7 @@ url: https://greendalesec.moe.edu.sg
 favicon: /images/cropped-01-Official-Sch-Logo-Transparent-Background.png
 colors:
   primary-color: "#15713f"
-  secondary-color: "#ff5507"
+  secondary-color: "#15713f"
   media-colors:
     - title: media-color-one
       color: "#49759a"
