@@ -12,11 +12,11 @@ sections:
       button: Click here for yearbook 2022
       url: /contact-us/
       key_highlights:
-        - title: Announcements
-          description: 2023 Class Test 1 Schedule
+        - title: 2023 Class Test 1 Schedule
+          description: Click here to download it
           url: https://google.com
-        - title: News & Events
-          description: Yearbook 2022
+        - title: Class Timetables 2023
+          description: Click here to download it
           url: https://gmail.com
       subtitle: Our Home . Our Pride
   - infobar:
