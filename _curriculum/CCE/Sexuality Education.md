@@ -158,7 +158,7 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-nzmi" rowspan="3"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1A (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.</span><br><span style="font-weight:inherit;font-style:inherit">Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.</span><br><span style="font-weight:inherit;font-style:inherit">Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 6</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 1 Week 5</span></td>
   </tr>
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1B (60 mins)</span></td>
@@ -168,7 +168,7 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2 (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</span><br><span style="font-weight:inherit;font-style:inherit">Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 2 Week 7</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 2 Week 4</span></td>
   </tr>
 </tbody>
 </table>
@@ -201,22 +201,22 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-nzmi" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1 (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</span><br><span style="font-weight:inherit;font-style:inherit">·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 2</span></td>
   </tr>
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2 (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 4</span></td>
   </tr>
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">3 (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</span><br><span style="font-weight:inherit;font-style:inherit">·         Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 8</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 4</span></td>
   </tr>
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">4 (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 8</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 5</span></td>
   </tr>
 </tbody>
 </table>
@@ -250,7 +250,7 @@ b. Character and Citizenship Education (CCE)
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Respectful Relationships &amp; Safety</span></td>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">1 (60 mins)</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</span><br><span style="font-weight:inherit;font-style:inherit">·         Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 6</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Term 3 Week 3</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -290,7 +290,7 @@ b. Character and Citizenship Education (CCE)
   <tr>
     <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mass Talk by HPB appointed vendor</span></td>
     <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">· Awareness of the different STIs and HIV/AIDS</span><br><br><span style="font-weight:inherit;font-style:inherit">· Modes of transmission</span><br><span style="font-weight:inherit;font-style:inherit">· Modes of protection, specifically on how the condom is used</span><br><span style="font-weight:inherit;font-style:inherit">· Consequences and impact of STIs/HIV</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Term 2 Week 8</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Term 2 Week 7</span></td>
   </tr>
 </tbody>
 </table>
