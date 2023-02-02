@@ -40,7 +40,7 @@ The Creative Writing Competition aims to provide a platform for students to mast
 
 All Secondary 1 Chinese students will be participating in the Chinese Cultural Camp, where they sign up for  cultural related workshops such as making of mooncakes, Chinese chess, Chinese fan painting and Wushu based on their interest and preference.
 
-![](/images/MT3.png)
+![](/images/MT3.png)<br>
 ![](/images/MT4.png)
 <img src="/images/mtlsw-7.jpg" 
      style="width:50%">
