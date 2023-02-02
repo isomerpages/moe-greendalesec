@@ -65,6 +65,10 @@ third_nav_title: Greendale Family
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Adeline Liew</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">HOD / Character &amp; Citizenship Education</span></td>
     <td class="tg-kytw"><a href="mailto:liew_xue_ting_adeline@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">liew_xue_ting_adeline@moe.edu.sg</span></a></td>
+  </tr>  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Sharifah Firhana</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">HOD / English</span></td>
+    <td class="tg-kytw"><a href="mailto:alsagoff_sharifah_firhana_anwar@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">alsagoff_sharifah_firhana_anwar@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Chang Man Ho</span></td>
@@ -127,9 +131,9 @@ third_nav_title: Greendale Family
 </thead>
 <tbody>
   <tr>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Sharifah Firhana</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Siti Haryani</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / English</span></td>
-    <td class="tg-kytw"><a href="mailto:alsagoff_sharifah_firhana_anwar@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">alsagoff_sharifah_firhana_anwar@moe.edu.sg</span></a></td>
+    <td class="tg-kytw"><a href="mailto:siti_haryani_ramlan@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">siti_haryani_ramlan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Goh Cheng Hian</span></td>
