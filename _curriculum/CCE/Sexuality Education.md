@@ -42,7 +42,7 @@ b. Character and Citizenship Education (CCE)
 
 7. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Greendale Secondary School, the following Sexuality Education lessons will be taught in 2022:**
+**At Greendale Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
