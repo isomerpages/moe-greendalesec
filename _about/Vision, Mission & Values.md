@@ -26,6 +26,11 @@ The metaphor illustrates a young plant deeply rooted to ground, nurtured and cha
 ![](/images/Learner-2.jpg)
 ![](/images/Learner-3.jpg)
 
+![](/images/thinker.png)
+![](/images/thinker-1.jpg)
+![](/images/thinker-2.jpg)
+![](/images/thinker-3.jpg)
+
 ![](/images/leader.png)
 ![](/images/Leader-1.jpg)
 ![](/images/Leader-2.jpg)
