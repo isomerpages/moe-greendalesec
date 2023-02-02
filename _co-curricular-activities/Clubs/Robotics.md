@@ -41,5 +41,5 @@ Above all, we firmly believe in nurturing our students’ resilience, self-disci
 4.  Drone Odyssey Challenge 2019 – 4th, 6th and 10th position
 5.  Toy Design Competition 2019 – Autodesk Inventor + Autodesk Fusion Space Exploration Design Category – 1 Merit award, 1 Commendation Awards
 
-![](/images/dnt2.png)
+![](/images/dnt2.png)<br>
 ![](/images/dnt4-679x1024.png)
