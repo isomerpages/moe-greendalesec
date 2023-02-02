@@ -299,9 +299,9 @@ b. Character and Citizenship Education (CCE)
 
 10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents through Parents’ Gateway at the start of the year and is also downloadable [here](/files/Annex-A-Opt-out-form-for-Sexuality-Education.pdf). The completed form is to be submitted by 31/1/2022.
+11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents through Parents’ Gateway at the start of the year and is also downloadable [here](/files/Annex-A-Opt-out-form-for-Sexuality-Education.pdf). The completed form is to be submitted by 31/1/2023.
 
-12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B-Opt-out-form-for-e-teens.pdf). The completed form is to be submitted by 31/1/2022.
+12.      Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex-B-Opt-out-form-for-e-teens.pdf). The completed form is to be submitted by 31/1/2023.
 
 13.      Parents can contact the school at [greendale\_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
