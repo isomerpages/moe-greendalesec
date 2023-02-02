@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Greendale
-      background: /images/hero-banner.png
+      background: /images/20220517_092823.jpg
       button: Click here for yearbook 2022
       url: /contact-us/
       subtitle: Our Home . Our Pride
