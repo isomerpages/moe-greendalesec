@@ -208,7 +208,7 @@ third_nav_title: Greendale Family
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-t0cp" colspan="3"><span style="font-weight:inherit;font-style:inherit;color:#FFF">Secondary 3 (2022)</span></th>
+    <th class="tg-t0cp" colspan="3"><span style="font-weight:inherit;font-style:inherit;color:#FFF">Secondary 3 (2023)</span></th>
   </tr>
 </thead>
 <tbody>
