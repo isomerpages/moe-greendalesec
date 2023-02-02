@@ -3,8 +3,7 @@ title: School Leaders' Message
 permalink: /about/school-leaders-message/
 description: ""
 ---
-
-<img src="/images/principal.jpeg" style="width:75%">
+<img src="/images/20220517_091525-2048x1366.jpg" style="width:75%">
 
 As 2022 draws to a close, we give thanks to our Greendale family, our partners and all who have been a part of our journey. This year, the new leadership team has had time to settle in, take stock, and reflect on the key areas moving forward. We honour the work done by the previous leadership, having guided Greendale to be the school that it is today – boasting a vibrant student population, strong staff culture, and rigorous school programmes.
 
