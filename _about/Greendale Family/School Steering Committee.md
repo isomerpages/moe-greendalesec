@@ -152,7 +152,7 @@ third_nav_title: Greendale Family
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr William Teng</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Lower Secondary Science</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Science (Lower Sec)</span></td>
     <td class="tg-kytw"><a href="mailto:teng_ming_kiat_william@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">teng_ming_kiat_william@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -167,18 +167,26 @@ third_nav_title: Greendale Family
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Mohd Shahmir</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / National Education</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Character & Citizenship Education</span></td>
     <td class="tg-kytw"><a href="mailto:mohamed_shahmir_anwar@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">mohamed_shahmir_anwar@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Jason Lian</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Normal Stream</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Education Support</span></td>
     <td class="tg-kytw"><a href="mailto:lian_kok_yeow@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">lian_kok_yeow@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mrs Chia Hui Hong</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Info-Comm Technology</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Curriculum & Innovation</span></td>
     <td class="tg-kytw"><a href="mailto:tan_hui_hong@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">tan_hui_hong@moe.edu.sg</span></a></td>
+  </tr><tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Sarah Lee</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Mathematics</span></td>
+    <td class="tg-kytw"><a href="mailto:sarah_lee_su-yi@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">sarah_lee_su-yi@moe.edu.sg</span></a></td>
+  </tr><tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Harold Ho</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">SH / Physical Education</span></td>
+    <td class="tg-kytw"><a href="mailto:tan_hui_hong@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">ho_eng_cheong_harold@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -201,24 +209,24 @@ third_nav_title: Greendale Family
 </thead>
 <tbody>
   <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Paige Koh</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Assistant YH / Secondary 1</span></td>
+    <td class="tg-kytw"><a href="mailto:koh_pin_lang@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">koh_pin_lang@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Miss Tng Wee Li</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YH / Secondary 1 &amp; Overall I/C</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YH (Lower Sec) / Secondary 2</span></td>
     <td class="tg-kytw"><a href="mailto:tng_wee_li@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">tng_wee_li@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Su Yan Xing</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YH / Secondary 2</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Assistant YH / Secondary 3</span></td>
     <td class="tg-kytw"><a href="mailto:su_yan_xing@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">su_yan_xing@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Miss Kerry Lim</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YH / Secondary 3 &amp; Second I/C</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YH (Upper Sec) / Secondary 4 &amp; 5</span></td>
     <td class="tg-kytw"><a href="mailto:lim_kerry@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">lim_kerry@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Gloria Wong</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">YH / Secondary 4 &amp; 5</span></td>
-    <td class="tg-kytw"><a href="mailto:wong_li_ting_gloria@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">wong_li_ting_gloria@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
