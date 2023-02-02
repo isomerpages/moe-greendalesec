@@ -127,4 +127,4 @@ Blended Learning will be carried out for **_all levels_** in Semester One, wit
 
 ![](/images/bl-2.jpg)
 
-We would like to invite our parents to be part of this learning experience with your child. You can find out more on supporting your child during Blended Learning days below:
+We would like to invite our parents to be part of this learning experience with your child. You can find out more on supporting your child during Blended Learning days [here](/files/Annex-B-Opt-out-form-for-e-teens.pdf).
