@@ -76,7 +76,7 @@ programme designed to increase students’ understanding of the skills needed in
 
 Our ECG Counsellor, Ms Adeline Ng, supports students (individually or in small groups) by exploring their interests and strengths, and addressing their concerns or questions about education options and career exploration. Students may make an appointment with her through the following means, or ask her questions online.
 
-* Online booking form: [http://go.gov.sg/gdlssecg](http://www.tinyurl.com/gdlssecgappt)
+* Online booking form: [http://go.gov.sg/gdlssecg](https://www.booking.gov.sg/public/services/D36YEo6y/availability?spId=Gevzgoeo&anonymous=true)
 
 * Email: [ng_ling_ling_adeline@schools.gov.sg](mailto:ng_ling_ling_adeline@schools.gov.sg)
 
