@@ -18,7 +18,7 @@ third_nav_title: For Parents
 * [Term 1 (Sec 2-5)](/files/2021_01-Term-Information-Sheet_4-Jan-2021_updated-2-Jan-2021-1.pdf)
 * [Term 2](/files/2021-02-Termly-Information-Sheet-with-EAP-Schedule-1.pdf)
 * [Resumption of Term 3](/files/Resumption-of-School-for-Term-3.pdf)
-* Term 3
+* [Term 3]
 * [End of Term 3 Updates](/files/End-of-Term-3-Updates.pdf)
 * [Term 4](/files/2021-Termly-Information-Sheet_05-2021-1.pdf)
 * [End of Year Updates](/files/2021-End-of-Year-Information-Sheet_06-2021.pdf)
