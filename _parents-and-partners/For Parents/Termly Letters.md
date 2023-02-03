@@ -11,6 +11,8 @@ third_nav_title: For Parents
 * [Term 2](/files/2022_02-Term-Information-Sheet_18-Mar-2022-final.pdf) / [Annex](/files/T2-Annex-A-2022-EAP-Schedule-1_final.pdf)
 * [End of Sem 1 Updates](/files/2022_03-End-of-Sem-1-Information-Sheet_23-May.pdf)
 * [Term 3](/files/2022_04-Term-3-Information-Sheet_23-June_Final.pdf)
+* [Term 4](/files/2022-Termly-Information-Sheet_05-2022-updated-12-Sep-FINAL_amended.pdf)
+* [End of Year Updates](/files/2022-End-of-Year-Information-Sheet_06-2022_28-October-2022-Final.pdf)
 
 ### 2021
 
