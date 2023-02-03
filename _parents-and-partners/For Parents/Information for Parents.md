@@ -9,7 +9,7 @@ third_nav_title: For Parents
 Click here to download!
 
 **The Straits Times School Pocket Money Fund 2023 - For Sec 1 Students**
-<br>*Closing Date**: 14 Feb 2023 (Tuesday)*
+<br>_Closing Date: 14 Feb 2023 (Tuesday)_
 
 [Application Form](Annex-A-2023-STSPMF-Application-Form-for-schools-REVISED-2023-Cycle-2.pdf) / [Income Declaration Form](Annex-B-Income-declaration-form_2023-REVISED-2023-Cycle-2.pdf)
 
