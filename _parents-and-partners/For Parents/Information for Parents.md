@@ -15,7 +15,7 @@ Application Form / Income Declaration Form
 
 **Group Personal Accident (GPA) Insurance Matters (For All Students)**
 
-* Product Sheet
+* [Product Sheet](/files/2020-Final-Term-Letter.pdf)
 * [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/#/dashboard)
 * [User Guide](https://greendalesec.moe.edu.sg/wp-content/uploads/2022/09/StudentGPAUserGuide-Parent.pdf) _(For Student GPA Claims Portal)_
 
