@@ -6,7 +6,8 @@ third_nav_title: For Parents
 ---
 ### 2023
 
-
+* [Term 1 (Sec 1)](/files/2023_01-Term-Information-Sheet_3-Jan-2023_S1.pdf)
+* [Term 1 (Sec 2-5)](/files/2023_01-Term-Information-Sheet_3-Jan-2023_S2-S5.pdf)
 
 ### 2022
 
