@@ -21,7 +21,7 @@ Click here to download!
 
 **School Transport Subsidy Scheme (By North East CDC)**
 
-EDM / [Application Form](https://go.gov.sg/neasrf)
+[EDM](/files/School-Transport-Subsidy-Scheme-EDM.pdf) / [Application Form](https://go.gov.sg/neasrf)
 
 **Termly Letters**
 
