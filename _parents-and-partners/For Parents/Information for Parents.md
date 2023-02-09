@@ -41,7 +41,7 @@ Please click [here](/student-admin-services/students/holiday-homework/)
 
 **Booklists**
 
-Please click here
+Please click [here](/student-admin-services/students/booklists/)
 
 **Financial Assistance & Bursary**
 
