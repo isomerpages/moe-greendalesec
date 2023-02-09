@@ -29,7 +29,7 @@ Please click [here](/parents-partners/parent-support/parent-engagement/notificat
 
 **Class Timetable**
 
-Please click here
+Please click [here](/student-admin-services/students/class-timetable/)
 
 **Assessment Schedule**
 
