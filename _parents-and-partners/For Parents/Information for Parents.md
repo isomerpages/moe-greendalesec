@@ -45,7 +45,7 @@ Please click here
 
 **Financial Assistance & Bursary**
 
-Please click here
+Please click [here](/student-admin-services/administration/financial-assistance-bursary/)
 
 **Other Forms of Subsidy**
 
