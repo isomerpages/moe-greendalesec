@@ -25,6 +25,3 @@ In view that all secondary school students will own a PLD under MOE’s Digital 
 Since 8 Apr 2021, IMDA has worked with our partners to provide additional support under the NPP programme for families with school-going children during the Covid-19 situation. In view that the primary school students are not vaccinated yet, we take a more cautious approach and will _waive the community service requirement for iNSPIRE Fund till 31 Mar 2022_.
 
 For any enquiries on NPP programme, please visit [www.imda.gov.sg/neupc](https://www.imda.gov.sg/neupc) or contact IMDA at Tel: 6377 3800 or email [neupc@imda.gov.sg](mailto:neupc@imda.gov.sg) for any clarification.
-
-
-
