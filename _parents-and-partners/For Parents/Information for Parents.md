@@ -57,8 +57,8 @@ Please click [here](/student-admin-services/administration/other-forms-of-subsid
 
 **School Health Advisor Programme**
 
-* Parent's Letter / Opt-out Form
-* FAQ
+* [Parent's Letter / Opt-out Form](/files/SHA-Parents-Letter_Opt-Out-Form-2019.pdf)
+* [FAQ](/files/SHA-FAQ.pdf)
 
 **School Guidelines on Use of WhatsApp Group Chat**
 
