@@ -25,7 +25,7 @@ Click here to download!
 
 **Termly Letters**
 
-Please click here
+Please click [here](/parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/)
 
 **Class Timetable**
 
