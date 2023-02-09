@@ -122,11 +122,11 @@ The following financial assistance schemes are available to needy Singaporean st
 <tbody>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income of</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">not exceeding $2,750 per month</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">not exceeding $3,000 per month</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income of</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Per Capita Income not exceeding $690 per month</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Per Capita Income not exceeding $750 per month</span></td>
   </tr>
 </tbody>
 </table>
@@ -167,16 +167,8 @@ For more details, please refer to:
 
 ### How to apply
 
-Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by either scanning the QR code or clicking on it:
-
-[  
-](https://go.gov.sg/moe-fas-greendale-sec-sch)
-
-<img src="/images/qr-code-go_go_sg-moe_fas_greendale_sec_sch.png" 
-     style="width:50%">
+Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by clicking here > [MOE Financial Assistance Application Form (eFAS) for 2023](https://form.gov.sg/#!/632432ba67747a0011d4a0cc)
 		 
-**Important Admin Note**: Applications submitted before 29 October 2021 are prioritized for processing first. For applications submitted from 30 October 2021, they will be processed accordingly. The school will contact the concerned for clarifications in the applications, if needed.
-
 To renew the financial assistance for the next calendar year, students will have to submit a NEW application with supporting documents. Students are encouraged to submit their new applications by end October in order to use the Textbook Grant, should their application qualify for MOE Financial Assistance.
 
 2.  Other Financial Assistance and Bursary by other Organisations
