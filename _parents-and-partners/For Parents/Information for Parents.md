@@ -49,7 +49,7 @@ Please click [here](/student-admin-services/administration/financial-assistance-
 
 **Other Forms of Subsidy**
 
-Please click here
+Please click [here](/student-admin-services/administration/other-forms-of-subsidy/)
 
 **Self-Service Bill Payment@SingPost (SAM)**
 
