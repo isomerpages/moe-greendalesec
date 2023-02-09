@@ -37,7 +37,7 @@ Please click [here](/student-admin-services/students/assessment-schedule/)
 
 **Holiday Homework**
 
-Please click here
+Please click [here](/student-admin-services/students/holiday-homework/)
 
 **Booklists**
 
