@@ -53,7 +53,7 @@ Please click [here](/student-admin-services/administration/other-forms-of-subsid
 
 **Self-Service Bill Payment@SingPost (SAM)**
 
-* Printed Guide
+* [Printed Guide](/files/Printed-Guide-final.pdf)
 
 **School Health Advisor Programme**
 
