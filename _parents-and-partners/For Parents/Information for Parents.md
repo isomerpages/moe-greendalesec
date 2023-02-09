@@ -62,7 +62,7 @@ Please click [here](/student-admin-services/administration/other-forms-of-subsid
 
 **School Guidelines on Use of WhatsApp Group Chat**
 
-* Guidelines on Whatsapp Group Chat
+* [Guidelines on Whatsapp Group Chat](/files/Guidelines-on-WhatsApp-group-chats.pdf)
 
 **Cycling Advisory Note**
 
