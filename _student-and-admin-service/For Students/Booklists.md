@@ -4,7 +4,7 @@ permalink: /student-admin-services/students/booklists/
 description: ""
 third_nav_title: For Students
 ---
-### Secondary 1 (2023):
+### Secondary 1 to 5 (2023):
 
 * [Secondary 1 (Combi 1)](/files/SEC-1NT.pdf)
 * [Secondary 1 (Combi 2)](/files/SEC-1NA.pdf)
