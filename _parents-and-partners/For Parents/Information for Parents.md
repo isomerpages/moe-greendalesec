@@ -33,7 +33,7 @@ Please click [here](/student-admin-services/students/class-timetable/)
 
 **Assessment Schedule**
 
-Please click here
+Please click [here](/student-admin-services/students/assessment-schedule/)
 
 **Holiday Homework**
 
