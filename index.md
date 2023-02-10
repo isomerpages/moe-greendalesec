@@ -4,7 +4,7 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to our new school website! Here's a notification bar you can use!
 sections:
   - hero:
       title: Greendale
