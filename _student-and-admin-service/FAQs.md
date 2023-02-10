@@ -7,11 +7,11 @@ description: ""
 
 **_MOE Secondary 1 Posting Exercise Process_**
 
-### 1. How many Secondary 1 classes are there in 2021?
+### 1. How many Secondary 1 classes are there?
 
-There are **8** Secondary 1 2021 classes in total:
+There are **8** Secondary 1 classes in total. There are approximately 40 students per class.
 
-As it is one of the 28 secondary schools selected by the Ministry of Education (MOE) to pilot aspects of Full Subject-Based Banding (Full SBB). Under Full SBB, students will take the following subjects together at a common level at lower secondary: Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music and Physical Education. For all other subjects, students will be grouped in classes according to the level at which they offer each subject.
+Greendale Secondary School is one of the 28 secondary schools selected by the Ministry of Education (MOE) to pilot aspects of Full Subject-Based Banding (Full SBB). Under Full SBB, our form classes are a mix of Express and Normal stream students and they will take the following subjects together at a common level at lower secondary: Art, Character & Citizenship Education, Design & Technology, Food & Consumer Education, Music and Physical Education. For all other subjects, students will be grouped in classes according to the level at which they offer each subject.
 
 This common learning experience creates a valuable setting for students to mingle, build meaningful friendships, and appreciate different perspectives.
 
@@ -52,6 +52,14 @@ Meeting the indicative PSLE Score range does not mean your child will be admitte
 
 The actual COPs are not pre-determined before the posting and may vary from year to year depending on students’ PSLE results and their school choices **_for that particular year’s S1 Posting Exercise_**.
 
+With the new PSLE scoring system, more students will have the same PSLE Score, and schools will be less differentiated based on cut-off points. Choice order will be introduced as a tie-breaker to recognize the different considerations that families have in making school choices.
+
+**S1 Posting Tie-Breakers (in order of priority)**
+
+1\. Citizenship (priority given to Singapore Citizens, followed by Permanent Residents and International Students)  
+2\. Choice order of schools  
+3\. Computerised balloting
+
 Find out more about the updates to PSLE Scoring, Secondary One Posting System and Full SBB (FSBB) [here](https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html).
 
 ### 2. What are the school hours like?
@@ -79,15 +87,15 @@ Find out more about the updates to PSLE Scoring, Secondary One Posting System an
 <tbody>
   <tr>
     <td class="tg-d1kj"><span style="font-weight:700">Lower Sec</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.20 AM - 2.30 PM</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">7.30 AM - 2.30 PM</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">7.30 AM - 12.30 PM</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.00 AM - 4.00 PM</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.00 AM - 2.30 PM</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.00 AM - 12.30 PM</span></td>
   </tr>
   <tr>
     <td class="tg-d1kj"><span style="font-weight:700">Upper Sec</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.20 AM - 2.30 PM</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">7.30 AM - 2.30 PM</span></td>
-    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">7.30 AM - 12.30 PM</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.00 AM - 4.00 PM</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.00 AM - 2.30 PM</span></td>
+    <td class="tg-d8zo"><span style="font-weight:inherit;font-style:inherit">8.00 AM - 12.30 PM</span></td>
   </tr>
 </tbody>
 </table>
@@ -98,9 +106,9 @@ Find out more about the updates to PSLE Scoring, Secondary One Posting System an
 
 **Wednesdays and Fridays**
 
-2.45 PM - 6.00 PM | Co-curricular Activities (CCAs) and enrichment
+2.45 PM - 6.00 PM* | Co-curricular Activities (CCAs) and enrichment
 
-_*The training hours are subject to change according to instructors' schedules._
+_*The training hours are subject to change according to instructors' schedules. Not all CCAs are running on both days._
 
 ### 3. How do I get to Greendale Secondary School?
 
@@ -152,7 +160,7 @@ English, Chinese, Malay, Mathematics, Additional Mathematics, Principles of Acco
 
 English, Chinese, Malay, Mathematics, Additional Mathematics, Principles of Accounts (POA), Humanities (Social Studies/History or Social Studies/Geography), Combined Science (Physics/Chemistry), Art, Design & Technology (D&T), Computer Applications (CPA), Elements of Business Skills (EBS), SMART Electrical Technology (SET)
 
-### 5. 2020 "O" / "N" Level Results & % Qualified for Junior Colleges / Polytechnics
+### 5. 2021 "O" / "N" Level Results & % Qualified for Junior Colleges / Polytechnics
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -166,7 +174,7 @@ English, Chinese, Malay, Mathematics, Additional Mathematics, Principles of Acco
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cvul"><span style="font-weight:700;font-style:inherit;background-color:#B0B0B0">2020 "O" Level Results</span></th>
+    <th class="tg-cvul"><span style="font-weight:700;font-style:inherit;background-color:#B0B0B0">2021 "O" Level Results</span></th>
     <th class="tg-cvul"><span style="font-weight:700;font-style:inherit;background-color:#B0B0B0">4E</span></th>
     <th class="tg-cvul"><span style="font-weight:700;font-style:inherit;background-color:#B0B0B0">5N</span></th>
   </tr>
@@ -174,13 +182,13 @@ English, Chinese, Malay, Mathematics, Additional Mathematics, Principles of Acco
 <tbody>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Students Eligible for JC/MI</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">77.2%</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">37.0%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">81.1%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">33.3%</span></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Students Eligible for Polytechnic</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">95.4%</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">69.6%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">95.9%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">81.0%</span></td>
   </tr>
 </tbody>
 </table>
@@ -197,22 +205,22 @@ English, Chinese, Malay, Mathematics, Additional Mathematics, Principles of Acco
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cvul"><span style="font-weight:700;font-style:inherit;background-color:#B0B0B0">2020 "N" Level Results</span></th>
+    <th class="tg-cvul"><span style="font-weight:700;font-style:inherit;background-color:#B0B0B0">2021 "N" Level Results</span></th>
     <th class="tg-cvul"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Students Eligible for 5NA</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">96.1%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">97.5%</span></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Students Eligible for DPP</span><br><span style="font-weight:inherit;font-style:italic">(Direct Entry Scheme to Polytechnic Programme – students attained the required Higher Nitec GPA and are guaranteed a place in one of the poly diploma courses mapped to the Higher Nitec course.)</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">93.5%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">90.1%</span></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Students Eligible for PFP</span><br><span style="font-weight:inherit;font-style:italic">(Polytechnic Foundation Programme - a diploma specific foundation programme conducted over two semesters at the polytechnic.)</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">32.5%</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">32.1%</span></td>
   </tr>
 </tbody>
 </table>
@@ -467,4 +475,4 @@ School uniforms can be conveniently purchased at the school's bookstore. **It i
 
 ### 11. When are the school terms and school holidays?
 
-[https://www.moe.gov.sg/news/press-releases/20200817-school-terms-and-holidays-for-2021](https://www.moe.gov.sg/news/press-releases/20200817-school-terms-and-holidays-for-2021)
+[https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023](https://www.moe.gov.sg/news/press-releases/20221019-school-terms-and-holidays-for-2023)
