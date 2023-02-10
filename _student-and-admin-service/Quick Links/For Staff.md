@@ -4,7 +4,7 @@ permalink: /quick-links/staff/
 description: ""
 third_nav_title: Quick Links
 ---
-*   [Staff Google Workspace Dashboard](http://icon.moe.edu.sg/)
+*   [Staff Google Workspace Dashboard](https://workspace.google.com/u/0/dashboard)
 *   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 *   [Resource Booking System (RBS)](https://rbs.avero-tech.com/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
