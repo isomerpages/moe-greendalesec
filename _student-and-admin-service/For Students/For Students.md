@@ -10,6 +10,6 @@ third_nav_title: For Students
 *   [I@SK (Ask Your Year Head)](https://docs.google.com/a/moe.edu.sg/forms/d/e/1FAIpQLSe_J-thCm4bkxu0PDwZ2UmykG086xPwQ4ba-1ABKImC0Pc00w/viewform?c=0&w=1)
 *   [Appointment to see the ECG Counsellor - Ms Adeline Ng](https://go.gov.sg/gdlssecg)
 
-*   For other student related matters, please click on the links on the right (or bottom, if viewing via mobile smartphone) side of this page.
+For other student related matters, please click on the links on the right (or bottom, if viewing via mobile smartphone) side of this page.
 
-Thank you
+Thank you!
