@@ -14,7 +14,7 @@ sections:
       subtitle: Our Home . Our Pride
   - infopic:
       title: LEARNERS
-      subtitle: Infopic Subtitle
+      subtitle: "Grow & Glow: The Greendale Way"
       description: Students cultivate dispositions of resilience and compassion for
         others through robust learning experiences.
       button: Button Text
@@ -23,7 +23,7 @@ sections:
       url: "#"
   - infopic:
       title: THINKERS
-      subtitle: Infopic Subtitle
+      subtitle: "Grow & Glow: The Greendale Way"
       description: Students are equipped with learning strategies, encouraged to think
         critically and apply what they have learnt in real life.
       button: Button Text
@@ -32,7 +32,7 @@ sections:
       url: "#"
   - infopic:
       title: LEADERS
-      subtitle: Infopic Subtitle
+      subtitle: "Grow & Glow: The Greendale Way"
       description: Students acquire leadership skills through opportunities and
         experiences to become confident leaders with the heart to serve.
       button: Button Text
