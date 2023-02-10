@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Greendale
       background: /images/20220517_092823.jpg
-      button: Click here for yearbook 2022
-      url: /contact-us/
+      button: Click here for School Video
+      url: /about/School-Videos/our-home-our-pride/
       subtitle: Our Home . Our Pride
   - infobar:
       title: Infobar title
