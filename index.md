@@ -4,14 +4,15 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to our new school website! Here's a notification bar you can use!
+notification: All the Best to our student-athletes participating in the National
+  Schools Games 2023!
 sections:
   - hero:
-      title: Greendale
+      title: Greendale Secondary
       background: /images/20220517_092823.jpg
       button: Click here for School Video
       url: /about/School-Videos/our-home-our-pride/
-      subtitle: Our Home . Our Pride
+      subtitle: Growing Hearts . Growing Minds
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
