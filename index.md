@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: School Calendar
           description: Click here to view it
-          url: ""
+          url: /student-and-admin-service/For-Students/school-calendar/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
