@@ -2,9 +2,9 @@ collections:
   student-and-admin-service:
     output: true
     order:
-      - For Students/School Calendar.md
       - For Students/.keep
       - For Students/For Students.md
+      - For Students/School Calendar.md
       - For Students/Class Timetable.md
       - For Students/Assessment Schedule.md
       - For Students/Holiday Homework.md
