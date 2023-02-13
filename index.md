@@ -17,6 +17,9 @@ sections:
         - title: School Calendar
           description: Click here to view it
           url: /student-and-admin-service/For-Students/school-calendar/
+        - title: School Facebook
+          description: Click here to view it
+          url: https://www.facebook.com/GreendaleSec/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
