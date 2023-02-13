@@ -13,6 +13,10 @@ sections:
       button: Click here for School Video
       url: /about/School-Videos/our-home-our-pride/
       subtitle: Growing Hearts . Growing Minds
+      key_highlights:
+        - title: School Calendar
+          description: Click here to view it
+          url: ""
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
