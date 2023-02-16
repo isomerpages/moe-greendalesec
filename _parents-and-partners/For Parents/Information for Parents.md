@@ -6,12 +6,12 @@ third_nav_title: For Parents
 ---
 **Yearbook 2022**
 
-Click here to download!
+[Click here to download!](https://go.gov.sg/gdss-yearbook-2022)
 
 **The Straits Times School Pocket Money Fund 2023 - For Sec 1 Students**
 <br>_Closing Date: 14 Feb 2023 (Tuesday)_
 
-[Application Form](Annex-A-2023-STSPMF-Application-Form-for-schools-REVISED-2023-Cycle-2.pdf) / [Income Declaration Form](Annex-B-Income-declaration-form_2023-REVISED-2023-Cycle-2.pdf)
+Application Form / Income Declaration Form
 
 **Group Personal Accident (GPA) Insurance Matters (For All Students)**
 

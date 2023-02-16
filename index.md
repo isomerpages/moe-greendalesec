@@ -18,8 +18,11 @@ sections:
           description: Click here to view it
           url: /student-and-admin-service/For-Students/school-calendar/
         - title: School Facebook
-          description: Click here to view it
+          description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
+        - title: School Yearbook 2022
+          description: Click here to view it
+          url: https://go.gov.sg/gdss-yearbook-2022
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
