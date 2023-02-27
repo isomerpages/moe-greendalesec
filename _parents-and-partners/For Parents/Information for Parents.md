@@ -6,7 +6,7 @@ third_nav_title: For Parents
 ---
 **Yearbook 2022**
 
-[Click here to download!](https://go.gov.sg/gdss-yearbook-2022)
+[Click here to download!](https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing)
 
 **The Straits Times School Pocket Money Fund 2023 - For Sec 1 Students**
 <br>_Closing Date: 14 Feb 2023 (Tuesday)_
