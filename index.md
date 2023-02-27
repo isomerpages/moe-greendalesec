@@ -4,8 +4,8 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: All the Best to our student-athletes participating in the National
-  Schools Games 2023!
+notification: It's our Level Camp week! Stay tuned to our Facebook page for more
+  updates of our week of exciting activities.
 sections:
   - hero:
       title: Greendale Secondary
