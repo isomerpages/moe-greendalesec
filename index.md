@@ -22,7 +22,7 @@ sections:
           url: https://www.facebook.com/GreendaleSec/
         - title: School Yearbook 2022
           description: Click here to view it
-          url: https://go.gov.sg/gdss-yearbook-2022
+          url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
