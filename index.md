@@ -4,7 +4,7 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: It's our Level Camp week! Stay tuned to our Facebook page for more
+notification: It's our Level Camp week! Do tune to our Facebook page for more
   updates of our week of exciting activities.
 sections:
   - hero:
