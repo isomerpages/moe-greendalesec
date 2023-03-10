@@ -47,7 +47,7 @@ Topics covered in the Cyber Wellness lessons include:
 To support you in keeping your child safe online, you may refer to these resources:
 
 _**MOE Parent Kit - Cyber Wellness for Your Child** 
-(You may click [here](/files/cyber-wellness-for-your-child.pdf) to download a copy in PDF)_
+([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))_
 
 _**Parent Handbook (I) on Learning with a PLD**
 (You may click [here](/files/Parent-Handbook-I-on-Learning-with-a-PLD.pdf)) to download a copy in PDF)_
