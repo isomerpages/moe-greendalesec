@@ -50,7 +50,7 @@ _**MOE Parent Kit - Cyber Wellness for Your Child**
 ([https://go.gov.sg/moe-cyber-wellness](https://go.gov.sg/moe-cyber-wellness))_
 
 _**Parent Handbook (I) on Learning with a PLD**
-(You may click [here](/files/Parent-Handbook-I-on-Learning-with-a-PLD.pdf)) to download a copy in PDF)_
+(You may click [here](/files/Parent Handbook (I) on Learning with a PLD_2023.pdf)) to download a copy in PDF)_
 
 _**Parent Handbook (II) on Learning with a PLD**
 (You may click here to download a copy in PDF)_
