@@ -40,10 +40,10 @@ third_nav_title: Administration
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Permanent Residents</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$380.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$500.00</span></td>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$400.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$520.00</span></td>
   </tr>
 </tbody>
 </table>
@@ -71,8 +71,8 @@ third_nav_title: Administration
 <tbody>
   <tr>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">School Fees</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$780.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,450.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$910.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,770.00</span></td>
   </tr>
   <tr>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Misc Fees</span></td>
@@ -86,8 +86,8 @@ third_nav_title: Administration
   </tr>
   <tr>
     <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Total Fees</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$800.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,470.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$930.00</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,790.00</span></td>
   </tr>
 </tbody>
 </table>
