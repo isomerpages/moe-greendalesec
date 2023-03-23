@@ -9,4 +9,6 @@ In 2005, the Principal Mrs Mary Koh together with a selected pool of experienc
 
 In December 2008, Mr Mark Gerard Minjoot took over as Principal of Greendale Secondary School.  Greendale Secondary School aspires to be a premier school in the north-east. In the last few years, the school has attained some outstanding results in both the academic and co-curricular areas and is gaining a reputation for providing a value-added, holistic education.
 
-In December 2014, Ms Amy Ng joined the school as its current Principal. Tapping on the school's achievements and strengths, and with the support of various stakeholders (students, staff, parents, school advisory committee, alumni), Greendale Secondary School's journey to become a School of Choice that Makes a Difference: Home of Committed Learners, Critical Thinkers and Confident Leaders continues.
+In December 2014, Ms Amy Ng joined the school as its Principal. Tapping on the school's achievements and strengths, and with the support of various stakeholders (students, staff, parents, school advisory committee, alumni), Greendale Secondary School's journey to become a School of Choice that Makes a Difference: Home of Committed Learners, Critical Thinkers and Confident Leaders continues.
+
+In December 2021, Mr Sulaiman Mohamad Yusof
