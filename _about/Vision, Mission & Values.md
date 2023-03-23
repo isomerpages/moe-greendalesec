@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Vision:
 
-<blockquote><p><span style="font-size: 26px;"><em><span style="font-size: 18px;"><strong>Every Greendale Student Lifelong Learner, Critical Thinker and Servant Leader</strong></span></em></span></p></blockquote>
+<blockquote><p><span style="font-size: 26px;"><em><span style="font-size: 18px;"><strong>Every Greendale Student a Lifelong Learner, Critical Thinker and Servant Leader</strong></span></em></span></p></blockquote>
 
 ### School Mission:
 
