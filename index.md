@@ -4,8 +4,7 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: We will be performing at this year's Singapore Youth Festival! Do
-  check out www.facebook.com/SgYouthFest/ for details.
+notification: ""
 sections:
   - hero:
       title: Greendale Secondary
