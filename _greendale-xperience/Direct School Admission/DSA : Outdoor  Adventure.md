@@ -22,11 +22,11 @@ Students accepted under DSA-Outdoor Adventure will be developed through a compre
 *   Possible participation in Republic Polytechnic’s Advance Elective Modules related to Outdoor Education.
 *   Possible work attachment to organisations that promotes Environment Awareness.
 
-### Highlights - Outdoor Adventure Club Membership
+### Highlights - **Outdoor Adventure Club Membership**
 
 All DSA-OA selected applicants are channelled into the School’s ODAC. Members in ODAC will undergo a 4-year training and development programme that hone students in 19 Outdoor Education skills areas.
 
-### Highlights - SCF 1 Star Kayaking Certification _(with the option to pursue 2 Star Kayaking)_
+### Highlights - **SCF 1 Star Kayaking Certification** _(with the option to pursue 2 Star Kayaking)_
 
 Students accepted under DSA-Outdoor Adventure will have the opportunity to participate in the 12-hour certification programme, which is officially certified under the Singapore Canoeing Federation (SCF), which aims to introduce beginners to the activity and provide students with water confidence to partake in a safe and enjoyable way. Interested students can opt to develop the range of basic strokes and maneuvers by undergoing the 2-Star Kayaking Certification and participate in a sea expedition of at least 6 km.
 
@@ -34,7 +34,7 @@ Students accepted under DSA-Outdoor Adventure will have the opportunity to parti
 
 Singapore National Climbing Standards (SNCS) Sports Climbing Level 1 is the beginner’s introduction to climbing. This is a one full day top rope certification course (7 hours). This course is designed for people with little or no prior knowledge of Sport climbing and wish to pick up the sport for leisure or more serious climbing. Interested students can opt to upgrade to SNCS Sport Climbing Level 2 (14 hours) certification course to learn how to lead climb and lead belay. This course builds on the top-rope skills acquired from SNCS Sport Climbing Level 1 and teaches a progression into lead climbing on sport climbing walls.
 
-### Highlights - Project GARanG Representation
+### Highlights - **Project GARanG Representation**
 
 DSA-OA candidates will also have the opportunity to assist in the conduct (Secondary 1 and 2) and planning (Secondary 3) or participation in the actual Event, a school based adventure race against competitors from other schools.
 
@@ -57,4 +57,3 @@ Participants will:
 *   Be introduced to the Risk Analysis and Management System (RAMS) framework to reduce risk and ensure a safe learning environment for activity participants.
 
 Students will also get a chance to participate in a one-day outdoor challenge course as well as conduct a team-building activity.  This AEM also provides students aspiring to pursue a career in outdoor learning and adventure a chance to experience RP [Diploma in Outdoor and Adventure Learning](https://www.rp.edu.sg/shl/full-time-diplomas/details/r33) programme.
-
