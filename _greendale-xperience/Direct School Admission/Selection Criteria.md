@@ -24,3 +24,5 @@ Over the course of the exercise, the following will be taken into consideration 
 *   Evidence of learning attitude and/or disposition
 *   Letters of Recommendation / References (if any)
 *   Interview performance
+
+Note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
