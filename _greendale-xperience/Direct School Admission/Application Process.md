@@ -12,15 +12,17 @@ All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal.
 
 Please note the following regarding application through the centralised DSA-Sec Portal:
 
-1. **Accessing the DSA Portal.** 
+### Accessing the DSA Portal 
 
 ·       **Applicants from MOE mainstream primary schools**: Parent may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
 
 ·       **Other applicants** **_not_** **studying in MOE mainstream primary schools**: They need to apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Schools may refer them to MOE website at: https://go.gov.sg/nmsdsa-sec-application.
 
-2. **Choices.** Students can indicate up to three choices (maximum of two choices for the same school under two different talent areas)
+### Choices
 
-3. **Information to provide.** 
+Students can indicate up to three choices (maximum of two choices for the same school under two different talent areas)
+
+### Information to provide 
 
 ·       Valid email address and local mobile number.
 
