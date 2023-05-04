@@ -6,15 +6,15 @@ third_nav_title: Direct School Admission
 ---
 The generic criteria for selection are as follows:
 
-**Interest and Passion**
+### **Interest and Passion**
 
 Applicants should demonstrate a keen interest in and passion for their respective talent areas. A clear and genuine aspiration in a field related to their talent area is an advantage.
 
-**Talent and Aptitude**
+### **Talent and Aptitude**
 
 Applicants should demonstrate evidence of talent and/or aptitude in their talent area.
 
-**Conduct and Attitude for Learning**
+### **Conduct and Attitude for Learning**
 
 Applicants should demonstrate a positive attitude for learning and demeanour. Applicants should be able to demonstrate evidence of good conduct in school.
 
