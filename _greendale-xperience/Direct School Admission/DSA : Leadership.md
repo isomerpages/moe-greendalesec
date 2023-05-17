@@ -45,9 +45,9 @@ The Aspiring Leaders Training Programme is organised for selected Secondary 2 st
 
 The Sec 1 Orientation programme is the pinnacle event organised by a team of Student Leaders who have undergone the Aspiring Leaders Training and Inspiring Leaders Training Programmes. The event is meant to welcome the new Secondary 1 students to the school and consists of a series of activities organised by the student leaders.
 
-**_Fitspiration_**
+**_Games Carnival_**
 
-One of the main events organised by the Sports Leaders is the Greendale Fitspiration. This event, held in February, started in 2021 to replace the Greendale Jog-a-thon which was usually organised at an external venue.
+One of the main events organised by the Sports Leaders is the Games Carnival. This event, usually held in July, is an opportunity for Greendale students to come together to build class spirit while competing in a wide array of sporting events.
 
 **_Teachers' Day_**
 

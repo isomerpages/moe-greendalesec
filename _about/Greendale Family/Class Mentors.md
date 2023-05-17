@@ -273,11 +273,6 @@ third_nav_title: Greendale Family
     <td class="tg-kytw"><a href="mailto:janani_vijayan@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">janani_vijayan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3F</span></td>
-    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Janani Vijayan</span></td>
-    <td class="tg-kytw"><a href="mailto:janani_vijayan@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">janani_vijayan@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">3G</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Leroy Choo</span></td>
     <td class="tg-kytw"><a href="mailto:leroy_choo_sim_hor@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">leroy_choo_sim_hor@moe.edu.sg</span></a></td>
