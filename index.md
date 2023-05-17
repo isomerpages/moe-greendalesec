@@ -23,10 +23,6 @@ sections:
         - title: School Yearbook 2022
           description: Click here to view it
           url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
-  - resources:
-      title: Application is Now Open
-      subtitle: Direct School Admission (DSA)
-      button: Click Here
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
