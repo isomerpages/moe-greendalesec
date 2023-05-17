@@ -25,7 +25,7 @@ sections:
   - resources:
       title: Application is Now Open
       subtitle: Direct School Admission (DSA)
-      button: Go to DSA page
+      button: Click Here
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
