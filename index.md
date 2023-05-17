@@ -4,7 +4,7 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: DSA-Sec Application is Now Open!
 sections:
   - hero:
       title: Greendale Secondary
