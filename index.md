@@ -49,4 +49,8 @@ sections:
       alt: LEADERS
       image: /images/leader.jpg
       url: /about/about/vision-mission-values/
+  - resources:
+      title: Application is Now Open
+      subtitle: Direct School Admission (DSA)
+      button: Go to DSA page
 ---
