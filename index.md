@@ -27,9 +27,9 @@ sections:
           description: Application is now open!
           url: /greendale-xperience/direct-school-admission/
   - infobar:
-      title: June Holiday Assignment
+      title: June Holiday Homework
       subtitle: Attention Students
-      description: Dear Students, your June Holiday Assignment is now available.
+      description: Dear Students, your June Holiday Homework is now available.
       button: Click Here
       url: /student-admin-services/students/holiday-homework/
   - infopic:
