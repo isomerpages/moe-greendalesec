@@ -26,6 +26,12 @@ sections:
         - title: Direct School Admission (Sec) 2023
           description: Application is now open!
           url: /greendale-xperience/direct-school-admission/
+  - infobar:
+      title: June Holiday Assignment
+      subtitle: Attention Students
+      description: Dear Students, your June Holiday Assignment is now available.
+      button: Click Here
+      url: /student-admin-services/students/holiday-homework/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
