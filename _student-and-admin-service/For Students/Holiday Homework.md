@@ -10,4 +10,4 @@ third_nav_title: For Students
 * [Secondary 1](/files/sec-01.pdf)
 * [Secondary 2](/files/sec-02.pdf)
 * [Secondary 3](/files/sec-03.pdf)
-* [Secondary 4/5](/files/sec-04-and-05.pdf)
+* [Secondary 4 & 5](/files/sec-04-and-05.pdf)

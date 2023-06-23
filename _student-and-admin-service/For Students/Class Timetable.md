@@ -13,7 +13,7 @@ third_nav_title: For Students
 
 ### Semester 2 (2023)
 
-* Secondary 1
-* Secondary 2
-* Secondary 3
-* Secondary 4 & 5
+* [Secondary 1](/files/tt_2023_sem_2_23jun_s1.pdf)
+* [Secondary 2](files/tt_2023_sem_2_23jun_s2.pdf)
+* [Secondary 3](files/tt_2023_sem_2_23jun_s3.pdf)
+* [Secondary 4 & 5](files/tt_2023_sem_2_23jun_s4-5.pdf)

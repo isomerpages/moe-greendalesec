@@ -27,6 +27,12 @@ sections:
           description: Click here to view it
           url: /greendale-xperience/direct-school-admission/
   - infobar:
+      title: Semester 2 Timetable
+      subtitle: Attention Students
+      description: Dear Students, your Semester 2 Timetable is now available.
+      button: Click Here
+      url: /student-admin-services/students/class-timetable/
+  - infobar:
       title: June Holiday Homework
       subtitle: Attention Students
       description: Dear Students, your June Holiday Homework is now available.
