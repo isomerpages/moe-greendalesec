@@ -27,6 +27,12 @@ sections:
           description: Click here to view it
           url: /greendale-xperience/direct-school-admission/
   - infobar:
+      title: Term 3 Infosheet
+      subtitle: Dear Parents / Guardians
+      description: is now available for download.
+      button: Click Here
+      url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
+  - infobar:
       title: Semester 2 Timetable
       subtitle: Attention Students
       description: Dear Students, your Semester 2 Timetable is now available.
