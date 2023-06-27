@@ -35,6 +35,10 @@ third_nav_title: Greendale Family
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1B</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Sean Tan</span></td>
     <td class="tg-kytw"><a href="mailto:sean_tan_meng_loong@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">sean_tan_meng_loong@moe.edu.sg</span></a></td>
+  </tr>  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1B</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Della</span></td>
+    <td class="tg-kytw"><a href="mailto:della_fardina_idris@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">della_fardina_idris@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1C</span></td>
