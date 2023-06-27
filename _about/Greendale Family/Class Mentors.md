@@ -364,7 +364,11 @@ third_nav_title: Greendale Family
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4D</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Jolyn Teow</span></td>
-    <td class="tg-kytw"><a href="mailto:Ms Jolyn Teow"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">jolyn_teow_hui_ting@moe.edu.sg</span></a></td>
+    <td class="tg-kytw"><a href="mailto:jolyn_teow_hui_ting@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">jolyn_teow_hui_ting@moe.edu.sg</span></a></td>
+  </tr>  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4D</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Sandy Tan</span></td>
+    <td class="tg-kytw"><a href="mailto:tan_yi_xuan@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">tan_yi_xuan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4E</span></td>
