@@ -38,12 +38,6 @@ sections:
       description: Dear Students, your Semester 2 Timetable is now available.
       button: Click Here
       url: /student-admin-services/students/class-timetable/
-  - infobar:
-      title: June Holiday Homework
-      subtitle: Attention Students
-      description: Dear Students, your June Holiday Homework is now available.
-      button: Click Here
-      url: /student-admin-services/students/holiday-homework/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
