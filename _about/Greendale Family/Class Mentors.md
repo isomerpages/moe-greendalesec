@@ -60,6 +60,11 @@ third_nav_title: Greendale Family
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Chang Yu Zhen</span></td>
     <td class="tg-kytw"><a href="mailto:chang_yu_zhen@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">chang_yu_zhen@moe.edu.sg</span></a></td>
   </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1D</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Wee Jun Wen</span></td>
+    <td class="tg-kytw"><a href="mailto:wee_jun_wen@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">wee_jun_wen@moe.edu.sg</span></a></td>
+  </tr>
 <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1E</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mdm Yani</span></td>
