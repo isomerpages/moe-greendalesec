@@ -35,6 +35,10 @@ third_nav_title: Greendale Family
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1B</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Sean Tan</span></td>
     <td class="tg-kytw"><a href="mailto:sean_tan_meng_loong@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">sean_tan_meng_loong@moe.edu.sg</span></a></td>
+  </tr>  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1B</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Della</span></td>
+    <td class="tg-kytw"><a href="mailto:della_fardina_idris@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">della_fardina_idris@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1C</span></td>
@@ -55,6 +59,11 @@ third_nav_title: Greendale Family
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1D</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Chang Yu Zhen</span></td>
     <td class="tg-kytw"><a href="mailto:chang_yu_zhen@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">chang_yu_zhen@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1D</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Wee Jun Wen</span></td>
+    <td class="tg-kytw"><a href="mailto:wee_jun_wen@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">wee_jun_wen@moe.edu.sg</span></a></td>
   </tr>
 <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1E</span></td>
@@ -90,6 +99,11 @@ third_nav_title: Greendale Family
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1H</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Nida</span></td>
     <td class="tg-kytw"><a href="mailto:nida_khan@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">nida_khan@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">1H</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Rudy Neo</span></td>
+    <td class="tg-kytw"><a href="mailto:neo_dongli@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">neo_dongli@moe.edu.sg</span></a></td>
   </tr>
 
 </tbody>
@@ -350,7 +364,11 @@ third_nav_title: Greendale Family
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4D</span></td>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Jolyn Teow</span></td>
-    <td class="tg-kytw"><a href="mailto:Ms Jolyn Teow"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">jolyn_teow_hui_ting@moe.edu.sg</span></a></td>
+    <td class="tg-kytw"><a href="mailto:jolyn_teow_hui_ting@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">jolyn_teow_hui_ting@moe.edu.sg</span></a></td>
+  </tr>  <tr>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4D</span></td>
+    <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Ms Sandy Tan</span></td>
+    <td class="tg-kytw"><a href="mailto:tan_yi_xuan@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">tan_yi_xuan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-x4kc"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">4E</span></td>
