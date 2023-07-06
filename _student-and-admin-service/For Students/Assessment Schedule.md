@@ -17,3 +17,7 @@ third_nav_title: For Students
 [Secondary 3](/files/s3-2023-class-test-2-schedule.pdf)
 
 [Secondary 4 & 5](/files/s4-5-2023-class-test-2-schedule.pdf)
+
+### 2023 Preliminary Exam Schedule
+
+[Secondary 4 & 5](/files/2023_preliminary_exam_timetable.pdf)
