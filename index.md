@@ -27,10 +27,9 @@ sections:
           description: Click here to view it
           url: /greendale-xperience/direct-school-admission/
   - infobar:
-      title: Preliminary Exams Schedule
+      title: Preliminary Exam Schedule
       subtitle: Attention Sec 4 & 5 Students
-      description: Dear Sec 4 & 5 Students, your Preliminary Exams Schedule is now
-        available.
+      description: Dear Sec 4 & 5 Students, your Preliminary Exam Schedule is now available.
       button: Click Here
       url: /student-admin-services/students/assessment-schedule/
   - infobar:
