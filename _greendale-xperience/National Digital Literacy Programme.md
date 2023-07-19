@@ -18,7 +18,7 @@ One of the components of the NDLP is the introduction of Personal Learning Devic
 
 The PLD will enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
-The PLD which the school will be using is the Acer Chromebook Spin R753TN (Enhanced).
+The school-prescribed PLD is the Acer Chromebook Spin R753TN (Enhanced).
 
 Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Subsidies are available for students who require funding support to purchase the PLD.
 
