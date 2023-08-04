@@ -4,8 +4,7 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Greendale Secondary School will be accepting students for
-  Secondary 1 commencing in 2024 via the 2023 DSA-Sec Exercise!
+notification: ""
 sections:
   - hero:
       title: Greendale Secondary
