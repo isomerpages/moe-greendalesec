@@ -26,6 +26,12 @@ sections:
           description: Click here to view it
           url: /greendale-xperience/direct-school-admission/
   - infobar:
+      title: The Straits Times School Pocket Money Fund 2023
+      subtitle: Dear Parents / Guardians
+      description: is now open for application.
+      button: Click Here
+      url: /parents-and-partners/For-Parents/information-for-parents/
+  - infobar:
       title: Class Test 3 Schedule
       subtitle: Attention Sec 1 - 3 Students
       description: Dear Sec 1 - 3 Students, your Class Test 3 Schedule is now available.
@@ -43,12 +49,6 @@ sections:
       description: is now available for download.
       button: Click Here
       url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
-  - infobar:
-      title: Semester 2 Timetable
-      subtitle: Attention Students
-      description: Dear Students, your Semester 2 Timetable is now available.
-      button: Click Here
-      url: /student-admin-services/students/class-timetable/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
