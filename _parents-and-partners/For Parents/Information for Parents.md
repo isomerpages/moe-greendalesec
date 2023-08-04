@@ -8,14 +8,14 @@ third_nav_title: For Parents
 
 [Click here to download!](https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing)
 
-**The Straits Times School Pocket Money Fund 2023 - For Sec 1 Students**
-<br>_Closing Date: 14 Feb 2023 (Tuesday)_
+**The Straits Times School Pocket Money Fund 2023**
+<br>_Closing Date: 11 Sep 2023 (Monday)_
 
-Application Form / Income Declaration Form
+[Application Form](/files/stspmf-application-form.pdf) / [Income Declaration Form](/files/income-declaration-form.pdf)
 
 **Group Personal Accident (GPA) Insurance Matters (For All Students)**
 
-* [Product Sheet](/files/2020-Final-Term-Letter.pdf)
+* [Product Sheet](/files/Product-Fact-Sheet-Year-2023.pdf)
 * [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/#/dashboard)
 * [User Guide](https://greendalesec.moe.edu.sg/wp-content/uploads/2022/09/StudentGPAUserGuide-Parent.pdf) _(For Student GPA Claims Portal)_
 
@@ -43,7 +43,7 @@ Please click [here](/student-admin-services/students/holiday-homework/)
 
 Please click [here](/student-admin-services/students/booklists/)
 
-**Financial Assistance & Bursary**
+**Financial Assistance &amp; Bursary**
 
 Please click [here](/student-admin-services/administration/financial-assistance-bursary/)
 
@@ -66,4 +66,4 @@ Please click [here](/student-admin-services/administration/other-forms-of-subsid
 
 **Cycling Advisory Note**
 
-Dear Parents/ Guardians, if your child is cycling to school, please refer to the [Advisory Note](https://form.gov.sg/61c2b2fb1dd3cd0013b089e1) and acknowledge it. This will help maintain a register of students who cycle to school. Thank you.
+Dear Parents/ Guardians, if your child is cycling to school, please refer to the&nbsp;[Advisory Note](https://form.gov.sg/61c2b2fb1dd3cd0013b089e1)&nbsp;and acknowledge it. This will help maintain a register of students who cycle to school. Thank you.
