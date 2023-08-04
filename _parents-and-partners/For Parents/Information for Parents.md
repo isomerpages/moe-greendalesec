@@ -17,7 +17,7 @@ third_nav_title: For Parents
 
 * [Product Sheet](/files/Product-Fact-Sheet-Year-2023.pdf)
 * [Student GPA Claims Portal](https://studentgpa.incomegroupins.com.sg/#/dashboard)
-* [User Guide](/files/Student-GPA-User-Guide-Parent.pdf) _(For Student GPA Claims Portal)_
+* [User Guide](/files/student-gpa-user-guide-parent.pdf) _(For Student GPA Claims Portal)_
 
 **School Transport Subsidy Scheme (By North East CDC)**
 
