@@ -3,9 +3,9 @@ title: Contact Us
 permalink: /about/contact-us/
 description: ""
 ---
- # **<span style="color:#000000">Get in touch with</span> Greendale Secondary School**
+# **<span style="color:#000000">Get in touch with</span> Greendale Secondary School**
 
-#### General Office
+### General Office
 
 **Opening Hours (Monday - Friday)**
 <br> 8:00am - 5:00pm
@@ -16,7 +16,7 @@ description: ""
 <br> Singapore 822866
 <br> **[VIEW MAP](https://maps.google.com/maps?q=51+Edgedale+Plains+Singapore+828866+) &gt;**
 
-#### Contact Us
+### Contact Us
 **Have a question?**
 <br>Ask and get answered on our [Q&amp;A Page](https://staging.ask.gov.sg/gdlss)
 <br><span style="color:#999999">*Powered by:*</span>
