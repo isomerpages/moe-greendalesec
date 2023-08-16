@@ -14,7 +14,7 @@ description: ""
 **Have a question?**
 <br>Ask and get answered on our [Q&amp;A Page](https://staging.ask.gov.sg/gdlss)
 <br>*Powered by:*
-<br> <img height="42" width="110" src="/images/logo-askgov.png">
+<br> <img src="/images/logo-askgov.png">
 <br>**General Enquiries &amp; Feedback**
 <br> [+65 6315 8616](tel:+6563158616)
 <br> [greendale_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg)
