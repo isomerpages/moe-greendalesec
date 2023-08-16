@@ -13,9 +13,9 @@ description: ""
 #### Contact Us
 **Have a question?**
 <br>Ask and get answered on our [Q&amp;A Page](https://staging.ask.gov.sg/gdlss)
-<br>*Powered by:*
-<br> <img src="/images/logo-askgov.png">
-<br>**General Enquiries &amp; Feedback**
+<br><span style="color:#999999">*Powered by:*
+<br> <img src="/images/logo-askgov.png" style="width: 10%;float:left">
+<br><br>**General Enquiries &amp; Feedback**
 <br> [+65 6315 8616](tel:+6563158616)
 <br> [greendale_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg)
-<br> Fax: +65 6315 8616
+<br> Fax: +65 6315 8616</span>
