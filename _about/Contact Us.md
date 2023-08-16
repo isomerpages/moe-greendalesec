@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /about/contact-us/
 description: ""
 ---
- # **Get in touch with Greendale Secondary School**
+ # **<span style="color:#000000">Get in touch with</span> Greendale Secondary School**
 
 #### General Office
 
