@@ -1,8 +1,7 @@
 ---
 title: Staff
-permalink: /about/Achievements/staff/
+permalink: /staff/
 description: ""
-third_nav_title: Achievements
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
