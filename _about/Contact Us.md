@@ -18,7 +18,7 @@ description: ""
 
 ### Contact Us
 **Have a question?**
-<br>Ask and get answered on our [Q&amp;A Page](https://staging.ask.gov.sg/gdlss)
+<br>Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/gdlss)
 <br><span style="color:#999999">*Powered by:*</span>
 <br> <img src="/images/logo-askgov.png" style="width: 10%;float:left">
 <br><br>**General Enquiries &amp; Feedback**
