@@ -29,3 +29,11 @@ third_nav_title: For Students
 ### 2023 Preliminary Exam Schedule
 
 [Secondary 4 & 5](/files/2023_preliminary_exam_timetable.pdf)
+
+### 2023 End-of-Year Exam Schedule
+
+[Secondary 1](/files/2023_eoyexam_s1_timetable_final.pdf)
+
+[Secondary 2](/files/2023_eoyexam_s2_timetable_final.pdf)
+
+[Secondary 3](/files/2023_eoyexam_s3_timetable_final.pdf)
