@@ -26,6 +26,12 @@ sections:
           description: Click here to view it
           url: /greendale-xperience/direct-school-admission/
   - infobar:
+      title: Term 4 Infosheet
+      subtitle: Dear Parents / Guardians
+      description: is now available for download.
+      button: Click Here
+      url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
+  - infobar:
       title: End-of-Year Exam Schedule
       subtitle: Attention Sec 1 - 3 Students
       description: Dear Sec 1 - 3 Students, your EOY Exam Schedule is now available.
@@ -43,12 +49,6 @@ sections:
       description: Dear Sec 4 & 5 Students, your Preliminary Exam Schedule is now available.
       button: Click Here
       url: /student-admin-services/students/assessment-schedule/
-  - infobar:
-      title: Term 3 Infosheet
-      subtitle: Dear Parents / Guardians
-      description: is now available for download.
-      button: Click Here
-      url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
