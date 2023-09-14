@@ -43,12 +43,6 @@ sections:
       description: is now open for application.
       button: Click Here
       url: /parents-and-partners/For-Parents/information-for-parents/
-  - infobar:
-      title: Preliminary Exam Schedule
-      subtitle: Attention Sec 4 & 5 Students
-      description: Dear Sec 4 & 5 Students, your Preliminary Exam Schedule is now available.
-      button: Click Here
-      url: /student-admin-services/students/assessment-schedule/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
