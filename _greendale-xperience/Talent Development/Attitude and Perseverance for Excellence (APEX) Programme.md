@@ -36,3 +36,14 @@ They were also actively engaged in the “Live-On Festival” competition where 
 ![](/images/screenshot_10.jpg)
 
 ![](/images/screenshot_11.jpg)
+
+**Study Skills and Public Speaking Opportunities**
+
+The Secondary 1 students will go through a comprehensive set of Study Skills modules, designed to equip them with the essential strategies for academic excellence. These modules encompass areas such as time management and effective note-taking techniques.
+
+In addition to these fundamental skills, students will also be provided with opportunities to foster their confidence and to refine their public speaking abilities through sharing sessions with the cohort.
+
+![](/images/screenshot_12.jpg)
+
+![](/images/screenshot_13.jpg)
+*Sharing on study skills and on food sustainability in Singapore*
