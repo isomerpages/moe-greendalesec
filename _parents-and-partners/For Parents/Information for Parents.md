@@ -11,7 +11,7 @@ third_nav_title: For Parents
 **The Straits Times School Pocket Money Fund 2023**
 <br>_Closing Date: 11 Sep 2023 (Monday)_
 
-[Application Form](/files/2024_stspmf_application_form_for_schools.pdf) / [Income Declaration Form](/files/income-declaration-form.pdf)
+Application Form / Income Declaration Form
 
 **Group Personal Accident (GPA) Insurance Matters (For All Students)**
 
