@@ -7,10 +7,6 @@ Greendale Secondary embraces Blended Learning to nurture self-directed and indep
 
 A teaching methodology that integrates technology with teacher-led activities, Blended Learning complements our school programmes and aims to provide students a seamless blend of various modes of learning. One main aspect of Blended Learning is the integration of Home-Based Learning (HBL) as a regular feature of the school experience.
 
-**HBL Days in Semester One 2023**
-
-Blended Learning will be carried out for **_all levels_** in Semester One, with the first HBL session commencing on 17 January 2023, Tuesday. Details of HBL days can be found in the student handbook.
-
 **Structure of a HBL Day**
 
 <style type="text/css">
@@ -123,7 +119,7 @@ Blended Learning will be carried out for **_all levels_** in Semester One, wit
 </thead>
 </table>
 
-**SIL activities students can explore to _Grow_ and _Glow_ at Greendale Secondary School.**
+**SIL activities students can explore to&nbsp;_Grow_&nbsp;and&nbsp;_Glow_&nbsp;at Greendale Secondary School.**
 
 ![](/images/bl-2.jpg)
 
