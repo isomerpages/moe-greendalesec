@@ -37,12 +37,6 @@ sections:
       description: Dear Sec 1 - 3 Students, your EOY Exam Schedule is now available.
       button: Click Here
       url: /student-admin-services/students/assessment-schedule/
-  - infobar:
-      title: The Straits Times School Pocket Money Fund 2023
-      subtitle: Dear Parents / Guardians
-      description: is now open for application.
-      button: Click Here
-      url: /parents-and-partners/For-Parents/information-for-parents/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
