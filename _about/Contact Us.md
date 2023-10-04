@@ -24,4 +24,4 @@ description: ""
 <br><br>**General Enquiries &amp; Feedback**
 <br> [+65 6315 8616](tel:+6563158616)
 <br> [greendale_ss@schools.gov.sg](mailto:greendale_ss@schools.gov.sg)
-<br> Fax: +65 6315 8616
+<br> Fax: +65 6315 8420
