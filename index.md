@@ -23,9 +23,6 @@ sections:
         - title: School Yearbook 2022
           description: Click here to view it
           url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
-        - title: Direct School Admission (Sec) 2023
-          description: Click here to view it
-          url: /greendale-xperience/direct-school-admission/
   - infobar:
       title: Term 4 Infosheet
       subtitle: Dear Parents / Guardians
