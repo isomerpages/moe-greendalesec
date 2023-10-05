@@ -10,4 +10,4 @@ third_nav_title: Quick Links
 *   [MOE Intranet](https://intranet.moe.gov.sg/)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 *   [Human Resource Portal (HRP)](https://www.hrp.gov.sg/hrp/#/)
-*   [School Facilities Fault Reporting Form](https://form.gov.sg/#!/5f1662b6a919ad0011b9aa2e)
+*   [School e-Services Portal](https://go.gov.sg/gdss-e-services)
