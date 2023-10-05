@@ -4,6 +4,10 @@ permalink: /parents-and-partners/For-Parents/information-for-parents/
 description: ""
 third_nav_title: For Parents
 ---
+**Application for Admission to Greendale Sec School**
+
+Please click [here](https://go.gov.sg/gdss-application-for-admission)
+
 **Yearbook 2022**
 
 [Click here to download!](https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing)

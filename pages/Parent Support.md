@@ -2,9 +2,7 @@
 title: Parent Support
 permalink: /parents-and-partners/Parent-Support/
 description: ""
-third_nav_title: For Parents
 ---
-
 With the belief that Every Parent is a Supportive Partner, the PSG was started in 2011. The school strives to tap into the diverse talent and expertise of the parents to enhance the school programmes and to enrich the learning experiences of the students.
 
 Parents are invited to participate in various school events such as Honours Day and the Jogathon. Beyond the efforts to engage the parents as a collective group, efforts are also directed towards the PSG which provides support in the advocacy of the school’s direction and programmes. The PSG serves as a representative of the parents’ voices, provide constructive feedback and support towards the school’s progress, and support school functions and events through their presence and participation.
@@ -17,16 +15,14 @@ Studies show that students are more academically successful when there is a stro
 
 Parents are encouraged to join our support group which ensures regular communication with their child's teachers.
 
-<img src="/images/PSG-2.jpg" 
-     style="width:40%">
+<img src="/images/PSG-2.jpg" style="width:40%">
 
 PSG often serves as a platform for school-related queries to be raised; giving the school an opportunity to present their views on matters of concern to parents and hearing the parents’ perspectives.
 
 The PSG and the school seek to achieve a synergetic relationship for the common good of our children in GDLSS.
 
 
-<img src="/images/PSG-3.jpg" 
-     style="width:40%">
+<img src="/images/PSG-3.jpg" style="width:40%">
 		 
 ### Our PSG Goals
 
@@ -42,8 +38,8 @@ SHARE parenting tips and information and build your network and have a SUSTAINAB
 
 **Triple P Level 2 - Effective Parenting Approach to Raising Your Child**
 
-During your children’s growing up years, you may need some strategies to manage their behaviour, particularly when they reach adolescence. To support parents in building a healthy relationship with their child, the school is offering the _Positive Parenting Programme_ **(Triple P) Level 2 Seminar series**, endorsed by the Ministry of Social and Family Development (MSF).
+During your children’s growing up years, you may need some strategies to manage their behaviour, particularly when they reach adolescence. To support parents in building a healthy relationship with their child, the school is offering the&nbsp;_Positive Parenting Programme_&nbsp;**(Triple P) Level 2 Seminar series**, endorsed by the Ministry of Social and Family Development (MSF).
 
-For parents and guardians of Greendale Secondary School students, we are pleased to invite you to attend the **Triple P Level 2 Seminars**, free of charge. The programme is designed to equip parents with knowledge and skills in managing children's behaviours during their tween and teen years.
+For parents and guardians of Greendale Secondary School students, we are pleased to invite you to attend the&nbsp;**Triple P Level 2 Seminars**,&nbsp;free of charge. The programme is designed to equip parents with knowledge and skills in managing children's behaviours during their tween and teen years.
 
 For more information, please refer to the Parents' Blog update here

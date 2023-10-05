@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Parent Support.md
       - For Parents/Information for Parents.md
       - For Parents/Termly Letters.md
       - For Parents/Parents Gateway.md
