@@ -2,7 +2,6 @@
 title: Application Process
 permalink: /greendale-xperience/direct-school-admission/application-process/
 description: ""
-third_nav_title: Direct School Admission
 ---
 ### **Application (4 May 2023, 11am - 31 May 2023, 3pm)**
 
@@ -20,4 +19,3 @@ This takes place during the period stipulated, where all DSA-Sec schools will do
 | -------- | -------- |
 | From 26 Jun 2023 onwards     | Participating schools to shortlist and select students who have applied to their schools for the various talent areas.     |
 | By 11 Sep 2023 (or earlier)     | Participating schools to inform all their DSA-Sec applicants of the outcome.     |
-
