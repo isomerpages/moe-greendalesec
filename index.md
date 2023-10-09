@@ -29,12 +29,6 @@ sections:
       description: is now available for download.
       button: Click Here
       url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
-  - infobar:
-      title: End-of-Year Exam Schedule
-      subtitle: Attention Sec 1 - 3 Students
-      description: Dear Sec 1 - 3 Students, your EOY Exam Schedule is now available.
-      button: Click Here
-      url: /student-admin-services/students/assessment-schedule/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
