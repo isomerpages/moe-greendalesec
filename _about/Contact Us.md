@@ -23,5 +23,5 @@ description: ""
 <br> <img src="/images/logo-askgov.png" style="width: 10%;float:left">
 <br><br>**General Enquiries &amp; Feedback**
 <br> [+65 6315 8616](tel:+6563158616)
-<br> [greendale_ss@schools.gov.sg](mailto:greendale_ss@schools.gov.sg)
+<br> [greendale_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg)
 <br> Fax: +65 6315 8420
