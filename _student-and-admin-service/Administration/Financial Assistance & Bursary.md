@@ -8,7 +8,7 @@ third_nav_title: Administration
 
 1.  Miscellaneous and School Fees are collected&nbsp;between 20th&nbsp;of every month to 5th&nbsp;of next month. For students on GIRO, fees will be deducted on 26th&nbsp;of the month or the following working day if 26th&nbsp;the month falls on a non-working day.
 2.  We encourage parents to make fees payment through GIRO. It is more convenient and safer as students need not bring large amount of cash to school.
-3.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table:
+3.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table below (until 31 Dec 2023):
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,10 +33,10 @@ third_nav_title: Administration
 <tbody>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Citizen</span><br><br><span style="font-weight:inherit;font-style:inherit">·      Malay Students</span><br><span style="font-weight:inherit;font-style:inherit">·      Non-Malay Students</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$0</span><br><span style="font-weight:inherit;font-style:inherit">$5.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$0.00</span><br><span style="font-weight:inherit;font-style:inherit">$0.00</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$20.00</span><br><span style="font-weight:inherit;font-style:inherit">$25.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$20.00</span><br><span style="font-weight:inherit;font-style:inherit">$20.00</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Permanent Residents</span></td>
@@ -48,7 +48,15 @@ third_nav_title: Administration
 </tbody>
 </table>
 
-4.  School fees for International Student are as follows:
+4.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table below (2024):
+
+| TYPES OF STUDENTS | SCHOOL FEES | SINGLE TIER MISC FEES (NEW) | TOTAL |
+| -------- | -------- | -------- | -------- |
+| Singapore Citizen Malay Students | $0.00 | $20.00 | $20.00 |
+| Singapore Citizen Non-Malay Students | $0.00 | $20.00 | $20.00 |
+|Singapore Permanent Residents | $560.00 | $20.00 | $580.00 |
+
+5.  School fees for International Student are as follows (until 31 Dec 2023):
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -94,9 +102,9 @@ third_nav_title: Administration
 
 _\*List of ASEAN countries: Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam and Brunei_
 
-5.  Students who are eligible for an Edusave Account can use it to pay the 2nd&nbsp;Tier Miscellaneous Fees, whether they are on GIRO or on cash payment. Students who wish to do so can obtain the application form from the General Office.
-6.  GIRO deductions are made monthly. If the deduction for a particular month is unsuccessful due to insufficient funds, the amount will be deducted together with next month’s fees. The monthly GIRO deduction will be carried out on the 26th&nbsp;of each month.
-7.  The GIRO account will be suspended if it fails in the following month or exceeds 2 months fees. Once the arrears are settled in cash/cheque, the GIRO account will be automatically re-instated.
+6.  Students who are eligible for an Edusave Account can use it to pay the 2nd&nbsp;Tier Miscellaneous Fees, whether they are on GIRO or on cash payment. Students who wish to do so can obtain the application form from the General Office.
+7.  GIRO deductions are made monthly. If the deduction for a particular month is unsuccessful due to insufficient funds, the amount will be deducted together with next month’s fees. The monthly GIRO deduction will be carried out on the 26th&nbsp;of each month.
+8.  The GIRO account will be suspended if it fails in the following month or exceeds 2 months fees. Once the arrears are settled in cash/cheque, the GIRO account will be automatically re-instated.
 
 ### APPLICATION FOR MOE-FINANCIAL ASSISTANCE SCHEME (MOE-FAS)
 
