@@ -4,9 +4,9 @@ permalink: /student-admin-services/administration/financial-assistance-bursary/
 description: ""
 third_nav_title: Administration
 ---
-### MISCELLANEOUS & SCHOOL FEES
+### MISCELLANEOUS &amp; SCHOOL FEES
 
-1.  Miscellaneous and School Fees are collected between 20th of every month to 5th of next month. For students on GIRO, fees will be deducted on 26th of the month or the following working day if 26th the month falls on a non-working day.
+1.  Miscellaneous and School Fees are collected&nbsp;between 20th&nbsp;of every month to 5th&nbsp;of next month. For students on GIRO, fees will be deducted on 26th&nbsp;of the month or the following working day if 26th&nbsp;the month falls on a non-working day.
 2.  We encourage parents to make fees payment through GIRO. It is more convenient and safer as students need not bring large amount of cash to school.
 3.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table:
 
@@ -94,8 +94,8 @@ third_nav_title: Administration
 
 _\*List of ASEAN countries: Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam and Brunei_
 
-5.  Students who are eligible for an Edusave Account can use it to pay the 2nd Tier Miscellaneous Fees, whether they are on GIRO or on cash payment. Students who wish to do so can obtain the application form from the General Office.
-6.  GIRO deductions are made monthly. If the deduction for a particular month is unsuccessful due to insufficient funds, the amount will be deducted together with next month’s fees. The monthly GIRO deduction will be carried out on the 26th of each month.
+5.  Students who are eligible for an Edusave Account can use it to pay the 2nd&nbsp;Tier Miscellaneous Fees, whether they are on GIRO or on cash payment. Students who wish to do so can obtain the application form from the General Office.
+6.  GIRO deductions are made monthly. If the deduction for a particular month is unsuccessful due to insufficient funds, the amount will be deducted together with next month’s fees. The monthly GIRO deduction will be carried out on the 26th&nbsp;of each month.
 7.  The GIRO account will be suspended if it fails in the following month or exceeds 2 months fees. Once the arrears are settled in cash/cheque, the GIRO account will be automatically re-instated.
 
 ### APPLICATION FOR MOE-FINANCIAL ASSISTANCE SCHEME (MOE-FAS)
@@ -161,13 +161,15 @@ The following financial assistance schemes are available to needy Singaporean st
 </tbody>
 </table>
 
+![](/images/moe_fas_2024.jpg)
+
 For more details, please refer to:
 
 [MOE FAS Eligibility/Submission Checklist](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 ### How to apply
 
-Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by clicking here > [MOE Financial Assistance Application Form (eFAS) for 2023](https://form.gov.sg/#!/632432ba67747a0011d4a0cc)
+Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by clicking here &gt; [MOE Financial Assistance Application Form (eFAS) for 2024](https://form.gov.sg/64e2f8f73f582600139f54ac)
 		 
 To renew the financial assistance for the next calendar year, students will have to submit a NEW application with supporting documents. Students are encouraged to submit their new applications by end October in order to use the Textbook Grant, should their application qualify for MOE Financial Assistance.
 
