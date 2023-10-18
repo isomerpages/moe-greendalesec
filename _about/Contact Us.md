@@ -13,7 +13,7 @@ description: ""
 
 **Address**
 <br> 51 Edgedale Plains
-<br> Singapore 822866
+<br> Singapore 828866
 <br> **[VIEW MAP](https://maps.google.com/maps?q=51+Edgedale+Plains+Singapore+828866+) &gt;**
 
 ### Contact Us
