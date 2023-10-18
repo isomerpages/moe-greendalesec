@@ -161,6 +161,8 @@ The following financial assistance schemes are available to needy Singaporean st
 </tbody>
 </table>
 
+[](/images/moe_fas_2024.jpg)
+
 For more details, please refer to:
 
 [MOE FAS Eligibility/Submission Checklist](https://www.moe.gov.sg/financial-matters/financial-assistance)
