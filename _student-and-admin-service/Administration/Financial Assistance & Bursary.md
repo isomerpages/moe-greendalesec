@@ -33,10 +33,10 @@ third_nav_title: Administration
 <tbody>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Citizen</span><br><br><span style="font-weight:inherit;font-style:inherit">·      Malay Students</span><br><span style="font-weight:inherit;font-style:inherit">·      Non-Malay Students</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$0</span><br><span style="font-weight:inherit;font-style:inherit">$5.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$0.00</span><br><span style="font-weight:inherit;font-style:inherit">$0.00</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$20.00</span><br><span style="font-weight:inherit;font-style:inherit">$25.00</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$20.00</span><br><span style="font-weight:inherit;font-style:inherit">$20.00</span></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Permanent Residents</span></td>
@@ -50,7 +50,7 @@ third_nav_title: Administration
 
 4.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table below (2024):
 
-| TYPES OF STUDENTS | SCHOOL FEES | NEW SINGLE TIER MISC FEES | TOTAL |
+| TYPES OF STUDENTS | SCHOOL FEES | SINGLE TIER MISC FEES (NEW) | TOTAL |
 | -------- | -------- | -------- | -------- |
 | Singapore Citizen Malay Students | $0.00 | $20.00 | $20.00 |
 | Singapore Citizen Non-Malay Students | $0.00 | $20.00 | $20.00 |
