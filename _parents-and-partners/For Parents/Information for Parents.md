@@ -8,6 +8,10 @@ third_nav_title: For Parents
 
 Please click [here](https://go.gov.sg/gdss-application-for-admission)
 
+**MOE Financial Assistance Application Form (eFAS) for 2024**
+
+Please click [here](https://form.gov.sg/64e2f8f73f582600139f54ac)
+
 **Yearbook 2022**
 
 [Click here to download!](https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing)
