@@ -13,6 +13,6 @@ third_nav_title: For Students
 
 ### Holiday Homework for December 2023
 
-* [Secondary 1](/files/Academic_Support_Dec2023_Sec1.pdf)
-* [Secondary 2](/files/Academic_Support_Dec2023_Sec2.pdf)
-* [Secondary 3](/files/Academic_Support_Dec2023_Sec3.pdf)
+* [Secondary 1](/files/academic_support_dec2023_sec1.pdf)
+* [Secondary 2](/files/academic_support_dec2023_sec2.pdf)
+* [Secondary 3](/files/academic_support_dec2023_sec3.pdf)
