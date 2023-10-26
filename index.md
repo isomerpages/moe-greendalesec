@@ -29,6 +29,13 @@ sections:
       button: Click Here
       url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
       description: Students cultivate dispositions of resilience and compassion for
