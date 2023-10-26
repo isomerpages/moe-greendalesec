@@ -23,13 +23,6 @@ sections:
           description: Click here to view it
           url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
   - infobar:
-      title: December Holiday Assignment
-      subtitle: Dear Students
-      id: infobar
-      description: is now available for download.
-      button: Click Here
-      url: /student-admin-services/students/holiday-homework/
-  - infobar:
       title: Term 4 Infosheet
       subtitle: Dear Parents / Guardians
       description: is now available for download.
