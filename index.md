@@ -29,11 +29,11 @@ sections:
       button: Click Here
       url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: OPEN HOUSE 2023
+      subtitle: GREENDALE SECONDARY SCHOOL
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Saturday, 18 November 2023, 9:00 AM - 1:00 PM
+      image: /images/version3gdls open house banner 2023.jpg
       alt: Image alt text
   - infopic:
       title: LEARNERS
