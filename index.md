@@ -23,7 +23,7 @@ sections:
           description: Click here to view it
           url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
   - infobar:
-      title: Term 4 Infosheet
+      title: End-of-Year Infosheet
       subtitle: Dear Parents / Guardians
       description: is now available for download.
       button: Click Here
