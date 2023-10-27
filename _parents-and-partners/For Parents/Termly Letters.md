@@ -12,6 +12,7 @@ third_nav_title: For Parents
 * [End of Sem 1 Updates](/files/2023-03-end-of-sem-1-information-sheet.pdf)
 * [Term 3](/files/2023_04_term_3_information_sheet_23june_vetted.pdf)
 * [Term 4](/files/2023_05_term_4_information_sheet.pdf)
+* [End of Year Updates](/files/2023_06_end_of_semester_information_sheet_updated_26_oct.pdf)
 
 ### 2022
 
