@@ -7,9 +7,9 @@ variant: markdown
 ---
 ### Secondary 1 to 5 (2024):
 
-* Secondary 1 (Combi 1)
-* Secondary 1 (Combi 2)
-* Secondary 1 (Combi 3)
+* Secondary 1 (Combi 1) - *Available after Sec 1 2024 Posting Results*
+* Secondary 1 (Combi 2) - *Available after Sec 1 2024 Posting Results*
+* Secondary 1 (Combi 3) - *Available after Sec 1 2024 Posting Results*
 * [Secondary 2 (Combi 1)](/files/gdss_s2_nt.pdf)
 * [Secondary 2 (Combi 2)](/files/gdss_s2_na.pdf)
 * [Secondary 2 (Combi 3)](/files/gdss_s2_exp.pdf)
