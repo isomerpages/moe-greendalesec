@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Leaders' Message.md
+      - School Videos/Principal's Address (Open House 2023).md
       - School Videos/.keep
       - School Videos/Our Home, Our Pride.md
       - Vision, Mission & Values.md
