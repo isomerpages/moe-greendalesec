@@ -35,6 +35,8 @@ sections:
       description: Saturday, 18 November 2023, 9:00 AM - 1:00 PM
       image: /images/version3gdls open house banner 2023.jpg
       alt: Image alt text
+      url: /about/School-Videos/p-address-open-house-2023//
+      button: Click Here for P's Address
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
