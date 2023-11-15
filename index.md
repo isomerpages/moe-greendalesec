@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Greendale Secondary
       background: /images/20220517_092823.jpg
-      button: Click here for School Video
-      url: /about/School-Videos/our-home-our-pride/
+      button: Click here for Principal's Address
+      url: /about/School-Videos/p-address-open-house-2023//
       subtitle: Growing Hearts . Growing Minds
       key_highlights:
         - title: School Calendar
