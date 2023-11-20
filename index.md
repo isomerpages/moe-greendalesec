@@ -4,7 +4,7 @@ title: Greendale Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Come visit us at our Open House 2023 on Sat, 18 Nov, 9AM - 1PM!
+notification: ""
 sections:
   - hero:
       title: Greendale Secondary
