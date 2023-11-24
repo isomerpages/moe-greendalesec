@@ -3,12 +3,13 @@ title: General Info
 permalink: /student-admin-services/administration/general-info/
 description: ""
 third_nav_title: Administration
+variant: markdown
 ---
 The school Administration Office oversees the school administrative functions and provides a suite of services that support teaching and learning and day-to-day operations of the school.
 
 These services, which include general administration, school operations, financial, technical and logistics support, are provided by our School Administration Team (SAT).
 
-In Greendale Secondary, our small and dedicated SAT oversees and provides support for the different administrative areas.  We strives to provide quality services to meet the needs of staff, students, parents and stakeholders. We value mutual respect and welcome constructive feedback and comments that are respectful and civil to help us improves our services.
+In Greendale Secondary, our small and dedicated SAT oversees and provides support for the different administrative areas. &nbsp;We strives to provide quality services to meet the needs of staff, students, parents and stakeholders. We value mutual respect and welcome constructive feedback and comments that are respectful and civil to help us improves our services.
 
 Below are relevant contact for the various administrative functions:
 
@@ -40,9 +41,9 @@ Below are relevant contact for the various administrative functions:
     <td class="tg-kytw"><a href="mailto:mohd_ariff_abdul_aziz@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">mohd_ariff_abdul_aziz@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Azlan</span></td>
+    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">-</span></td>
     <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Info-Comm Technology Manager</span></td>
-    <td class="tg-kytw"><a href="mailto:azlan_shah_rahman@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">azlan_shah_rahman@moe.edu.sg</span></a></td>
+    <td class="tg-kytw"><a href="mailto:-"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">-</span></a></td>
   </tr>
 </tbody>
 </table>
