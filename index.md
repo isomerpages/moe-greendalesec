@@ -13,21 +13,9 @@ sections:
       url: /about/school-videos/p-address-open-house-2023/
       subtitle: Growing Hearts . Growing Minds
       key_highlights:
-        - title: School Calendar
-          description: Click here to view it
-          url: /student-and-admin-service/For-Students/school-calendar/
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
-        - title: School Yearbook 2022
-          description: Click here to view it
-          url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
-  - infobar:
-      title: End-of-Year Infosheet
-      subtitle: Dear Parents / Guardians
-      description: is now available for download.
-      button: Click Here
-      url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
