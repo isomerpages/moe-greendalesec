@@ -22,12 +22,6 @@ sections:
         - title: School Yearbook 2022
           description: Click here to view it
           url: https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing
-  - infobar:
-      title: End-of-Year Infosheet
-      subtitle: Dear Parents / Guardians
-      description: is now available for download.
-      button: Click Here
-      url: /parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
