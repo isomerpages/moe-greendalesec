@@ -24,6 +24,7 @@ sections:
       url: https://sites.google.com/moe.edu.sg/gdlss1reg2024/home
       image: /images/Sec_1_Registration_Website_Banner.jpg
       alt: Image alt text
+      subtitle: "GROW & GLOW: THE GREENDALE WAY"
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
