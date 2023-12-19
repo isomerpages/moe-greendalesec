@@ -17,6 +17,15 @@ sections:
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
   - infopic:
+      title: Secondary 1 Registration 2024
+      id: infopic
+      description: For more details, please
+      button: Click here
+      url: https://sites.google.com/moe.edu.sg/gdlss1reg2024/home
+      image: /images/Sec_1_Registration_Website_Banner.jpg
+      alt: Image alt text
+      subtitle: A VERY WARM WELCOME!
+  - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
       description: Students cultivate dispositions of resilience and compassion for
