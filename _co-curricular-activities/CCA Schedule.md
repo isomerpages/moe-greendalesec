@@ -2,5 +2,6 @@
 title: CCA Schedule
 permalink: /curriculum/co-curriculum/cca-schedule/
 description: ""
+variant: markdown
 ---
-![](/images/CCA-Schedule-2023-for-Website.jpg)
+![2024 CCA Schedule](/images/2024_CCA_Schedule.jpg)
