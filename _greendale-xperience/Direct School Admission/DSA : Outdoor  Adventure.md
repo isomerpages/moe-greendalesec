@@ -3,10 +3,11 @@ title: "DSA : Outdoor  Adventure"
 permalink: /greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ### Introduction 
 
-In Greendale Secondary School, **Outdoor Adventure** is an integrated approach to learning and development in which abstract character attributes and specific Outdoor Education (OE) related skillsets are nurtured through concrete experiences. ‘Learning by Doing’ is the hallmark of outdoor & adventure education.
+In Greendale Secondary School, **Outdoor Adventure Education** is an integrated approach to learning and development in which abstract character attributes and specific Outdoor Education (OE) related skillsets are nurtured through concrete experiences. ‘Learning by Doing’ is the hallmark of outdoor & adventure education.
 
 *   **_Outdoor Education_**, both at school and on residential courses, enable students to enjoy challenging and unfamiliar experiences that test and develop their physical, social and personal skills.
 *   **_Adventure Education_**, in offering students new and exciting challenges, helps them learn about assessing and managing risk. In the process and conduct of the activities, students’ personal qualities and leadership skills are strengthened.
@@ -22,9 +23,9 @@ Students accepted under DSA-Outdoor Adventure will be developed through a compre
 *   Possible participation in Republic Polytechnic’s Advance Elective Modules related to Outdoor Education.
 *   Possible work attachment to organisations that promotes Environment Awareness.
 
-### Highlights - **Outdoor Adventure Club Membership**
+### Highlights - **Outdoor Adventure Club or Canoeing CCA Membership**
 
-All DSA-OA selected applicants are channelled into the School’s ODAC. Members in ODAC will undergo a 4-year training and development programme that hone students in 19 Outdoor Education skills areas.
+All DSA-OA selected applicants are channelled into the School’s ODAC. Members in ODAC will undergo a 4-year training and development programme that hone students in 19 Outdoor Education skills areas while members in Canoeing will be trained to represent Greendale in National School Games Canoeing.
 
 ### Highlights - **SCF 1 Star Kayaking Certification** _(with the option to pursue 2 Star Kayaking)_
 
