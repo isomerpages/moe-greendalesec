@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /about/sac/
 description: ""
+variant: markdown
 ---
 <center><b>MR JOHNNY HARJANTHO</b><br>
 SAC CHAIRMAN<br>
@@ -10,8 +11,8 @@ SAC CHAIRMAN<br>
 	
 <center><b>MR ADVANI AJAY JIWAT</b><br>
 SAC MEMBER<br>
-<i>VICE PRESIDENT, PARTNERS (ASIA-PACIFIC & JAPAN)<br> 
-	SALESFORCE.COM SINGAPORE PTE LTD</i></center>
+<i>VICE PRESIDENT, PARTNERS (ASIA-PACIFIC &amp; JAPAN)<br> 
+	OKTA SINGAPORE PTE LTD</i></center>
 	
 <center><b>MDM ALICE YEO</b><br>
 SAC MEMBER<br>
@@ -19,31 +20,35 @@ SAC MEMBER<br>
 
 <center><b>MR JEREMY LIM</b><br>
 SAC MEMBER<br>
-<i>MANAGEMENT ASSOCIATE <br> 
-	KPMG</i></center>
+<i>SENIOR ASSOCIATE <br> 
+	GFR RUND</i></center>
 	
-<center><b>DR RAJ THAMPURAN</b><br>
+<center><b>DR C. MANOKARAN</b><br>
 SAC MEMBER<br>
-<i>MANAGING DIRECTOR, TECHNOLOGY & RESEARCH<br> 
-SURBANA JURONG PTE LTD</i></center>
+<i>MANAGING DIRECTOR<br> 
+MANO EQUESTRIAN SERVICES PTE LTD</i></center>
 	
-
 <center><b>MR SIM LEONG HOCK</b><br>
 SAC MEMBER<br>
 <i>GRASSROOTS LEADER<br> 
 E.M. SERVICES PTE LTD</i></center>
 	
-
 <center><b>MS TAN CATHERINE</b><br>
 SAC MEMBER<br>
-<i>MANAGEMENT CONSULTANT<br> 
+<i>SENIOR MANAGER<br> 
 SINGAPORE MANAGEMENT UNIVERSITY</i></center>
 
-<center><b>MR TEH KIHUI</b><br>
+<center><b>DR INTAN AZURA MOKHTAR</b><br>
 SAC MEMBER<br>
-<i>HEAD OF INVESTMENT, BANKING & GLOBAL CLIENT (ASEAN)<br> 
-BANK OF CHINA</i></center>
+<i>ASSOCIATE PROFESSOR &amp; DEPUTY DIRECTOR (COMMUNITY LEADERSHIP AND SOCIAL INNOVATION CENTRE)<br> 
+SINGAPORE INSTITUTE OF TECHNOLOGY</i></center>
 
+<center><b>MR MIGUEL DE LABUZU BAYON</b><br>
+SAC MEMBER<br>
+<i>BUSINESS DEVELOPMENT DIRECTOR - APAC RENEWABLE ENERGIES<br> 
+TOTAL ENERGIES</i></center>
 
-
-
+<center><b>MR MOHAMMAD KAHAR B ABU HASSAN</b><br>
+SAC MEMBER<br>
+<i>MANAGING DIRECTOR<br> 
+IJO CORPORATION, INC PTE LTD</i></center>
