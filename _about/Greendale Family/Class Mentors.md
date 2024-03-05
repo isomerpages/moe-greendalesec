@@ -434,7 +434,7 @@ variant: tiptap
 <p>Ms Anggy Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anggy_toh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anggy_toh@moe.edu.sg</a>
+<p><a href="mailto:toh_anggy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_anggy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
