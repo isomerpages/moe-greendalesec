@@ -42,7 +42,7 @@ events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Leadership.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Leadership_updated.png">
 </div>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
@@ -64,30 +64,15 @@ Camp for their juniors.</p>
 <p>Our student leaders go through a variety of training programmes and get
 opportunities to plan activities and events throughout the year to become
 better servant leaders who are able to&nbsp;<strong>SERVE</strong>,&nbsp;<strong>LEAD</strong>&nbsp;and&nbsp;<strong>EXCEL</strong>.
-Below are some of the highlights.</p>
-<p><strong>Training Leaders</strong>
-</p>
-<p><em>Class Leaders Workshop &amp; Peer Support Leaders Training</em>
-</p>
-<p>This workshop is designed specifically for our Class EXCO (Class Leaders
-&amp; Peer Support Leaders) with the objective of equipping them with the
-skills to better lead their classes and support their peers. They were
-also given the time and opportunity to plan some bonding activities for
-the classes.</p>
-<p><em>Servant Leaders Training Programme</em>
-</p>
-<p>The Inspiring Leaders Training Programme is organised for appointed student
-leaders from the Student Council, Sports Council and CCAs to take on their
-leadership roles and hone their planning and conceptualization skills.</p>
+Below are some of the highlights of opportunities for students to lead.</p>
 <p><strong>Leaders in Action</strong>
 </p>
 <p><strong><em>Sec 1 Orientation: Camp R3ISE</em></strong>
 </p>
 <p>The Sec 1 Orientation programme is the pinnacle event organised by a team
-of Student Leaders who have undergone the Aspiring Leaders Training and
-Inspiring Leaders Training Programmes. The event is meant to welcome the
-new Secondary 1 students to the school and consists of a series of activities
-organised by the student leaders.</p>
+of Student Leaders who have undergone the Servant Leadership Training Programme.
+The event is meant to welcome the new Secondary 1 students to the school
+and consists of a series of activities organised by the student leaders.</p>
 <p><strong><em>Games Carnival</em></strong>
 </p>
 <p>One of the main events organised by the Sports Leaders is the Games Carnival.
