@@ -3,10 +3,11 @@ title: Education Career Counselling
 permalink: /curriculum/character-citizenship-education/education-career-counselling/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-**Education and Career Guidance (ECG)** at GDLS aims to equip our students with the necessary knowledge, skills and values, to make decisions for successful transition from school to further education or work.
+**Education and Career Guidance (ECG)**&nbsp;at GDLS aims to equip our students with the necessary knowledge, skills and values, to make decisions for successful transition from school to further education or work.
 
-The programmes under **GDLS ECG Framework** will enable our students to:
+The programmes under&nbsp;**GDLS ECG Framework**&nbsp;will enable our students to:
 
 *   Explore viable education and career options through the provision of accurate and comprehensive information.
 *   Nurture self-awareness, self-directedness and lifeskills to set wise goals, so that they will continually learn and add value to their future workplace.
@@ -54,15 +55,13 @@ The programmes under **GDLS ECG Framework** will enable our students to:
 
 The objective of the Careers Day is to inspire the Sec 3 students to explore career paths and post-secondary education options. Students attend talks by guest speakers from a wide variety of industries in the morning and visit post-secondary education institutes or industries in the afternoon.
 
-<img src="/images/image19.jpg" 
-     style="width:50%">
+<img src="/images/image19.jpg" style="width:50%">
 
 ### Experience Poly / ITE Programme
 
 Students spent a few days immersing themselves in one of the Poly / ITE courses to get a taste of life as a Poly/ITE student and experience the facilities offered.
 
-<img src="/images/ecg3.png" 
-     style="width:50%">
+<img src="/images/ecg3.png" style="width:50%">
 
 ### Work Attachment Programme
 
@@ -76,15 +75,15 @@ programme designed to increase students’ understanding of the skills needed in
 
 Our ECG Counsellor, Ms Adeline Ng, supports students (individually or in small groups) by exploring their interests and strengths, and addressing their concerns or questions about education options and career exploration. Students may make an appointment with her through the following means, or ask her questions online.
 
-* Online booking form: [http://go.gov.sg/gdlssecg](https://www.booking.gov.sg/public/services/D36YEo6y/availability?spId=Gevzgoeo&anonymous=true)
+* Online booking form:&nbsp;[http://go.gov.sg/gdlssecg](https://www.booking.gov.sg/public/services/D36YEo6y/availability?spId=Gevzgoeo&amp;anonymous=true)
 
-* Email: [ng_ling_ling_adeline@schools.gov.sg](mailto:ng_ling_ling_adeline@schools.gov.sg)
+* Email:&nbsp;[ng_ling_ling_adeline@schools.gov.sg](mailto:ng_ling_ling_adeline@schools.gov.sg)
 
 Please note that Ms Adeline Ng is available at GDLS every Wednesday and Friday from 8am to 5pm.
 
 ### MySkillsFuture Portal – Online Resource for Secondary Students
 
-Students can also explore their career interests, gather education and industry information, and have their personal profiling or resume created online via the e-portal: [https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+Students can also explore their career interests, gather education and industry information, and have their personal profiling or resume created online via the e-portal:&nbsp;[https://www.myskillsfuture.gov.sg/content/student/en/secondary.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
 ![](/images/9-1.png)
 
@@ -100,11 +99,11 @@ To find out more about MOE’s ECG curriculum, please refer to this link:
 To learn about various post-secondary education options, please refer to:  
 [https://www.moe.gov.sg/post-secondary](https://www.moe.gov.sg/post-secondary)
 
-For information about Polytechnic Early Admissions Exercise (Poly EAE), please refer to: [https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
+For information about Polytechnic Early Admissions Exercise (Poly EAE), please refer to:&nbsp;[https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp)
 
 For information about ITE Early Admissions Exercise (ITE EAE), please refer to:  
 [https://www.moe.gov.sg/post-secondary/admissions/ite-eae](https://www.moe.gov.sg/post-secondary/admissions/ite-eae)
 
-For information about Polytechnic Foundation Programme (PFP), please refer to: [https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html)
+For information about Polytechnic Foundation Programme (PFP), please refer to:&nbsp;[https://pfp.polytechnic.edu.sg/PFP/pfp\_introduction.html](https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html)
 
-For information about Direct-Entry-Scheme to Polytechnic Programme (DPP), please refer to: [https://www.moe.gov.sg/post-secondary/admissions/dpp](https://www.moe.gov.sg/post-secondary/admissions/dpp)
+For information about Direct-Entry-Scheme to Polytechnic Programme (DPP), please refer to:&nbsp;[https://www.moe.gov.sg/post-secondary/admissions/dpp](https://www.moe.gov.sg/post-secondary/admissions/dpp)
