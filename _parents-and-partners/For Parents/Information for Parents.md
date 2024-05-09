@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Product-Fact-Sheet-Year-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Sheet</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Sheet</a>
 </p>
 </li>
 <li>
