@@ -2,9 +2,9 @@
 title: Instructional Programme
 permalink: /curriculum/instructional-programme/
 description: ""
+variant: markdown
 ---
-![](/images/Annex-B_-Updated-TL-Framework-3-Feb-2021_Page_1-scaled.jpg)
-
+![T&L](/images/teaching%20and%20learning.png)
 ### Introduction
 
 1.  Guided by Greendale Secondary School’s mission to nurture talents, develop character and inspire lives, the updated 2021 T&L Framework (TLF) undergirds the implementation of the total curriculum to achieve the desired outcomes for our students.
