@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Talent Development
 variant: markdown
 ---
-
 ![APEX](/images/talent%20development%20apex%20prog.png)
 
 The APEX Programme represents a specialised programme within the Cognitive domain tailored to cater to our top-performing students. It aims to cultivate individuals who exhibits critical thinking and innovation, coupled with a positive Attitude and Perseverance to attain Excellence.
