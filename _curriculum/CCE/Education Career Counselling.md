@@ -152,23 +152,42 @@ online via the e-portal:&nbsp;<a href="https://www.myskillsfuture.gov.sg/content
 <p>Parents who would like some tips and advice on supporting your child in
 his/her key education stages, may read the e-publication titled “<a href="http://www.moe.gov.sg/microsites/ecg-parent-guide" rel="noopener noreferrer nofollow" target="_blank">Journeying with Our Children, Achieving their Aspirations</a>”.</p>
 <h3>Some Useful Links</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>To find out more about MOE’s ECG curriculum, please refer to this link:
 <br><a href="https://www.moe.gov.sg/programmes/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/programmes/education-and-career-guidance</a>
 </p>
+</li>
+<li>
 <p>To learn about various post-secondary education options, please refer
 to:
 <br><a href="https://www.moe.gov.sg/post-secondary" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary</a>
 </p>
+</li>
+<li>
 <p>For information about Polytechnic Early Admissions Exercise (Poly EAE),
 please refer to:&nbsp;<a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp</a>
 </p>
+</li>
+<li>
 <p>For information about ITE Early Admissions Exercise (ITE EAE), please
 refer to:
 <br><a href="https://www.moe.gov.sg/post-secondary/admissions/ite-eae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/ite-eae</a>
 </p>
+</li>
+<li>
 <p>For information about Polytechnic Foundation Programme (PFP), please refer
 to:&nbsp;<a href="https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html" rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html</a>
 </p>
+</li>
+<li>
 <p>For information about Direct-Entry-Scheme to Polytechnic Programme (DPP),
 please refer to:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dpp</a>
 </p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/dreamdale-ecg" rel="noopener noreferrer nofollow" target="_blank">Dreamdale ECG website</a>
+</p>
+</li>
+</ul>
+<p></p>
