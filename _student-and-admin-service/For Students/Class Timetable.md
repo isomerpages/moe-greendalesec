@@ -27,19 +27,19 @@ variant: tiptap
 <h3>Semester 2 (2024)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/tt_2023_sem_2_23jun_s1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/2024_Sem2_TT_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/tt_2023_sem_2_23jun_s2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
+<p><a href="/files/2024_Sem2_TT_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/tt_2023_sem_2_23jun_s3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
+<p><a href="/files/2024_Sem2_TT_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/tt_2023_sem_2_23jun_s4-5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
+<p><a href="/files/2024_Sem2_TT_Sec_4___Sec_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
 </li>
 </ul>
