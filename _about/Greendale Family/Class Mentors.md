@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Greendale Family
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -101,10 +106,10 @@ variant: tiptap
 <p>1D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Li Kiang</p>
+<p>Ms Evangeline Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_li_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_kiang@moe.edu.sg</a>
+<p><a href="mailto:evangeline_wong_pui_mun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evangeline_wong_pui_mun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -206,7 +211,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -254,7 +264,7 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Della</p>
+<p>Mdm Della</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:della_fardina_idris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">della_fardina_idris@moe.edu.sg</a>
@@ -398,16 +408,20 @@ variant: tiptap
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rudy Neo</p>
+<p>Ms Abby Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_dongli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_dongli@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -503,11 +517,10 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Suan Shiau</p>
+<p>Mr Chang How-chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_suan_shiau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek_suan_shiau@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -572,6 +585,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr William Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -596,7 +621,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
