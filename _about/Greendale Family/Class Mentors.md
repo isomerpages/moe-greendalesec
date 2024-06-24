@@ -411,7 +411,8 @@ variant: tiptap
 <p>Ms Abby Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_ying_hsien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ying_hsien@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -520,7 +521,8 @@ variant: tiptap
 <p>Mr Chang How-chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chang_how_chun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_how_chun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -591,8 +593,8 @@ variant: tiptap
 <p>Mr William Teng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p><a href="mailto:teng_ming_kiat_william@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ming_kiat_william@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
