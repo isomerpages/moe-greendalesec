@@ -50,10 +50,6 @@ variant: tiptap
 </p>
 <p>Please click <a href="/student-admin-services/students/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p><strong>Holiday Homework</strong>
-</p>
-<p>Please click <a href="/student-admin-services/students/holiday-homework/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
 <p><strong>Booklists</strong>
 </p>
 <p>Please click <a href="/student-admin-services/students/booklists/" rel="noopener noreferrer nofollow" target="_blank">here</a>
