@@ -42,21 +42,21 @@ variant: tiptap
 <p><a href="/files/School-Transport-Subsidy-Scheme-EDM.pdf" rel="noopener noreferrer nofollow" target="_blank">EDM</a> /
 <a href="https://go.gov.sg/neasrf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
-<p><strong>Termly Letters</strong>
+<p><strong>GDLS on Socials</strong>
 </p>
-<p>Please click <a href="/parents-partners/parent-support/parent-engagement/notification-to-parents/termly-letters/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.facebook.com/greendalesec" rel="noopener noreferrer nofollow" target="_blank">GDLS on Facebook</a>
 </p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/greendalesecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">GDLS on Instagram</a>
+</p>
+</li>
+</ul>
 <p><strong>Class Timetable</strong>
 </p>
 <p>Please click <a href="/student-admin-services/students/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p><strong>Assessment Schedule</strong>
-</p>
-<p>Please click <a href="/student-admin-services/students/assessment-schedule/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p><strong>Holiday Homework</strong>
-</p>
-<p>Please click <a href="/student-admin-services/students/holiday-homework/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p><strong>Booklists</strong>
 </p>
