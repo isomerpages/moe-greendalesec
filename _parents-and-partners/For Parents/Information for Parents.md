@@ -17,8 +17,9 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
 </p>
-<p><strong>The Straits Times School Pocket Money Fund 2023</strong> 
-<br><em>Closing Date: 11 Sep 2023 (Monday)</em>
+<p><strong>The Straits Times School Pocket Money Fund 2024</strong> 
+<br><em>Closing Date: 11 Sep 2024 (Wednesday)</em>
+<br>
 </p>
 <p>Application Form / Income Declaration Form</p>
 <p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
