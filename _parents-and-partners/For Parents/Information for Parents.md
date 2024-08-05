@@ -21,7 +21,7 @@ variant: tiptap
 <br><a href="https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
 </p>
 </li>
-</ul>
+<li>
 <p><strong>The Straits Times School Pocket Money Fund 2024</strong> 
 <br><em>Closing Date: 11 Sep 2024 (Wednesday)</em>
 <br><em><u>Students have to meet the following criteria:</u></em>
@@ -45,7 +45,7 @@ post-secondary school.
 <br><a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Application Form</a>
 <br><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declaration Form</a>
 </p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
 <br><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Sheet</a>
