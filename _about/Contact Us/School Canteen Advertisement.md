@@ -56,10 +56,11 @@ Programme (HMSP)” guidelines (see&nbsp;<a rel="noopener noreferrer nofollow" t
 </li>
 <li>
 <p>Healthy and fit to operate the stall.</p>
+<p></p>
 </li>
-<li>
+</ul>
 <p>Applicants should preferably fulfill the following criteria:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
