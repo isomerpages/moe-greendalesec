@@ -1,7 +1,9 @@
 ---
-title: Contact Us
+title: School Information
 permalink: /about/contact-us/
 description: ""
+variant: tiptap
+third_nav_title: Contact Us
 ---
 # **<span style="color:#000000">Get in touch with</span> Greendale Secondary School**
 
