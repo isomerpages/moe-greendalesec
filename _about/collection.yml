@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - School Canteen Advertisement/.keep
       - School Leaders' Message.md
       - School Videos/.keep
       - School Videos/Principal's Address (Open House 2023).md
