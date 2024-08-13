@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Contact Us
 ---
-<p><strong>SCHOOL CANTEEN ADVERTISEMENT</strong>
-</p>
-<p></p>
+<h4><strong>Stall Vacancy</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Canteen.png">
 </div>
