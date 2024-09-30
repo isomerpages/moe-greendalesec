@@ -3,6 +3,7 @@ title: Financial Assistance & Bursary
 permalink: /student-admin-services/administration/financial-assistance-bursary/
 description: ""
 third_nav_title: Administration
+variant: markdown
 ---
 ### MISCELLANEOUS &amp; SCHOOL FEES
 
@@ -177,7 +178,7 @@ For more details, please refer to:
 
 ### How to apply
 
-Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by clicking here &gt; [MOE Financial Assistance Application Form (eFAS) for 2024](https://form.gov.sg/64e2f8f73f582600139f54ac)
+Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by clicking here &gt; [MOE Financial Assistance Application Form (eFAS) for 2024](https://go.gov.sg/moe-efas)
 		 
 To renew the financial assistance for the next calendar year, students will have to submit a NEW application with supporting documents. Students are encouraged to submit their new applications by end October in order to use the Textbook Grant, should their application qualify for MOE Financial Assistance.
 
