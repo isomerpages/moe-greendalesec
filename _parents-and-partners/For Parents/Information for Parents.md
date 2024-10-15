@@ -13,11 +13,9 @@ variant: tiptap
 </li>
 <li>
 <p><strong>MOE Financial Assistance Application Form (eFAS) for 2025</strong>
-<br>Please click <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<br>Please click <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here for application form</a>
+<br>For more information, download <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moe_fas_EL_2024.jpg">
-</div>
 </li>
 <li>
 <p><strong>Yearbook 2022</strong>
