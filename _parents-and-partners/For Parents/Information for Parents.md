@@ -12,38 +12,14 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>MOE Financial Assistance Application Form (eFAS) for 2024</strong>
-<br>Please click <a href="https://form.gov.sg/64e2f8f73f582600139f54ac" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><strong>MOE Financial Assistance Application Form (eFAS) for 2025</strong>
+<br>Please click <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">here for application form</a>
+<br>For more information, download <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>
 <p><strong>Yearbook 2022</strong>
 <br><a href="https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
-</p>
-</li>
-<li>
-<p><strong>The Straits Times School Pocket Money Fund 2024</strong> 
-<br><em>Closing Date: 11 Sep 2024 (Wednesday)</em>
-<br><em><u>Students have to meet the following criteria:</u></em>
-<br>a. &nbsp; Student is a Singapore Citizen (SC) or Singapore Permanent Resident
-(SPR); and
-<br>b. &nbsp; <s>Family is living in a 4-room HDB flat or smaller; and</s>&nbsp;<strong>(With effect from Cycle 1 2025, housing type will no longer be a criteria for STSPMF. We will however collect the housing details for data analysis.&nbsp;(Operating manual para 4.6)</strong>
-<br>c. &nbsp; Family has a Gross per capita income (PCI) of $750/ month or
-less; and
-<br>d. &nbsp; Student is receiving full-time formal education at a mainstream
-primary/secondary school/Junior College/ Centralised Institute/ Mixed Level/
-specialised school/independent school/specialised independent school/ SPED/
-MOE-designated full-time Madrasahs; and
-<br>e. &nbsp; Is not concurrently receiving school pocket money from another
-STSPMF disbursing agency or receiving monthly school pocket money from
-other schemes, excluding MOE/SPED FAS and ComCare; and
-<br>f. &nbsp; &nbsp;Has not been a STSPMF beneficiary for 24 months for the
-whole schooling years of primary and secondary school and 48 months for
-post-secondary school.
-<br>
-<br><em>(NOTE:&nbsp;&nbsp;If the student is currently receiving MOE/SPED FAS or ComCare Assistance, schools need not collect identification and income supporting documents.&nbsp;The student will only need to submit completed Annex A (Application form) with MOE/SPED FAS or ComCare Assistance letter indicating period of assistance (Submission will be accepted as long as the Applicant/student is under assistance at the point of STSPMF application).&nbsp;(Operating manual para 4.6)</em>&nbsp;
-<br><a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Application Form</a>
-<br><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declaration Form</a>
 </p>
 </li>
 <li>
