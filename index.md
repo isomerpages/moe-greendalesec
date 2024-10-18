@@ -17,6 +17,13 @@ sections:
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
   - infopic:
+      title: Open House 2024
+      subtitle: Greendale secondary school
+      id: infopic
+      description: Saturday, 16 November 2024, 9am - 1pm
+      image: /images/GDLS_OPEN_HOUSE_POSTER_2024__6_.jpg
+      alt: Image alt text
+  - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
       description: Students cultivate dispositions of resilience and compassion for
