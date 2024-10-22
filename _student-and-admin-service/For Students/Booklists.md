@@ -3,20 +3,29 @@ title: Booklists
 permalink: /student-admin-services/students/booklists/
 description: ""
 third_nav_title: For Students
-variant: markdown
+variant: tiptap
 ---
-### Secondary 1 to 5 (2024):
-
-* Secondary 1 (Combi 1) - *Available after Sec 1 2024 Posting Results*
-* Secondary 1 (Combi 2) - *Available after Sec 1 2024 Posting Results*
-* Secondary 1 (Combi 3) - *Available after Sec 1 2024 Posting Results*
-* [Secondary 2 (Combi 1)](/files/gdss_s2_nt.pdf)
-* [Secondary 2 (Combi 2)](/files/gdss_s2_na.pdf)
-* [Secondary 2 (Combi 3)](/files/gdss_s2_exp.pdf)
-* [Secondary 3 (Combi 1)](/files/gdss_s3_nt.pdf)
-* [Secondary 3 (Combi 2)](/files/gdss_s3_na.pdf)
-* [Secondary 3 (Combi 3)](/files/gdss_s3_exp.pdf)
-* [Secondary 4 Express](/files/gdss_s4_exp.pdf)
-* [Secondary 4 Normal (Academic)](/files/gdss_s4_na.pdf)
-* [Secondary 4 Normal (Technical)](/files/gdss_s4_nt.pdf)
-* [Secondary 5 Normal (Academic)](/files/gdss_s5_na.pdf)
+<h3>Secondary 1 to 5 (2025):</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 - <em>Available after Sec 1 2025 Posting Results</em>
+</p>
+</li>
+<li>
+<p><a href="/files/GDSS_SEC_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/GDSS_SEC_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/GDSS_SEC_4.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/GDSS_SEC_5_NA.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a>
+</p>
+</li>
+</ul>
+<p></p>
