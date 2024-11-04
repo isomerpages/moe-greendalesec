@@ -24,6 +24,8 @@ sections:
         Greendale Experience, click here:"
       image: /images/GDLS_OPEN_HOUSE_POSTER_2024__6_.jpg
       alt: Image alt text
+      url: /about/School-Videos/our-home-our-pride/
+      button: School Corporate Video 2024
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
