@@ -20,9 +20,12 @@ sections:
       title: Open House 2024
       subtitle: Greendale secondary school
       id: infopic
-      description: Saturday, 16 November 2024, 9am - 1pm
+      description: "Saturday, 16 November 2024, 9am - 1pm. To get a sense of our
+        Greendale Experience, click here:"
       image: /images/GDLS_OPEN_HOUSE_POSTER_2024__6_.jpg
       alt: Image alt text
+      url: /about/School-Videos/our-home-our-pride/
+      button: School Corporate Video 2024
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
