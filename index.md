@@ -45,7 +45,7 @@ sections:
         in Nurturing the Greendale Way together, we inspire our students to grow
         and glow
       button: Parent Support Group Video
-      url: /about/school-videos/p-address-open-house-2024/
+      url: /psg-outreach-video/
       alt: Image alt text
       image: /images/IMG_8090.jpg
   - infopic:
