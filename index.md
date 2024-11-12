@@ -38,7 +38,7 @@ sections:
       image: /images/IMG_2434.jpg
       alt: Image alt text
   - infopic:
-      title: PARENT SUPPORT GROUP
+      title: Parent Support Group
       subtitle: green dale secondary school
       id: infopic
       description: A Heartfelt Thank You to Our Parent Support Group - Valued Partners
