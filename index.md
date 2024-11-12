@@ -53,4 +53,14 @@ sections:
       alt: LEADERS
       image: /images/leader.jpg
       url: /about/about/vision-mission-values/
+  - infopic:
+      title: PRINCIPAL'S ADDRESS (OPEN HOUSE 2024)
+      subtitle: Greendale secondary school
+      id: infopic
+      description: Discover the Greendale experience where we cultivate growing hears
+        and growing minds with CTS - Collaboration, Thinking and Safety.
+      button: Watch Principal's Address
+      url: /about/school-videos/growing-hearts-growing-minds
+      image: /images/IMG_2434.jpg
+      alt: Image alt text
 ---
