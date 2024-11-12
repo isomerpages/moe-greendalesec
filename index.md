@@ -38,6 +38,17 @@ sections:
       image: /images/IMG_2434.jpg
       alt: Image alt text
   - infopic:
+      title: PARENT SUPPORT GROUP
+      subtitle: green dale secondary school
+      id: infopic
+      description: A Heartfelt Thank You to Our Parent Support Group - Valued Partners
+        in Nurturing the Greendale Way together, we inspire our students to grow
+        and glow
+      button: Parent Support Group Video
+      url: /about/school-videos/p-address-open-house-2024/
+      alt: Image alt text
+      image: /images/IMG_8090.jpg
+  - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
       description: Students cultivate dispositions of resilience and compassion for
@@ -64,14 +75,4 @@ sections:
       alt: LEADERS
       image: /images/leader.jpg
       url: /about/about/vision-mission-values/
-  - infopic:
-      title: PARENT SUPPORT GROUP
-      subtitle: green dale secondary school
-      id: infopic
-      description: A Heartfelt Thank You to Our Parent Support Group - Valued Partners
-        in Nurturing the Greendale Way together, we inspire our students to grow
-        and glow
-      button: Parent Support Group Video
-      url: /about/school-videos/p-address-open-house-2024/
-      alt: Image alt text
 ---
