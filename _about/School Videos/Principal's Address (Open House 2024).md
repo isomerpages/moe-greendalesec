@@ -1,8 +1,11 @@
 ---
 title: Principal's Address (Open House 2024)
 permalink: /about/school-videos/p-address-open-house-2023/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: School Videos
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/PUPKcdyh5NU?si=B1uARfpDkr51nqsE" height="315" width="560"></iframe>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XJXJTnwbqPE?si=cAxrBODw8kHkLAAa"></iframe>
+</div>
+<p></p>
