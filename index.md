@@ -24,7 +24,7 @@ sections:
         Greendale Experience, click here:"
       image: /images/GDLS_OPEN_HOUSE_POSTER_2024__6_.jpg
       alt: Image alt text
-      url: /about/school-videos/growing-hearts-growing-minds
+      url: /about/school-videos/school-corporate-video-growing-hearts-growing-minds/
       button: School Corporate Video 2024
   - infopic:
       title: LEARNERS
