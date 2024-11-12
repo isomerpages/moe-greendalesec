@@ -41,9 +41,9 @@ sections:
       title: Parent Support Group
       subtitle: green dale secondary school
       id: infopic
-      description: A Heartfelt Thank You to Our Parent Support Group - Valued Partners
-        in Nurturing the Greendale Way together, we inspire our students to grow
-        and glow
+      description: Thank you to our Parent Support Group – trusted partners in the
+        Greendale Way. Click here to find out why they choose Greendale for
+        their children.
       button: Parent Support Group Video
       url: /psg-outreach-video/
       alt: Image alt text
