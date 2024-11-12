@@ -39,7 +39,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Parent Support Group
-      subtitle: green dale secondary school
+      subtitle: greendale secondary school
       id: infopic
       description: Thank you to our Parent Support Group – trusted partners in the
         Greendale Way. Click here to find out why they choose Greendale for
