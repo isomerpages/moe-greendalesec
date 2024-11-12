@@ -20,12 +20,22 @@ sections:
       title: Open House 2024
       subtitle: Greendale secondary school
       id: infopic
-      description: "Saturday, 16 November 2024, 9am - 1pm. To get a sense of our
+      description: "Saturday, 16 November 2024, 9am - 1pm. To get a sense of the
         Greendale Experience, click here:"
       image: /images/GDLS_OPEN_HOUSE_POSTER_2024__6_.jpg
       alt: Image alt text
       url: /about/school-videos/school-corporate-video-growing-hearts-growing-minds/
-      button: School Corporate Video 2024
+      button: Growing Hearts, Growing Minds
+  - infopic:
+      title: PRINCIPAL'S ADDRESS (OPEN HOUSE 2024)
+      subtitle: Greendale secondary school
+      id: infopic
+      description: Discover the Greendale experience where we cultivate growing hears
+        and growing minds with CTS - Collaboration, Thinking and Safety.
+      button: Watch Principal's Address
+      url: /about/school-videos/p-address-open-house-2024/
+      image: /images/IMG_2434.jpg
+      alt: Image alt text
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
@@ -54,13 +64,13 @@ sections:
       image: /images/leader.jpg
       url: /about/about/vision-mission-values/
   - infopic:
-      title: PRINCIPAL'S ADDRESS (OPEN HOUSE 2024)
-      subtitle: Greendale secondary school
+      title: PARENT SUPPORT GROUP
+      subtitle: green dale secondary school
       id: infopic
-      description: Discover the Greendale experience where we cultivate growing hears
-        and growing minds with CTS - Collaboration, Thinking and Safety.
-      button: Watch Principal's Address
+      description: A Heartfelt Thank You to Our Parent Support Group - Valued Partners
+        in Nurturing the Greendale Way together, we inspire our students to grow
+        and glow
+      button: Parent Support Group Video
       url: /about/school-videos/p-address-open-house-2024/
-      image: /images/IMG_2434.jpg
       alt: Image alt text
 ---
