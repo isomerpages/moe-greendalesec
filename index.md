@@ -30,8 +30,9 @@ sections:
       title: PRINCIPAL'S ADDRESS (OPEN HOUSE 2024)
       subtitle: Greendale secondary school
       id: infopic
-      description: Discover the Greendale experience where we cultivate growing hears
-        and growing minds with CTS - Collaboration, Thinking and Safety.
+      description: Find out how we cultivate growing hearts & growing minds anchored
+        in CTS-Collaboration,Thinking&SafetyWatch this video to see what makes
+        Greendale grow & glow!
       button: Watch Principal's Address
       url: /about/school-videos/p-address-open-house-2024/
       image: /images/IMG_2434.jpg
