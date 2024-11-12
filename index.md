@@ -27,7 +27,7 @@ sections:
       url: /about/school-videos/school-corporate-video-growing-hearts-growing-minds/
       button: Growing Hearts, Growing Minds
   - infopic:
-      title: PRINCIPAL'S ADDRESS (OPEN HOUSE 2024)
+      title: Principal's Address (Open House 2024)
       subtitle: Greendale secondary school
       id: infopic
       description: Find out how we cultivate growing hearts & growing minds anchored
