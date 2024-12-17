@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Secondary 1 to 5 (2025):</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 - <em>Available after Sec 1 2025 Posting Results</em>
+<p><a href="/files/GDSS_SEC_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a> 
 </p>
 </li>
 <li>
