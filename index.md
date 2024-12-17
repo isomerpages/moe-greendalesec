@@ -17,15 +17,15 @@ sections:
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
   - infopic:
-      title: Open House 2024
+      title: Information for 2025 S1 Students
       subtitle: Greendale secondary school
       id: infopic
-      description: "Saturday, 16 November 2024, 9am - 1pm. To get a sense of the
-        Greendale Experience, click here:"
-      image: /images/GDLS_OPEN_HOUSE_POSTER_2024__6_.jpg
+      description: "Our heartiest welcome! Explore our registration site for key
+        information to kickstart your journey:"
+      image: /images/Sec_1_Registration_Sch_Website_Banner.jpg
       alt: Image alt text
-      url: /about/school-videos/school-corporate-video-growing-hearts-growing-minds/
-      button: Growing Hearts, Growing Minds
+      url: https://sites.google.com/moe.edu.sg/gdlss1reg2025/home
+      button: Sec 1 e-Registration 2025
   - infopic:
       title: Principal's Address (Open House 2024)
       subtitle: Greendale secondary school
