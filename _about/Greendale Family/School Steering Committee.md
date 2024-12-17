@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Tan</p>
+<p>Mr Chia Keng Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Mr Mohd Shahmir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Humanities (Ag)</p>
+<p>HOD / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohamed_shahmir_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_shahmir_anwar@moe.edu.sg</a>
@@ -302,7 +302,7 @@ variant: tiptap
 <p>Ms Tan Khia Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Character &amp; Citizenship Education (Ag)</p>
+<p>SH / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_khia_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khia_yee@moe.edu.sg</a>
@@ -350,7 +350,7 @@ variant: tiptap
 <p>Mr Ang Kar Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Well-Being (Ag)</p>
+<p>SH / Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_kar_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kar_wee@moe.edu.sg</a>
