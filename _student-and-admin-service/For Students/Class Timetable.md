@@ -5,10 +5,10 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h3>Semester 2 (2024)</h3>
+<h3>Semester 1 (2025)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Sem2_TT_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
+<p><a href="/files/2025_Sem_1_TT_27Dec_Classes_S1.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
 </p>
 </li>
 <li>
