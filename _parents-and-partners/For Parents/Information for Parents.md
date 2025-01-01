@@ -24,7 +24,7 @@ variant: tiptap
 </li>
 <li>
 <p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
-<br><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Sheet</a>
+<br><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet</a>
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a>
 <br><a href="/files/student-gpa-user-guide-parent.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide</a>  <em>(For Student GPA Claims Portal)</em>
 </p>
