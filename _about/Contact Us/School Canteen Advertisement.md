@@ -27,10 +27,10 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodle</p>
+<p>Noodle House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15th Dec 2024</p>
+<p>28th Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see below</p>
