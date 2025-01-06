@@ -37,8 +37,8 @@ variant: tiptap
 <p>Mr Sng Tze Kun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: sng_tze_kun@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_tze_kun@</a>
-<a href="http://schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:sng_tze_kun@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_tze_kun@</a>
+<a href="mailto:sng_tze_kun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: koh_gek_kiang@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_gek_kiang@</a>
-<a href="mailto: koh_gek_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<a href="mailto:koh_gek_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
 </p>
 </td>
 </tr>
