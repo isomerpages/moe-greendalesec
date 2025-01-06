@@ -400,7 +400,7 @@ variant: tiptap
 <p>Ms Lim Kerry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Lower Sec) / Secondary 1</p>
+<p>YH (Lower Sec) / Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_kerry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kerry@schools.gov.sg</a>
@@ -412,7 +412,7 @@ variant: tiptap
 <p>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 2 (Ag)</p>
+<p>Assistant YH / Secondary 1 (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_rui_qing_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@schools.gov.sg</a>
