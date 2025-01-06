@@ -25,7 +25,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
 </p>
 </td>
 </tr>
