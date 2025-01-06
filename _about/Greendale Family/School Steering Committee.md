@@ -412,7 +412,7 @@ variant: tiptap
 <p>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 1 (Ag)</p>
+<p>Assistant YH (Ag) / Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_rui_qing_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@schools.gov.sg</a>
