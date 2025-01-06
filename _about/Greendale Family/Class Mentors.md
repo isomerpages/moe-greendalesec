@@ -557,7 +557,7 @@ variant: tiptap
 <p>Mdm Ye Xiaofen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_hao_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hao_yuan@moe.edu.sg</a>
+<p><a href="mailto:ye_xiaofen@moe.edu.sg" rel="noopener nofollow" target="_blank">ye_xiaofen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -569,7 +569,7 @@ variant: tiptap
 <p>Mr Syed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_foong_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_foong_choo@moe.edu.sg</a>
+<p><a href="mailto:syed_abubakar_ishak_alsree@moe.edu.sg" rel="noopener nofollow" target="_blank">syed_abubakar_ishak_alsree@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -581,7 +581,7 @@ variant: tiptap
 <p>Ms Karishma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicholas_lim_zhiying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_lim_zhiying@moe.edu.sg</a>
+<p><a href="mailto:karishma_lal_verhomalchuga@moe.edu.sg" rel="noopener nofollow" target="_blank">karishma_lal_verhomalchuga@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -593,7 +593,7 @@ variant: tiptap
 <p>Ms Karin Phee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_ming_kiat_william@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ming_kiat_william@moe.edu.sg</a>
+<p><a href="mailto:phee_pei_yian_karin@moe.edu.sg" rel="noopener nofollow" target="_blank">phee_pei_yian_karin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -605,7 +605,7 @@ variant: tiptap
 <p>Mdm Yani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fang_suxian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fang_suxian@moe.edu.sg</a>
+<p><a href="mailto:hastuty_yani_azmi@moe.edu.sg" rel="noopener nofollow" target="_blank">hastuty_yani_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -617,7 +617,7 @@ variant: tiptap
 <p>Mr Too Jhon Horng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_meizhen_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_meizhen_serene@moe.edu.sg</a>
+<p><a href="mailto:too_jhon_horng@moe.edu.sg" rel="noopener nofollow" target="_blank">too_jhon_horng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
