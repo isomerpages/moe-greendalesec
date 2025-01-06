@@ -357,6 +357,30 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Ming Xiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Leadership (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_ming_xiu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ming_xiu@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Crystal Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / 21CC (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:crystal_lim_qian_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_lim_qian_yi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -385,10 +409,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Paige Koh</p>
+<p>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 2</p>
+<p>Assistant YH / Secondary 2 (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chng_rui_qing_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@moe.edu.sg</a>	
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Pin lang Paige</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YH (Upper Sec) / Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_pin_lang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@moe.edu.sg</a>
@@ -400,22 +436,10 @@ variant: tiptap
 <p>Ms Tng Wee Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Sec) / Secondary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tng_wee_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Su Yan Xing</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Assistant YH / Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:su_yan_xing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan_xing@moe.edu.sg</a>
+<p><a href="mailto:tng_wee_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
