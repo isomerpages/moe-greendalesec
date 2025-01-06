@@ -415,7 +415,7 @@ variant: tiptap
 <p>Assistant YH / Secondary 2 (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_rui_qing_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@moe.edu.sg</a>	
+<p><a href="mailto:chng_rui_qing_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
