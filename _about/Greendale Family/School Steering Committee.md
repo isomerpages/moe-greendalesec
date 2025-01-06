@@ -433,7 +433,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Pin lang Paige</p>
+<p>Ms Koh Pin Lang Paige</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant YH / Secondary 4 &amp; 5</p>
