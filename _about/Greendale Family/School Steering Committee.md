@@ -421,25 +421,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tng Wee Li</p>
+<p>Ms Koh Pin Lang Paige</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Sec) / Secondary 3</p>
+<p>Assistant YH / Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tng_wee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@schools.gov.sg</a>
+<p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Pin Lang Paige</p>
+<p>Ms Tng Wee Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 4 &amp; 5</p>
+<p>YH (Upper Sec)/ Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
+<p><a href="mailto:tng_wee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
