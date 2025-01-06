@@ -424,7 +424,7 @@ variant: tiptap
 <p>Ms Koh Pin Lang Paige</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 3</p>
+<p>Assistant YH YH (Upper Sec)/ Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
