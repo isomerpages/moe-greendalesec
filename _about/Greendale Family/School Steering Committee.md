@@ -25,7 +25,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -49,7 +49,7 @@ variant: tiptap
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>HOD / School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hui_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_hong@moe.edu.sg</a>
+<p><a href="mailto:tan_hui_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_hong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>HOD / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_xue_ting_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_xue_ting_adeline@moe.edu.sg</a>
+<p><a href="mailto:liew_xue_ting_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_xue_ting_adeline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ variant: tiptap
 <p>HOD / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:alsagoff_sharifah_firhana_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alsagoff_sharifah_firhana_anwar@moe.edu.sg</a>
+<p><a href="mailto:alsagoff_sharifah_firhana_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alsagoff_sharifah_firhana_anwar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -111,7 +111,7 @@ variant: tiptap
 <p>HOD / Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_man_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_man_ho@moe.edu.sg</a>
+<p><a href="mailto:chang_man_ho@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chang_man_ho@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -123,7 +123,7 @@ variant: tiptap
 <p>HOD / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_poh_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_poh_keong@moe.edu.sg</a>
+<p><a href="mailto:chen_poh_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_poh_keong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -135,7 +135,7 @@ variant: tiptap
 <p>HOD / Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_shahmir_anwar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_shahmir_anwar@moe.edu.sg</a>
+<p><a href="mailto:mohamed_shahmir_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_shahmir_anwar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -147,7 +147,7 @@ variant: tiptap
 <p>HOD / Info-Comm Technology &amp; Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_pei_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_ni@moe.edu.sg</a>
+<p><a href="mailto:lee_pei_ni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_pei_ni@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>HOD / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jun_rong_darius@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_rong_darius@moe.edu.sg</a>
+<p><a href="mailto:tan_jun_rong_darius@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_rong_darius@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>HOD / Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_pei_qi_maggie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_pei_qi_maggie@moe.edu.sg</a>
+<p><a href="mailto:choo_pei_qi_maggie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_pei_qi_maggie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -183,7 +183,7 @@ variant: tiptap
 <p>HOD / Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phee_wei_chuan_colin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phee_wei_chuan_colin@moe.edu.sg</a>
+<p><a href="mailto:phee_wei_chuan_colin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phee_wei_chuan_colin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -195,7 +195,7 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jie_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jie_qi@moe.edu.sg</a>
+<p><a href="mailto:tan_jie_qi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jie_qi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -221,7 +221,7 @@ variant: tiptap
 <p>SH / English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_haryani_ramlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_haryani_ramlan@moe.edu.sg</a>
+<p><a href="mailto:siti_haryani_ramlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_haryani_ramlan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -233,7 +233,7 @@ variant: tiptap
 <p>SH / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_cheng_hian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_cheng_hian@moe.edu.sg</a>
+<p><a href="mailto:goh_cheng_hian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_cheng_hian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -245,7 +245,7 @@ variant: tiptap
 <p>SH / Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yue_yoke_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yue_yoke_har@moe.edu.sg</a>
+<p><a href="mailto:yue_yoke_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yue_yoke_har@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -257,7 +257,7 @@ variant: tiptap
 <p>SH / Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zaini_murad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaini_murad@moe.edu.sg</a>
+<p><a href="mailto:zaini_murad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaini_murad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -269,7 +269,7 @@ variant: tiptap
 <p>SH / Science (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teng_ming_kiat_william@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ming_kiat_william@moe.edu.sg</a>
+<p><a href="mailto:teng_ming_kiat_william@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teng_ming_kiat_william@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -281,7 +281,7 @@ variant: tiptap
 <p>SH / Geography</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_ying_hsien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ying_hsien@moe.edu.sg</a>
+<p><a href="mailto:goh_ying_hsien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ying_hsien@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -293,7 +293,7 @@ variant: tiptap
 <p>SH / Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:halimah_mohmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halimah_mohmad@moe.edu.sg</a>
+<p><a href="mailto:halimah_mohmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">halimah_mohmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -305,7 +305,7 @@ variant: tiptap
 <p>SH / Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_khia_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khia_yee@moe.edu.sg</a>
+<p><a href="mailto:tan_khia_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khia_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -317,7 +317,7 @@ variant: tiptap
 <p>SH / Education Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lian_kok_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lian_kok_yeow@moe.edu.sg</a>
+<p><a href="mailto:lian_kok_yeow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lian_kok_yeow@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -329,7 +329,7 @@ variant: tiptap
 <p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarah_lee_su-yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_lee_su-yi@moe.edu.sg</a>
+<p><a href="mailto:sarah_lee_su-yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_lee_su-yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -341,7 +341,7 @@ variant: tiptap
 <p>SH / Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_eng_cheong_harold@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_eng_cheong_harold@moe.edu.sg</a>
+<p><a href="mailto:ho_eng_cheong_harold@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_eng_cheong_harold@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -353,7 +353,31 @@ variant: tiptap
 <p>SH / Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_kar_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kar_wee@moe.edu.sg</a>
+<p><a href="mailto:ang_kar_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_kar_wee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Ming Xiu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Leadership (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_ming_xiu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_ming_xiu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Crystal Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / 21CC (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:crystal_lim_qian_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_lim_qian_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -373,25 +397,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Kerry</p>
+<p>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Lower Sec) / Secondary 1</p>
+<p>Assistant YH (Ag) / Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kerry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kerry@moe.edu.sg</a>
+<p><a href="mailto:chng_rui_qing_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Paige Koh</p>
+<p>Ms Lim Kerry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 2</p>
+<p>YH (Lower Sec) / Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_pin_lang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@moe.edu.sg</a>
+<p><a href="mailto:lim_kerry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kerry@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Pin Lang Paige</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant YH / Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -400,22 +436,10 @@ variant: tiptap
 <p>Ms Tng Wee Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Sec) / Secondary 3</p>
+<p>YH (Upper Sec)/ Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tng_wee_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Su Yan Xing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 4 &amp; 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:su_yan_xing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">su_yan_xing@moe.edu.sg</a>
+<p><a href="mailto:tng_wee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
