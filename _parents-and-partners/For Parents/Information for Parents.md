@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Yearbook 2025</strong>
+<p><strong>Yearbook 2024</strong>
 <br><a href="https://drive.google.com/file/d/1lXyofBVNIcll4eoRm6g9hUHrVdFWBfxg/view" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
 </p>
 </li>
