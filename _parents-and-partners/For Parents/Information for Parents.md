@@ -18,8 +18,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Yearbook 2022</strong>
-<br><a href="https://drive.google.com/file/d/1S1Tnfj6Xc_Kru5SdVkbIzSIbSyGBumtn/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
+<p><strong>Yearbook 2025</strong>
+<br><a href="https://drive.google.com/file/d/1lXyofBVNIcll4eoRm6g9hUHrVdFWBfxg/view" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
 </p>
 </li>
 <li>
