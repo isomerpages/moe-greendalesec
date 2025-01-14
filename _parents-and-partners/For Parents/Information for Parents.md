@@ -18,11 +18,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Yearbook 2024</strong>
-<br><a href="https://drive.google.com/file/d/1lXyofBVNIcll4eoRm6g9hUHrVdFWBfxg/view" rel="noopener noreferrer nofollow" target="_blank">Click here to download!</a>
-</p>
-</li>
-<li>
 <p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
 <br><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet</a>
 <br><a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a>
