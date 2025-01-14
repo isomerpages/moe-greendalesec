@@ -35,10 +35,6 @@ variant: tiptap
 <p><a href="/files/Release_of_2024_O_Level_Results_Admin_Briefing_Slides_10Jan25.pdf" rel="noopener noreferrer nofollow" target="_blank">Release of 2024 GCE O-Level Results</a>
 </p>
 </li>
-<li>
-<p><a href="https://drive.google.com/file/d/1lXyofBVNIcll4eoRm6g9hUHrVdFWBfxg/view" rel="noopener nofollow" target="_blank">Yearbook 2024</a>
-</p>
-</li>
 </ul>
 <p>For other student related matters, please click on the links on the right
 (or bottom, if viewing via mobile smartphone) side of this page.</p>
