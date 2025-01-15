@@ -487,7 +487,7 @@ variant: tiptap
 <p>Ms Abby Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: koh_li_yin_patricia@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_li_yin_patricia@schools.gov.sg</a>
+<p><a href="mailto:goh_ying_hsien@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ying_hsien@schools.gov.sg</a>
 </p>
 </td>
 </tr>
