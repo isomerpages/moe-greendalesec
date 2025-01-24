@@ -3,6 +3,7 @@ title: Visitor Information
 permalink: /student-admin-services/administration/visitor-information/
 description: ""
 third_nav_title: Administration
+variant: markdown
 ---
 ### General Office Operating Hours
 
@@ -18,7 +19,7 @@ Do note that the operating hours of our General Office and, therefore its admini
 ### Visiting the School
 
 2.  Parents or Guardians who wish to see the Class Mentors (CMs) or Subject Teachers (SjTs) are encouraged to make prior appointment with the CMs and SjTs concerned. Parents and Guardians may do so by calling the General Office at 6315 8616.
-3.  For enquiries and feedback, parents and guardian are encourage to write to us via our school email: [greendale\_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg) . Alternatively, parents and guardians can call our General Office at 6315 8616
+3.  For enquiries and feedback, parents and guardian are encourage to write to us via our school email:&nbsp;[greendale\_ss@moe.edu.sg](mailto:greendale_ss@moe.edu.sg)&nbsp;. Alternatively, parents and guardians can call our General Office at 6315 8616
 
 ### Visitor Registration
 
@@ -31,16 +32,9 @@ Do note that the operating hours of our General Office and, therefore its admini
 
 [**Important**: Visitors/ service providers who are issued with SHN/LOA will be denied entry.]
 
-### Driving and Parking in School
-
-5.  Parents who are drive their children to school on regular basis are to request for Pick Up/Drop-off car label (car decal) from the general office.
-6.  The label is to be displayed prominently on the front windscreen so that it is visible to the security guard. The security guard will allow entry to vehicles with Drive-in/Drop-off label.
-7.  Parents may apply for the label from the General Office or apply online [here](https://docs.google.com/forms/d/e/1FAIpQLScr9mwP-ZrWh_HSBYXDCd-WdBSofqjjikgu33drSQ-RPamzgw/viewform) or you can visit our school website and click under quick links, parents, pick up and drop off car decal.
-
-<img src="/images/car-decal.jpg" 
-     style="width:60%">
-		 
-8.  As the school has limited parking lots, parents and visitors are encouraged to park their vehicles at the nearby public parking lots.
+### Parking in School
+ 
+5.  As the school has limited parking lots, parents and visitors are encouraged to park their vehicles at the nearby public parking lots.
 
 *   Visitors are not allowed to park at any lots except those designated for visitors.
 *   The school reserves the right to deny entry to non-authorised personnel.
