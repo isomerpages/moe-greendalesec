@@ -17,6 +17,7 @@ Thank you for visiting Greendale Secondary School website. By accessing and usin
 
 3. This Web Site is maintained by Greendale Secondary School. It is owned by Greendale Seocndary School.
 4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Greendale Secondary School.
+
 **Privacy Policy**
 5. Click here to review this Web Site Privacy Statement. 
 
@@ -36,4 +37,4 @@ Thank you for visiting Greendale Secondary School website. By accessing and usin
 
 (a) as to the accuracy, correctness, reliability, timeliness, non-infringement, title, merchantability or fitness for any particular purpose of the Contents of this Web Site; 
 
-(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements. 
+(b) that the Contents available through this Web Site or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Web Site and the server is and will be free of all viruses and/or other harmful elements.
