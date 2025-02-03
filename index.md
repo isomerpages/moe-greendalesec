@@ -17,16 +17,6 @@ sections:
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
   - infopic:
-      title: Information for 2025 S1 Students
-      subtitle: Greendale secondary school
-      id: infopic
-      description: "Our heartiest welcome! Explore our registration site for key
-        information to kickstart your journey:"
-      image: /images/Sec_1_Registration_Sch_Website_Banner.jpg
-      alt: Image alt text
-      url: https://sites.google.com/moe.edu.sg/gdlss1reg2025/home
-      button: Sec 1 e-Registration 2025
-  - infopic:
       title: Principal's Address (Open House 2024)
       subtitle: Greendale secondary school
       id: infopic
