@@ -321,7 +321,7 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -352,7 +352,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -385,7 +385,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 </tbody>
