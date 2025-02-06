@@ -3,6 +3,7 @@ title: "DSA : Design, Technology & Engineering (DTE)"
 permalink: /greendale-xperience/direct-school-admission/dsa-applied-learning-programme/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ### Introduction
 
@@ -12,29 +13,29 @@ Below are some of the key programmes and leadership development for successful D
 
 ### Highlights - **Robotics Club**
 
-Students who are accepted under DSA-DTE will be given direct allocation to Robotics Club as his/ her CCA. The CCA provides many opportunities for the students to take part in various competitions such as Toy Design Competition, IDE series (Arduino Maker category, VEX Robotics competition and Drones Odyssey Challenge, Infineon Chips @ School competition. Through the competitions and CCA, students get to develop their creativity and inventive thinking skills, design thinking and problem solving skills. Students are also trained in 3D printing, design using CAD software like Autodesk Inventor and Solidworks and electronics skills which they will use to apply in their projects and competitions.
+Students who are accepted under DSA-DTE will be given direct allocation to Robotics Club as his/ her CCA. The CCA provides many opportunities for the students to take part in various competitions such as Toy Design Competition, IDE series (Arduino Maker category, VEX Robotics competition and Drones Odyssey Challenge, Infineon Chips @ School competition. Through the competitions and CCA, students get to develop their creativity and inventive thinking skills, design thinking and problem-solving skills. Students are also trained in 3D printing, design using CAD software like Autodesk Inventor and Solidworks and electronics skills which they will use to apply in their projects and competitions.
 
-Students who are accepted under DSA-DTE will also be developed to take up leadership position in Robotics CCA as EXCO or CCA leader in Sec 3. They will be given the opportunity to attend the Aspiring Leaders’ Training in Sec 2 and will continue to undergo the Inspiring Leaders’ Training in Sec 3 if they are selected to be the Robotics CCA leader.
+Students who are accepted under DSA-DTE will also be developed to take up leadership position in Robotics CCA as EXCO or CCA leader in Secondary 3. They will be given the opportunity to attend the Aspiring Leaders’ Training in Secondary 2 and will continue to undergo the Inspiring Leaders’ Training in Secondary 3 if they are selected to be the Robotics CCA leader.
 
 ### Highlights - **SIT SkillsCraft Youth Makers Programme**
 
-Students will be given the opportunity to take part in the SIT SkillsCraft Youthmakers programme which is a collaboration between Greendale Secondary and Singapore Institute of Technology (SIT). This programme aims to inspire the students and spark their interest in Science, Technology, Engineering and Mathematics (STEM).
+Students will be given the opportunity to take part in the Singapore Institute of Technology (SIT) SkillsCraft Youthmakers programme which is a collaboration between Greendale Secondary and SIT. This programme aims to inspire the students and spark their interest in Science, Technology, Engineering and Mathematics (STEM).
 
 Students will:
 
 *   Attend workshops conducted by SIT lecturers on Design Thinking, 3D Printing, DIY (Household) Hacks
 *   Participate in meaningful STEM activities and projects that contribute to the community
-*   Have the opportunity to be mentored by the lecturers in competitions or projects
+*   Opportunity to be mentored by the lecturers in competitions or projects
 
 ### Highlights - **STEM Career Exposure & Industries Visit**
 
-Students will be exposed to STEM career and go on industry visits to gain exposure to possible STEM careers. Following are some programmes:
+Students will be exposed to STEM (Science, Technology, Engineering and Matematics) career and go on industry visits to gain exposure to possible STEM careers. Following are some programmes:
 
 **“A day in the life of…” @ Infineon Technologies Programme**
 
 *   To inspire and motivate students to think about a career in Engineering in the semiconductor industry
 *   In this programme, students get to experience first-hand a typical day of an Engineer working in an MNC
-*   Programme include: Company Introduction, SMART Factory Tour to appreciate how SMART technologies is incorporated in the day-to-day running of the factory, Career @ Infineon Technologies and Job shadowing and interation with an Engineer mentor for a day
+*   Programme includes: Company Introduction, SMART Factory Tour to appreciate how SMART technologies is incorporated in the day-to-day running of the factory, Career @ Infineon Technologies and Job shadowing and interaction with an Engineer mentor for a day
 
 **Google Office Visit**
 
