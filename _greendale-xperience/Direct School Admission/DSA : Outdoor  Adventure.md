@@ -27,7 +27,7 @@ qualities and leadership skills&nbsp;are strengthened.</p>
 <h3>Highlights - General</h3>
 <p>Students accepted under DSA-Outdoor Adventure will be developed through
 a comprehensive and rigorous talent development programme that involves
-national certification programmes and Inter School competitions so that
+national certification programmes and Inter-School competitions so that
 they will have the ability and confidence to perform outdoor education
 advocacy roles at various platforms in Greendale Secondary School. These
 students will be closely guided and mentored so that they will be able
@@ -42,11 +42,11 @@ climbing level 1 (with the option to pursue level 2 Rock Climbing)</p>
 <p>Selected to participate in our Annual 2D1N Sea Expedition.</p>
 </li>
 <li>
-<p>Opportunity to represent school in GaRang competition, National Orienteering
+<p>Opportunity to represent school in GARanG competition, National Orienteering
 Race and other Rock Climbing competitions</p>
 </li>
 <li>
-<p>Involvement in the planning and implementation GaRang competition and
+<p>Involvement in the planning and implementation of GARanG competition and
 Sea Expedition</p>
 </li>
 <li>
@@ -59,10 +59,10 @@ related to Outdoor Education.</p>
 </ul>
 <h3>Highlights - <strong>Outdoor Adventure Club or Canoeing CCA Membership</strong></h3>
 <p>All DSA-OA selected applicants are channelled into the School’s ODAC or
-canoeing. Members in ODAC will undergo a 4-year training and development
+Canoeing CCA. Members in ODAC will undergo a 4-year training and development
 programme that hone students in 19 Outdoor Education skills areas while
-members in Canoeing will be trained to represent Greendale in National
-School Games Canoeing.</p>
+members in Canoeing will be trained to represent Greendale Secondary in
+National School Games Canoeing.</p>
 <h3>Highlights - <strong>SCF 1 Star Kayaking Certification</strong>&nbsp;<em>(with the option to pursue 2 Star Kayaking)</em></h3>
 <p>Students accepted under DSA-Outdoor Adventure will have the opportunity
 to participate in the 12-hour certification programme, which is officially
@@ -95,8 +95,8 @@ adventure skills such as navigation, cycling and camp craft. The second
 event, GeCKo, is a rock wall speed climbing event open to all Primary 4
 to 6 school students.</p>
 <h3>Highlights - <strong>National Orienteering Race (Schools) Representation</strong></h3>
-<p>DSA-OA candidates will also have the opportunity to participate NORS against
-competitors from other schools. The competition will test the participants’
+<p>DSA-OA candidates will also have the opportunity to participate in NORS
+against competitors from other schools. The competition will test the participants’
 skills such as map reading, pacing and usage of compass bearings. To keep
 the competition exciting, the venue of the competition changes from place
 to place every year.</p>
@@ -117,8 +117,8 @@ It will also boost their self-confidence and develop their leadership skills.</p
 <p>Understand team dynamics</p>
 </li>
 <li>
-<p>Learn about the wide array of different leadership styles to lead a high
-performance team</p>
+<p>Learn about the wide array of different leadership styles to lead a high-performance
+team</p>
 </li>
 <li>
 <p>Be introduced to the Risk Analysis and Management System (RAMS) framework
