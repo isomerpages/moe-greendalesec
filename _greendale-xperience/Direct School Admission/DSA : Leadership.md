@@ -59,7 +59,7 @@ in a scenario-based activity as part of the selection process.</p>
 </ul>
 <h3>Highlights</h3>
 <p>Students can look forward to the wide variety of leadership opportunities
-in Greendale</p>
+in Greendale Secondary School</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA.png">
 </div>
@@ -89,22 +89,22 @@ Below are some of the highlights of opportunities for students to lead.</p>
 of Student Leaders who have undergone the Servant Leadership Training Programme.
 The event is meant to welcome the new Secondary 1 students to the school
 and consists of a series of activities organised by the student leaders.</p>
-<p><strong><em>Games Carnival</em></strong>
+<p><strong>Games Carnival</strong>
 <br>One of the main events organised by the Sports Leaders is the Games Carnival.
 This event, usually held in July, is an opportunity for Greendale students
 to come together to build class spirit while competing in a wide array
 of sporting events.</p>
-<p><strong><em>Teachers’ Day</em></strong>
+<p><strong>Teachers’ Day</strong>
 <br>Another major event planned by Student Leaders is the Teachers Day Celebration
 in September. Led by the Student Council, the event requires the Student
 Council to work with their peers to design and plan the school-wide programme.</p>
-<p><strong><em>Townhall</em></strong>
+<p><strong>Townhall</strong>
 <br>Townhall is an opportunity where students look forward to each year to
 have their voices heard. The annual townhall sessions are organised by
 the Student Council, where they have the chance to plan, moderate the session,
 listen to the voices of their peers, and propose ideas to address issues
 raised.</p>
-<p><strong><em>National Education Commemorative Days</em></strong>
+<p><strong>National Education Commemorative Days</strong>
 <br>Our Student Leaders are involved in advocating key character and citizenship
 education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
