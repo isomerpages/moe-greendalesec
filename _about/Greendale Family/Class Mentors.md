@@ -693,7 +693,7 @@ variant: tiptap
 <p>Mrs Engracia Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seng_mun_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seng_mun_kong@schools.gov.sg</a>
+<p><a href="mailto:engracia_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">engracia_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
