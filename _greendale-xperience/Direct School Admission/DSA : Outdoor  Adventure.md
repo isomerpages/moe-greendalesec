@@ -50,10 +50,6 @@ Race and other Rock Climbing competitions</p>
 Sea Expedition</p>
 </li>
 <li>
-<p>Possible participation in Republic Polytechnic’s Advance Elective Modules
-related to Outdoor Education.</p>
-</li>
-<li>
 <p>Possible work attachment to organisations that promotes Environment Awareness.</p>
 </li>
 </ul>
@@ -100,32 +96,4 @@ against competitors from other schools. The competition will test the participan
 skills such as map reading, pacing and usage of compass bearings. To keep
 the competition exciting, the venue of the competition changes from place
 to place every year.</p>
-<h3>Highlights - <strong>Participation in Republic Polytechnic's (RP) School of Sports, Health and Leisure (SHL) AEM: Developing Outdoor &amp; Adventure Learning Activity</strong></h3>
-<p>Successful DSA-OA candidates may get the opportunity to participate in
-RP’s Advanced Elective Module (AEM) which will equip them with the skills
-to plan, organise and implement outdoor adventure experiential activities.
-It will also boost their self-confidence and develop their leadership skills.</p>
-<p>Participants will:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Be introduced to Kolb’s experiential learning cycle and its benefits</p>
-</li>
-<li>
-<p>Learn how to write a lesson plan for an experiential activity</p>
-</li>
-<li>
-<p>Understand team dynamics</p>
-</li>
-<li>
-<p>Learn about the wide array of different leadership styles to lead a high-performance
-team</p>
-</li>
-<li>
-<p>Be introduced to the Risk Analysis and Management System (RAMS) framework
-to reduce risk and ensure a safe learning environment for activity participants.</p>
-</li>
-</ul>
-<p>Students will also get a chance to participate in a one-day outdoor challenge
-course as well as conduct a team-building activity.&nbsp;&nbsp;This AEM
-also provides students aspiring to pursue a career in outdoor learning
-and adventure a chance to experience RP&nbsp;<a href="https://www.rp.edu.sg/shl/full-time-diplomas/details/r33" rel="noopener noreferrer nofollow" target="_blank">Diploma in Outdoor and Adventure Learning</a>&nbsp;programme.</p>
+<p></p>
