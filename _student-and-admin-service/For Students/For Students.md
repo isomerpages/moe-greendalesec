@@ -16,11 +16,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/a/moe.edu.sg/forms/d/e/1FAIpQLSdLuh7CxVK6rCTi5LXEI1qFbxHwZOx_rh_iJDGxGCqb8QKXVw/viewform?c=0&amp;w=1" rel="noopener noreferrer nofollow" target="_blank">IDEA (Student Suggestion Scheme)</a>
+<p><a href="https://forms.gle/L25e8xP7udoaB8297" rel="noopener noreferrer nofollow" target="_blank">IDEA (Student Suggestion Scheme)</a>
 </p>
 </li>
 <li>
-<p><a href="https://docs.google.com/a/moe.edu.sg/forms/d/e/1FAIpQLSe_J-thCm4bkxu0PDwZ2UmykG086xPwQ4ba-1ABKImC0Pc00w/viewform?c=0&amp;w=1" rel="noopener noreferrer nofollow" target="_blank">I@SK (Ask Your Year Head)</a>
+<p><a href="https://forms.gle/Fq9b5G7dfk2L5QhM9" rel="noopener noreferrer nofollow" target="_blank">I@SK (Ask Your Year Head)</a>
 </p>
 </li>
 <li>
