@@ -121,7 +121,7 @@ media to share positive messages.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-applied-learning-programme/"><img style="width: 100%" height="auto" width="100%" alt="DSA D&amp;T" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-applied-learning-programme/"><img style="width: 100%" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor Adventure" src="/images/LLP_OAE_Photo.jpg"></a>
