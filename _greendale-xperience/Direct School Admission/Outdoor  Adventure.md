@@ -98,18 +98,29 @@ against competitors from other schools. The competition will test the participan
 skills such as map reading, pacing and usage of compass bearings. To keep
 the competition exciting, the venue of the competition changes from place
 to place every year.</p>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>More DSA@Greendale Secondary School</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/"><img style="width: 100%" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -120,8 +131,14 @@ to place every year.</p>
 <p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
 (DTE)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
