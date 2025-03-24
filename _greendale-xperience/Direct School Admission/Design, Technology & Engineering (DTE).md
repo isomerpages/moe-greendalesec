@@ -115,15 +115,17 @@ to enhance their presentation and communication skills.</p>
 <p></p>
 <p></p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<p>More areas on DSA@Greendale Secondary Schools</p>
+<td rowspan="1" colspan="3">
+<p><strong><em>More areas on DSA@Greendale Secondary Schools</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,6 +135,9 @@ to enhance their presentation and communication skills.</p>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 60%;" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg"></a>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,6 +145,9 @@ to enhance their presentation and communication skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click this photo to find out more on the DSA: Outdoor Adventure</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
