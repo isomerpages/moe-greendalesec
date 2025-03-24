@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
+<h1>DSA@Greendale Secondary School</h1>
 <h2>Outdoor Adventure</h2>
 <h3>Introduction</h3>
 <p>In Greendale Secondary School,&nbsp;<strong>Outdoor Adventure Education</strong>&nbsp;is
