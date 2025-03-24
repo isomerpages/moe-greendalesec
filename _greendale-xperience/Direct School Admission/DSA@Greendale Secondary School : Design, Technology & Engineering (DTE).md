@@ -112,3 +112,42 @@ as the <strong>Land Transport Authority</strong>, <strong>ST Microelectronics</s
 and SIT. The finals are open to the public, offering students a platform
 to enhance their presentation and communication skills.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Click this photo to find out more on DSA: Leadsership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click this photo to find out more on the DSA: Outdoor Adventure</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
