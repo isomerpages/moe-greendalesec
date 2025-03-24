@@ -99,6 +99,8 @@ skills such as map reading, pacing and usage of compass bearings. To keep
 the competition exciting, the venue of the competition changes from place
 to place every year.</p>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
