@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<h2>DSA@Greendale Secondary School </h2>
+<h2>DSA@Greendale Secondary School</h2>
 <h3>Design, Technology &amp; Engineering (DTE)</h3>
 <h3>Introduction</h3>
 <p>Students accepted under the DSA-DTE programme can look forward to exciting
@@ -124,12 +124,12 @@ to enhance their presentation and communication skills.</p>
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg"></a>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Leadsership</p>
+<p>Click this photo to find out more on DSA: Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click this photo to find out more on the DSA: Outdoor Adventure</p>
