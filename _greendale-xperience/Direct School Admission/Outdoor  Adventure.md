@@ -109,7 +109,7 @@ to place every year.</p>
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor Adventure" src="/images/LLP_OAE_Photo.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-applied-learning-programme/"><img style="width: 100%" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
 </th>
 </tr>
 <tr>
@@ -117,7 +117,8 @@ to place every year.</p>
 <p>Click this photo to find out more on DSA: Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Outdoor Adventure</p>
+<p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
+(DTE)</p>
 </td>
 </tr>
 <tr>
