@@ -112,3 +112,53 @@ issues raised.</p>
 education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
 media to share positive messages.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA D&amp;T" src="/images/Pict_7_Arduino_and_3D_printing.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor Adventure" src="/images/LLP_OAE_Photo.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
+(DTE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click this photo to find out more on DSA: Outdoor Adventure</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
