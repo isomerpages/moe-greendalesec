@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
+<h2>Leadership</h2>
 <h3>Introduction</h3>
 <p>Leadership is one of the key competencies which the school strives to
 develop in our students. Greendale’s Student Leadership development is
