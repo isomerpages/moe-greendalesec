@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<h1>DSA@Greendale Secondary School</h1>
 <h2>Leadership</h2>
 <h3>Introduction</h3>
 <p>Leadership is one of the key competencies which the school strives to
