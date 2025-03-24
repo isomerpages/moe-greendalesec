@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Direct School Admission
 variant: tiptap
 ---
-<h1>Design, Technology &amp; Engineering (DTE)</h1>
+<h1>DSA@Greendale Secondary School</h1>
+<h2>Design, Technology &amp; Engineering (DTE)</h2>
 <h3>Introduction</h3>
 <p>Students accepted under the DSA-DTE programme can look forward to exciting
 programmes and activities that will enhance their skills and competencies
