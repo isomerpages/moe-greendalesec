@@ -137,14 +137,6 @@ to enhance their presentation and communication skills.</p>
 <p>Click this photo to find out more on the DSA: Outdoor Adventure</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
