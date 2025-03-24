@@ -5,7 +5,7 @@ variant: tiptap
 description: Greendale Secondary School DSA Overview
 third_nav_title: Direct School Admission
 ---
-<h3><strong>DSA@Greendale Secondary School</strong></h3>
+<h1><strong>DSA@Greendale Secondary School</strong></h1>
 <p>At Greendale Secondary School, the Direct School Admission (DSA-Sec) seeks
 to broaden the recognition of students’ talents and achievements beyond
 academic grades. P6 students can gain direct entry to Greendale Secondary
