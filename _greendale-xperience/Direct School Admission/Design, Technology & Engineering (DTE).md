@@ -113,6 +113,8 @@ as the <strong>Land Transport Authority</strong>, <strong>ST Microelectronics</s
 and SIT. The finals are open to the public, offering students a platform
 to enhance their presentation and communication skills.</p>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
