@@ -92,7 +92,7 @@ competitive advantage to improve life and economy</p>
 <p>to create awareness of foreign cultures and the interconnected world</p>
 </li>
 </ul>
-<h3>Highlights - <strong>Competitions </strong></h3>
+<h3>Highlights - <strong>Competitions</strong></h3>
 <p>In addition to the competitions held by the Robotics Club, students will
 have the opportunity to participate in other national competitions, such
 as the <strong>Singapore Amazing Flying Machine Competition</strong> organized
