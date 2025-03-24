@@ -1,10 +1,12 @@
 ---
-title: "DSA : Outdoor  Adventure"
+title: Outdoor  Adventure
 permalink: /greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/
 description: ""
-third_nav_title: Direct School Admission
+third_nav_title: Direct School Admission (DSA)
 variant: tiptap
 ---
+<h1>DSA@Greendale Secondary School</h1>
+<h2>Outdoor Adventure</h2>
 <h3>Introduction</h3>
 <p>In Greendale Secondary School,&nbsp;<strong>Outdoor Adventure Education</strong>&nbsp;is
 an&nbsp;integrated approach&nbsp;to learning and development in which abstract
@@ -96,4 +98,56 @@ against competitors from other schools. The competition will test the participan
 skills such as map reading, pacing and usage of compass bearings. To keep
 the competition exciting, the venue of the competition changes from place
 to place every year.</p>
+<p></p>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Other DSA areas @Greendale Secondary School</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 40%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/"><img style="width: 40%;" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Click this photo to find out more on DSA: Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
+(DTE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
