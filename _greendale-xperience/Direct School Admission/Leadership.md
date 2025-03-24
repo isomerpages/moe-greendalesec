@@ -112,6 +112,7 @@ issues raised.</p>
 education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
 media to share positive messages.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -119,6 +120,12 @@ media to share positive messages.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>More DSA@Greendale Secondary School</strong>
+</p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering"><img style="width: 100%" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
