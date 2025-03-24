@@ -110,7 +110,7 @@ to place every year.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>More DSA@Greendale Secondary School</strong>
+<p><strong>More DSA areas @Greendale Secondary School</strong>
 </p>
 </td>
 </tr>
