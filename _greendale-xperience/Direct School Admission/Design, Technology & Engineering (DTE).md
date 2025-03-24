@@ -122,6 +122,11 @@ to enhance their presentation and communication skills.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p>More areas on DSA@Greendale Secondary Schools</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 60%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
 </th>
