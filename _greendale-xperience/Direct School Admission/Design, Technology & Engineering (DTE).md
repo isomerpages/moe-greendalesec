@@ -124,7 +124,7 @@ to enhance their presentation and communication skills.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong><em>More areas on DSA@Greendale Secondary Schools</em></strong>
+<p><strong>More DSA@Greendale Secondary School</strong>
 </p>
 </td>
 </tr>
