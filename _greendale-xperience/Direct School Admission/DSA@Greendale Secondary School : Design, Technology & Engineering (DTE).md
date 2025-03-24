@@ -123,10 +123,7 @@ to enhance their presentation and communication skills.</p>
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg"></a>
 </th>
 </tr>
 <tr>
