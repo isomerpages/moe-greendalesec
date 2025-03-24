@@ -31,4 +31,5 @@ School based on their talent in the following 3 areas of talent and achievements
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Please click on any of the photographs shown above to find out more about
+the specific DSA area @ Greendale Secondary School.</p>
