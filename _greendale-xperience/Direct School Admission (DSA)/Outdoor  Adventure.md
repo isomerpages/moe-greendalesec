@@ -20,6 +20,9 @@ courses, enable students to&nbsp;enjoy challenging and unfamiliar experiences&nb
 test and develop their physical, social and personal skills.</p>
 </li>
 <li>
+<p></p>
+</li>
+<li>
 <p><strong><em>Adventure Education</em></strong>, in offering students new
 and exciting challenges, helps them learn about assessing and managing
 risk. In the process and conduct of the activities, students’&nbsp;personal
