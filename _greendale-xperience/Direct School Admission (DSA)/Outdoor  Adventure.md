@@ -18,16 +18,17 @@ of outdoor &amp; adventure education.</p>
 <p><strong><em>Outdoor Education</em></strong>, both at school and on residential
 courses, enable students to&nbsp;enjoy challenging and unfamiliar experiences&nbsp;that
 test and develop their physical, social and personal skills.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="oda_outdoor_cooking" src="/images/odac_CCA_Outdoor_Cooking.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p><strong><em>Adventure Education</em></strong>, in offering students new
 and exciting challenges, helps them learn about assessing and managing
 risk. In the process and conduct of the activities, students’&nbsp;personal
 qualities and leadership skills&nbsp;are strengthened.</p>
+<p></p>
 </li>
 </ul>
 <h3>Highlights - General</h3>
