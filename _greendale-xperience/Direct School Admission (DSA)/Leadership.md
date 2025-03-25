@@ -9,7 +9,7 @@ variant: tiptap
 <h2>Leadership</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Leadership is one of the key competencies which the school strives to
@@ -90,7 +90,7 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_Camp.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_Camp.jpg">
 </div>
 <p>The Sec 1 Orientation programme is the pinnacle event organised by a team
 of Student Leaders who have undergone the Servant Leadership Training Programme.
