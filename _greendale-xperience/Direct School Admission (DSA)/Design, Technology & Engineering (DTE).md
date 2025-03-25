@@ -7,6 +7,10 @@ variant: tiptap
 ---
 <h1>DSA@Greendale Secondary School</h1>
 <h2>Design, Technology &amp; Engineering (DTE)</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg">
+</div>
 <h3>Introduction</h3>
 <p>Students accepted under the DSA-DTE programme can look forward to exciting
 programmes and activities that will enhance their skills and competencies
