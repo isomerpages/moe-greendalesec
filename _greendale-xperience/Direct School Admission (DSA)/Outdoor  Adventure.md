@@ -19,7 +19,7 @@ of outdoor &amp; adventure education.</p>
 courses, enable students to&nbsp;enjoy challenging and unfamiliar experiences&nbsp;that
 test and develop their physical, social and personal skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="oda_outdoor_cooking" src="/images/odac_CCA_Outdoor_Cooking.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="oda_outdoor_cooking" src="/images/odac_CCA_Outdoor_Cooking.jpg">
 </div>
 <p></p>
 </li>
@@ -92,7 +92,7 @@ actual Event, a school based adventure race against competitors from other
 schools.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Garang" src="/images/GaRang_2024_Student_official_with_participants_doing_the_Pacing_activity_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Garang" src="/images/GaRang_2024_Student_official_with_participants_doing_the_Pacing_activity_.png">
 </div>
 <p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
 can be showcased in a competitive manner. Adventure Race, is open to all
