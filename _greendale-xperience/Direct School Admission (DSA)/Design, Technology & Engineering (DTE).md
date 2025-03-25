@@ -63,7 +63,7 @@ organized by the Singapore Institute of Technology (SIT).</p>
 <p>Deepen their understanding of responsible AI use</p>
 </li>
 </ul>
-<h3><strong>Highlights - STEM Exposure &amp; Industrial Visits</strong></h3>
+<h3>Highlights <strong>- STEM Exposure &amp; Industrial Visits</strong></h3>
 <p>Students will be exposed to STEM (Science, Technology, Engineering, and
 Mathematics) and will have the chance to go on industrial visits. Some
 of the possible programmes include:</p>
@@ -77,8 +77,9 @@ to see how robotics is applied in industries and real-world scenarios.</p>
 </p>
 <p>Students will have the opportunity to visit the exciting and impressive
 Google office. They will also attend a sharing conducted by Googlers, which
-aims to inspire them in the field of STEM.Highlights - <strong>Overseas STEM Trip</strong>
-</p>
+aims to inspire them in the field of STEM.</p>
+<p></p>
+<h3>Highlights - <strong>Overseas STEM Trip</strong></h3>
 <p>Students will also be given the opportunity for overseas STEM trips which
 aim to:</p>
 <ul data-tight="true" class="tight">
