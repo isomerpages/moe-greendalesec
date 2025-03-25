@@ -7,6 +7,10 @@ variant: tiptap
 ---
 <h1>DSA@Greendale Secondary School</h1>
 <h2>Leadership</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg">
+</div>
 <h3>Introduction</h3>
 <p>Leadership is one of the key competencies which the school strives to
 develop in our students. Greendale’s Student Leadership development is
