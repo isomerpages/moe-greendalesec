@@ -36,12 +36,12 @@ students will be closely guided and mentored so that they will be able
 to achieve a well-rounded education here at Greendale Secondary School:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Selected for National Certification programmes: Swimsafer Certification,
-SCF 1 star kayaking (with the option to pursue 2 star kayaking), SMF Rock
-climbing level 1 (with the option to pursue level 2 Rock Climbing)</p>
+<p>Selected for National Certification programmes: SCF 1 star kayaking (with
+the option to pursue 2 star kayaking), SMF Rock climbing level 1 (with
+the option to pursue level 2 Rock Climbing)</p>
 </li>
 <li>
-<p>Selected to participate in our Annual 2D1N Sea Expedition.</p>
+<p>Selected to participate in our Annual Sea Expedition.</p>
 </li>
 <li>
 <p>Opportunity to represent school in GARanG competition, National Orienteering
@@ -86,12 +86,9 @@ into lead climbing on sport climbing walls.</p>
 actual Event, a school based adventure race against competitors from other
 schools.</p>
 <p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
-can be showcased in a competitive manner. The event itself consists of
-2 concurrent events. The first event, Adventure Race, is open to all Secondary
-Schools island wide. It is a foot race which competitors need to combine
-adventure skills such as navigation, cycling and camp craft. The second
-event, GeCKo, is a rock wall speed climbing event open to all Primary 4
-to 6 school students.</p>
+can be showcased in a competitive manner. Adventure Race, is open to all
+Secondary Schools island wide. It is a foot race which competitors need
+to combine adventure skills such as navigation, cycling and camp craft.</p>
 <h3>Highlights - <strong>National Orienteering Race (Schools) Representation</strong></h3>
 <p>DSA-OA candidates will also have the opportunity to participate in NORS
 against competitors from other schools. The competition will test the participants’
