@@ -116,7 +116,10 @@ to place every year.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 40%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo_v3.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/"><img style="width: 40%;" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
