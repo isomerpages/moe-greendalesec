@@ -90,6 +90,10 @@ into lead climbing on sport climbing walls.</p>
 (Secondary 1 and 2) and planning (Secondary 3) or participation in the
 actual Event, a school based adventure race against competitors from other
 schools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Garang" src="/images/GaRang_2024_Student_official_with_participants_doing_the_Pacing_activity_.png">
+</div>
 <p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
 can be showcased in a competitive manner. Adventure Race, is open to all
 Secondary Schools island wide. It is a foot race which competitors need
