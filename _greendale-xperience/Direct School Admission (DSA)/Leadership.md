@@ -100,7 +100,7 @@ and consists of a series of activities organised by the student leaders.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Games Carnival" src="/images/Games_Carnival_2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Games Carnival" src="/images/Games_Carnival_2.png">
 </div>
 <p>One of the main events organised by the Sports Leaders is the Games Carnival.
 This event, usually held in July, is an opportunity for Greendale students
