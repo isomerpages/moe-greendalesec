@@ -26,7 +26,7 @@ in Greendale Secondary School. These students will be closely guided and
 mentored to achieve a well-rounded education here at Greendale Secondary
 School and go on to be inspiring servant leaders beyond their secondary
 school years.</p>
-<p>General</p>
+<h3>General</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Emplaced on Level 1 and 2 of&nbsp;<strong><em>Greendale’s&nbsp;Student Leadership Training</em></strong>&nbsp;Programmes&nbsp;to
@@ -45,8 +45,7 @@ Secondary 2 and 3.</p>
 events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 </li>
 </ul>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Selection</a>
-</p>
+<h3>Selection</h3>
 <p>DSA selection is a rigorous process.</p>
 <p>Candidates who would like to apply for DSA-Leadership should ideally possess
 the following:</p>
@@ -59,7 +58,7 @@ leadership (e.g. Edusave Character Award, EAGLES (Leadership), attendance
 at leadership conferences) will be favourably considered</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
-<p>Highlights</p>
+<h3>Highlights</h3>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
 <p></p>
