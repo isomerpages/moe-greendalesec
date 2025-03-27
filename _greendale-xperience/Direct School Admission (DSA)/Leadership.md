@@ -130,14 +130,14 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sec 1 camp" src="/images/Sec_1_camp_2.jpg">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sec 1 camp" src="/images/Sec_1_camp_2.jpg">
-</div>
 <p>The Sec 1 Orientation programme is the pinnacle event organised by a team
 of Student Leaders who have undergone the Servant Leadership Training Programme.
 The event is meant to welcome the new Secondary 1 students to the school
