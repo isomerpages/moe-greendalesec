@@ -49,13 +49,20 @@ events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 <p>DSA selection is a rigorous process.</p>
 <p>Candidates who would like to apply for DSA-Leadership should ideally possess
 the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and character (at least
-a VERY GOOD for conduct grade)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership experience (at least
-a Class Leadership role, e.g. Class monitor/Prefect/Peer Support Leader)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement in good character and
-leadership (e.g. Edusave Character Award, EAGLES (Leadership), attendance
-at leadership conferences) will be favourably considered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good conduct and character (at least a VERY GOOD for conduct grade)</p>
+</li>
+<li>
+<p>Leadership experience (at least a Class Leadership role, e.g. Class monitor/Prefect/Peer
+Support Leader)</p>
+</li>
+<li>
+<p>Achievement in good character and leadership (e.g. Edusave Character Award,
+EAGLES (Leadership), attendance at leadership conferences) will be favourably
+considered</p>
+</li>
+</ul>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights</h3>
@@ -67,9 +74,8 @@ in Greendale.</p>
 </div>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
-<p><strong><em>Student Leadership Training Programmes</em></strong>
+<p><strong>Student Leadership Training Programmes</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -94,7 +100,7 @@ can look forward to:</p>
 </table>
 <p>Selected student leaders look forward to Greendale’s signature Servant
 Leadership Training Programme. This curated programme aims to equip our
-student leaders with the knowledge and skills to grow as leaders. Our &nbsp;Secondary
+student leaders with the knowledge and skills to grow as leaders. Our Secondary
 2 Student Leaders are mentored by their seniors to develop servant leadership
 traits. Students have the opportunity to hone their leadership skills and
 put them to practice. These skills put them in good stead to take on key
@@ -113,7 +119,6 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </p>
 <p><strong><em>Sec 1 Orientation: Camp R<sup>3</sup>ISE</em></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -136,7 +141,6 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>The Sec 1 Orientation programme is the pinnacle event organised by a team
 of Student Leaders who have undergone the Servant Leadership Training Programme.
 The event is meant to welcome the new Secondary 1 students to the school
