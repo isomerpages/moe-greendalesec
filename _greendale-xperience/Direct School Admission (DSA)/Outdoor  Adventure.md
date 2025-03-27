@@ -22,9 +22,28 @@ of outdoor &amp; adventure education.</p>
 <p><strong><em>Outdoor Education</em></strong>, both at school and on residential
 courses, enable students to&nbsp;enjoy challenging and unfamiliar experiences&nbsp;that
 test and develop their physical, social and personal skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="oda_outdoor_cooking" src="/images/odac_CCA_Outdoor_Cooking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA___Tie_knots.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC_CCA_Navigation.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 </li>
 <li>
