@@ -159,6 +159,9 @@ and consists of a series of activities organised by the student leaders.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="games" src="/images/Games_Carnival_3.jpg">
+</div>
 </th>
 </tr>
 </tbody>
