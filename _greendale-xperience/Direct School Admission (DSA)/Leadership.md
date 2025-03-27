@@ -26,7 +26,7 @@ in Greendale Secondary School. These students will be closely guided and
 mentored to achieve a well-rounded education here at Greendale Secondary
 School and go on to be inspiring servant leaders beyond their secondary
 school years.</p>
-<h3>General</h3>
+<p>General</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Emplaced on Level 1 and 2 of&nbsp;<strong><em>Greendale’s&nbsp;Student Leadership Training</em></strong>&nbsp;Programmes&nbsp;to
@@ -45,7 +45,8 @@ Secondary 2 and 3.</p>
 events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 </li>
 </ul>
-<h3>Selection</h3>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Selection</a>
+</p>
 <p>DSA selection is a rigorous process.</p>
 <p>Candidates who would like to apply for DSA-Leadership should ideally possess
 the following:</p>
@@ -58,16 +59,40 @@ leadership (e.g. Edusave Character Award, EAGLES (Leadership), attendance
 at leadership conferences) will be favourably considered</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
-<h3>Highlights</h3>
+<p>Highlights</p>
 <p>Students can look forward to the wide variety of leadership opportunities
-in Greendale Secondary School</p>
+in Greendale.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA.png">
+<img style="width: 100%" height="auto" width="100%" alt="Leadership journey" src="/images/Greendale_Student_Leadership_Journey_1.png">
 </div>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
 <p><strong><em>Student Leadership Training Programmes</em></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="leadership" src="/images/training_program.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="leadership" src="/images/tranining_program_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Selected student leaders look forward to Greendale’s signature Servant
 Leadership Training Programme. This curated programme aims to equip our
 student leaders with the knowledge and skills to grow as leaders. Our &nbsp;Secondary
