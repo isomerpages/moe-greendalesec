@@ -4,21 +4,38 @@ permalink: /greendale-xperience/student-leadership/
 description: ""
 variant: tiptap
 ---
-<p>In Greendale Secondary School, Leadership is one of the key competencies
-which the school strives to develop in our students. Greendale’s Leadership
-development is based on the principles of Servant Leadership, where we
-aim to groom our students to be confident leaders who have the heart to
-serve. This is in line with our school’s motto:&nbsp;<strong><em>Serve, Lead, Excel</em></strong>.
-Students accepted under DSA-Leadership will undergo a comprehensive programme
-to develop and hone their leadership qualities so that they will go on
-to be good leaders beyond their secondary school years.</p>
-<h3>DSA - Leadership</h3>
+<p>Leadership is one of the key competencies which the school strives to
+develop in our students. Greendale’s Student Leadership development is
+based on the principles of Servant Leadership, where we aim to groom our
+students to be confident leaders with the heart to serve. This is in line
+with our school’s motto:&nbsp;<strong><em>Serve, Lead, Excel.</em></strong>
+</p>
 <p>Students accepted under DSA-Leadership will be developed through a comprehensive
 and rigorous leadership development programme so that they will have the
-ability and confidence to take up leadership roles at various platforms
+ability and confidence to take on leadership roles at various platforms
 in Greendale Secondary School. These students will be closely guided and
-mentored so that they will be able to achieve a well-rounded education
-here at Greendale Secondary School.</p>
+mentored to achieve a well-rounded education here at Greendale Secondary
+School and go on to be inspiring servant leaders beyond their secondary
+school years.</p>
+<h4>General</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Emplaced on Level 1 and 2 of&nbsp;<strong><em>Greendale’s&nbsp;Student Leadership Training</em></strong>&nbsp;Programmes&nbsp;to
+support their transition into possible leadership roles.</p>
+</li>
+<li>
+<p>Opportunity to take on&nbsp;<strong><em>leadership roles</em></strong>&nbsp;in
+class, CCA, Sports Council and Student Council.</p>
+</li>
+<li>
+<p>Opportunity to undergo the<strong><em> Servant Leadership Training Programme</em></strong>&nbsp;in
+Secondary 2 and 3.</p>
+</li>
+<li>
+<p>Opportunity to&nbsp;<strong><em>serve and lead</em></strong>&nbsp;school-wide
+events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
+</li>
+</ul>
 <h3>Highlights</h3>
 <ul data-tight="true" class="tight">
 <li>
