@@ -34,81 +34,82 @@ Secondary 2 and 3.</p>
 <li>
 <p>Opportunity to&nbsp;<strong><em>serve and lead</em></strong>&nbsp;school-wide
 events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
-</li>
-</ul>
-<h3>Highlights</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Emplaced on Level 1 and 2 of&nbsp;<strong><em>Greendale’s&nbsp;Student Leadership Training</em></strong>&nbsp;Programmes&nbsp;to
-support their transition into possible leadership roles.</p>
-</li>
-<li>
-<p>Opportunity to take on&nbsp;<strong><em>leadership roles</em></strong>&nbsp;in
-class, CCA, Sports Council and Student Council.</p>
-</li>
-<li>
-<p>Opportunity to undergo the<strong><em> Servant Leadership Training Programme</em></strong>&nbsp;in
-Secondary 2 and 3.</p>
-</li>
-<li>
-<p>Opportunity to&nbsp;<strong><em>serve and lead</em></strong>&nbsp;school-wide
-events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
+<p></p>
+<h4>Highlights</h4>
+<p>Students can look forward to the wide variety of leadership opportunities
+in Greendale.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="leadership journey" src="/images/Greendale_Student_Leadership_Journey_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Greendale_Student_Leadership_Journey_1.png">
 </div>
-<p></p>
 </li>
 </ul>
-<h3>Highlights</h3>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
-<p><strong>Class EXCO Training Workshop</strong>
+<p></p>
+<p><strong><em>Student Leadership Training Programmes</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/GDLSSLJ_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/training_program.jpg">
 </div>
-<p>Students accepted under DSA-Leadership will have the opportunity to take
-on Class Executive Committee positions in Secondary 1 and undergo the&nbsp;<strong>in-house Class EXCO Training Workshops</strong>&nbsp;.
-These workshops aim to equip leaders with basic facilitation skills and
-focus on skills to lead a class.</p>
-<h3>Aspiring Leaders’ Training Programme</h3>
-<p>Secondary 2 potential student leaders undergo the&nbsp;<strong>Aspiring Leaders’ Training Programme</strong>,
-which is a series of hands-on workshops. Students get the opportunity to
-hone their leadership skills and put them to practice. These skills put
-them in good stead to take up higher leadership appointments in Secondary
-3.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/GDLSSLJ_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tranining_program_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/GDLSSLJ_4.jpg">
-</div>
-<h3>Inspiring Leaders’ Training Programme</h3>
-<p>Student Leaders who take on higher leadership appointments in Secondary
-3 are placed on&nbsp;<strong>the Inspiring Leaders’ Training Programme</strong>.
-This programme is a year-long mentorship programme which equip our leaders
-to take on greater challenges in their roles as leaders of their CCAs or
-leaders in school. Students have the opportunity to learn important planning
-skills, with particular focus on the Servant Leadership traits of Foresight
-and Conceptualisation. A highlight of the Inspiring Leaders’ Training Programme
-is the training camp typically held in Gopeng, Perak. Leaders have the
-opportunity to put these skills to practice during the camp and they will
-also have the chance to plan the Secondary 1 Orientation Camp for their
-juniors.</p>
-<p><strong>Aspiring Leaders' Camp in Pulau Hantu</strong>
+</th>
+</tr>
+</tbody>
+</table>
+<p>Selected student leaders look forward to Greendale’s signature Servant
+Leadership Training Programme. This curated programme aims to equip our
+student leaders with the knowledge and skills to grow as leaders. Our &nbsp;Secondary
+2 Student Leaders are mentored by their seniors to develop servant leadership
+traits. Students have the opportunity to hone their leadership skills and
+put them to practice. These skills put them in good stead to take on key
+leadership appointments in Secondary 3.</p>
+<p>Student Leaders who take on formal leadership appointments in Secondary
+3 will have the opportunity to learn important planning skills, with particular
+focus on the Servant Leadership traits of Foresight and Conceptualisation.
+Leaders are empowered to put these skills to practice during the training
+programme. They will also have the chance to plan the Secondary 1 Orientation
+Camp for their juniors.</p>
+<p>Our student leaders go through a variety of training programmes and get
+opportunities to plan activities and events throughout the year to become
+better servant leaders who are able to&nbsp;<strong>SERVE</strong>,&nbsp;<strong>LEAD</strong>&nbsp;and&nbsp;<strong>EXCEL</strong>.
+Below are some of the highlights of opportunities for students to lead.</p>
+<p><strong>Leaders in Action</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/leadership.png">
-</div>
-<p><strong>Waterfall abseiling during Inspiring Leaders' Training Camp</strong>
+<p><strong><em>Sec 1 Orientation: Camp R<sup>3</sup>ISE</em></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Abseiling2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_camp_1.jpg">
 </div>
-<p><strong>Caving during Inspiring Leaders' Training Camp</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Caving.jpg">
-</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
