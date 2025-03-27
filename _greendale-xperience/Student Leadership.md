@@ -114,4 +114,30 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </tr>
 </tbody>
 </table>
+<p>The Sec 1 Orientation programme is the pinnacle event organised by a team
+of Student Leaders who have undergone the Servant Leadership Training Programme.
+The event is meant to welcome the new Secondary 1 students to the school
+and consists of a series of activities organised by the student leaders.</p>
+<p><strong><em>Games Carnival</em></strong>
+</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>One of the main events organised by the Sports Leaders is the Games Carnival.
+This event, usually held in July, is an opportunity for Greendale students
+to come together to build class spirit while competing in a wide array
+of sporting events.</p>
