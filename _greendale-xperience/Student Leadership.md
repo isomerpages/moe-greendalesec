@@ -146,7 +146,7 @@ and consists of a series of activities organised by the student leaders.</p>
 This event, usually held in July, is an opportunity for Greendale students
 to come together to build class spirit while competing in a wide array
 of sporting events.</p>
-<p><strong><em>Teachers’ Day</em></strong>
+<p><em>Teachers’ Day</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
