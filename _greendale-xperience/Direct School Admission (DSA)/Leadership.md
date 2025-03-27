@@ -141,6 +141,7 @@ Below are some of the highlights of opportunities for students to lead.</p>
 of Student Leaders who have undergone the Servant Leadership Training Programme.
 The event is meant to welcome the new Secondary 1 students to the school
 and consists of a series of activities organised by the student leaders.</p>
+<p></p>
 <p><strong><em>Games Carnival</em></strong>
 </p>
 <p></p>
