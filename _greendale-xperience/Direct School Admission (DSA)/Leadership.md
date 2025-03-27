@@ -158,11 +158,36 @@ of sporting events.</p>
 </div>
 <p><strong><em>Teachers’ Day</em></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="teacher's day" src="/images/teacher_s_day.jpg">
+</div>
 <p>Another major event planned by Student Leaders is the Teachers Day Celebration
 in September. Led by the Student Council, the event requires the Student
 Council to work with their peers to design and plan the school-wide programme.</p>
 <p><strong><em>Student Engagement Sessions</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student engagement" src="/images/student_engagement_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student engagement" src="/images/student_engagement_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Greendale Engage is an opportunity where students look forward to each
 year to have their voices heard. The annual engagement sessions are organised
 by the Student Council, where they have the chance to plan, moderate the
@@ -170,6 +195,29 @@ session, listen to the voices of their peers, and propose ideas to address
 issues raised.</p>
 <p><strong><em>National Education Commemorative Days</em></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Our Student Leaders are involved in advocating key character and citizenship
 education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
