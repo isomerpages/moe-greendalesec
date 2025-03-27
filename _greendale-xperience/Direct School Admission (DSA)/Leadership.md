@@ -144,22 +144,34 @@ and consists of a series of activities organised by the student leaders.</p>
 <p></p>
 <p><strong><em>Games Carnival</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Games Carnival" src="/images/Games_Carnival_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="game" src="/images/Games_Carnival_2.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>One of the main events organised by the Sports Leaders is the Games Carnival.
 This event, usually held in July, is an opportunity for Greendale students
 to come together to build class spirit while competing in a wide array
 of sporting events.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Game Carnival" src="/images/Games_Carnival_4.jpg">
-</div>
 <p><strong><em>Teachers’ Day</em></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="teacher's day" src="/images/teacher_s_day.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="teacher's day" src="/images/teacher_s_day.jpg">
 </div>
 <p>Another major event planned by Student Leaders is the Teachers Day Celebration
 in September. Led by the Student Council, the event requires the Student
