@@ -114,9 +114,29 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </p>
 <p><strong><em>Sec 1 Orientation: Camp R<sup>3</sup>ISE</em></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_Camp.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_camp_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sec 1 camp" src="/images/Sec_1_camp_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>The Sec 1 Orientation programme is the pinnacle event organised by a team
 of Student Leaders who have undergone the Servant Leadership Training Programme.
 The event is meant to welcome the new Secondary 1 students to the school
