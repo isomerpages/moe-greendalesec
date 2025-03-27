@@ -92,7 +92,6 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </p>
 <p><strong><em>Sec 1 Orientation: Camp R<sup>3</sup>ISE</em></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -108,6 +107,9 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_camp_2.jpg">
+</div>
 </th>
 </tr>
 </tbody>
