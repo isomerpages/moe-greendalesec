@@ -7,6 +7,10 @@ variant: tiptap
 ---
 <h1>DSA@Greendale Secondary School</h1>
 <h2>Outdoor Adventure</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OAE" src="/images/LLP_OAE_Photo.jpg">
+</div>
 <h3>Introduction</h3>
 <p>In Greendale Secondary School,&nbsp;<strong>Outdoor Adventure Education</strong>&nbsp;is
 an&nbsp;integrated approach&nbsp;to learning and development in which abstract
@@ -28,6 +32,12 @@ test and develop their physical, social and personal skills.</p>
 and exciting challenges, helps them learn about assessing and managing
 risk. In the process and conduct of the activities, students’&nbsp;personal
 qualities and leadership skills&nbsp;are strengthened.</p>
+</li>
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="rock climbing" src="/images/Rock_climbing.jpg">
+</div>
 <p></p>
 </li>
 </ul>
