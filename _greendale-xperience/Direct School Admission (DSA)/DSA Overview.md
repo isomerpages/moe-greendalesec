@@ -36,11 +36,10 @@ School based on their talent in the following 3 areas of talent and achievements
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/greendale-xperience/direct-school-admission/dsa-student-leadership/" rel="noopener nofollow" target="_blank">Leadership</a>
-<a href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/" rel="noopener nofollow" target="_blank">Outdoor Adventure</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Outdoor Adventure</u>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/" rel="noopener nofollow" target="_blank">Outdoor Adventure</a>
 </p>
 </td>
 </tr>
