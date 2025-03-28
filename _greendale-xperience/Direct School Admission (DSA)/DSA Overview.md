@@ -29,6 +29,20 @@ School based on their talent in the following 3 areas of talent and achievements
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor Adventure" src="/images/LLP_OAE_Photo_v1.jpg"></a>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Design Technology &amp; Engineering (DTE)</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Leadership</u>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>Outdoor Adventure</u>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Please click on any of the photographs shown above to find out more about
