@@ -31,11 +31,12 @@ School based on their talent in the following 3 areas of talent and achievements
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Design Technology &amp; Engineering (DTE)</u>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/" rel="noopener nofollow" target="_blank">Design Technology &amp; Engineering (DTE)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Leadership</u>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-student-leadership/" rel="noopener nofollow" target="_blank">Leadership</a>
+<a href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/" rel="noopener nofollow" target="_blank">Outdoor Adventure</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
