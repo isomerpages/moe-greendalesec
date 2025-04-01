@@ -52,15 +52,9 @@ thinking, and problem-solving skills.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics_Club_Pict_2.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics_Club_Pict_3.jpg">
-</div>
 </th>
 </tr>
 </tbody>
@@ -130,6 +124,9 @@ while developing their creativity and collaboration skills.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT_Challenge_Pict_2.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
