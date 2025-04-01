@@ -78,26 +78,6 @@ to see how robotics is applied in industries and real-world scenarios.</p>
 <p>Students will have the opportunity to visit the exciting and impressive
 Google office. They will also attend a sharing conducted by Googlers, which
 aims to inspire them in the field of STEM.</p>
-<p></p>
-<h3>Highlights - <strong>Overseas STEM Trip</strong></h3>
-<p>Students will also be given the opportunity for overseas STEM trips which
-aim to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>expose them to STEM education and development in other countries,</p>
-</li>
-<li>
-<p>deepen their 21st&nbsp;Century Competencies of global awareness and cross-cultural
-skills and sensitivities,</p>
-</li>
-<li>
-<p>to help students realise how countries are utilizing technologies as a
-competitive advantage to improve life and economy</p>
-</li>
-<li>
-<p>to create awareness of foreign cultures and the interconnected world</p>
-</li>
-</ul>
 <h3>Highlights - <strong>Competitions</strong></h3>
 <p>In addition to the competitions held by the Robotics Club, students will
 have the opportunity to participate in other national competitions, such
