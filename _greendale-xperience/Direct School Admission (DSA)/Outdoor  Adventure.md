@@ -7,6 +7,10 @@ variant: tiptap
 ---
 <h1>DSA@Greendale Secondary School</h1>
 <h2>Outdoor Adventure</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OAE" src="/images/LLP_OAE_Photo.jpg">
+</div>
 <h3>Introduction</h3>
 <p>In Greendale Secondary School,&nbsp;<strong>Outdoor Adventure Education</strong>&nbsp;is
 an&nbsp;integrated approach&nbsp;to learning and development in which abstract
@@ -18,12 +22,42 @@ of outdoor &amp; adventure education.</p>
 <p><strong><em>Outdoor Education</em></strong>, both at school and on residential
 courses, enable students to&nbsp;enjoy challenging and unfamiliar experiences&nbsp;that
 test and develop their physical, social and personal skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OA___Tie_knots.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ODAC_CCA_Navigation.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 </li>
 <li>
 <p><strong><em>Adventure Education</em></strong>, in offering students new
 and exciting challenges, helps them learn about assessing and managing
 risk. In the process and conduct of the activities, students’&nbsp;personal
 qualities and leadership skills&nbsp;are strengthened.</p>
+</li>
+<li>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="rock climbing" src="/images/Rock_climbing.jpg">
+</div>
+<p></p>
 </li>
 </ul>
 <h3>Highlights - General</h3>
@@ -36,12 +70,12 @@ students will be closely guided and mentored so that they will be able
 to achieve a well-rounded education here at Greendale Secondary School:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Selected for National Certification programmes: Swimsafer Certification,
-SCF 1 star kayaking (with the option to pursue 2 star kayaking), SMF Rock
-climbing level 1 (with the option to pursue level 2 Rock Climbing)</p>
+<p>Selected for National Certification programmes: SCF 1 star kayaking (with
+the option to pursue 2 star kayaking), SMF Rock climbing level 1 (with
+the option to pursue level 2 Rock Climbing)</p>
 </li>
 <li>
-<p>Selected to participate in our Annual 2D1N Sea Expedition.</p>
+<p>Selected to participate in our Annual Sea Expedition.</p>
 </li>
 <li>
 <p>Opportunity to represent school in GARanG competition, National Orienteering
@@ -85,13 +119,14 @@ into lead climbing on sport climbing walls.</p>
 (Secondary 1 and 2) and planning (Secondary 3) or participation in the
 actual Event, a school based adventure race against competitors from other
 schools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Garang" src="/images/GaRang_2024_Student_official_with_participants_doing_the_Pacing_activity_.png">
+</div>
 <p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
-can be showcased in a competitive manner. The event itself consists of
-2 concurrent events. The first event, Adventure Race, is open to all Secondary
-Schools island wide. It is a foot race which competitors need to combine
-adventure skills such as navigation, cycling and camp craft. The second
-event, GeCKo, is a rock wall speed climbing event open to all Primary 4
-to 6 school students.</p>
+can be showcased in a competitive manner. Adventure Race, is open to all
+Secondary Schools island wide. It is a foot race which competitors need
+to combine adventure skills such as navigation, cycling and camp craft.</p>
 <h3>Highlights - <strong>National Orienteering Race (Schools) Representation</strong></h3>
 <p>DSA-OA candidates will also have the opportunity to participate in NORS
 against competitors from other schools. The competition will test the participants’
@@ -116,7 +151,7 @@ to place every year.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 40%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-student-leadership/"><img style="width: 45%;" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo_v3.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/"><img style="width: 40%;" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>

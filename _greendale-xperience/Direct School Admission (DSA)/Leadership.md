@@ -7,6 +7,11 @@ variant: tiptap
 ---
 <h1>DSA@Greendale Secondary School</h1>
 <h2>Leadership</h2>
+<p></p>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo_v3.png">
+</div>
 <h3>Introduction</h3>
 <p>Leadership is one of the key competencies which the school strives to
 develop in our students. Greendale’s Student Leadership development is
@@ -44,28 +49,58 @@ events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 <p>DSA selection is a rigorous process.</p>
 <p>Candidates who would like to apply for DSA-Leadership should ideally possess
 the following:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Good conduct and character (at least
-a VERY GOOD for conduct grade)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership experience (at least
-a Class Leadership role, e.g. Class monitor/Prefect/Peer Support Leader)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Achievement in good character and
-leadership (e.g. Edusave Character Award, EAGLES (Leadership), attendance
-at leadership conferences) will be favourably considered</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good conduct and character (at least a VERY GOOD for conduct grade)</p>
+</li>
+<li>
+<p>Leadership experience (at least a Class Leadership role, e.g. Class monitor/Prefect/Peer
+Support Leader)</p>
+</li>
+<li>
+<p>Achievement in good character and leadership (e.g. Edusave Character Award,
+EAGLES (Leadership), attendance at leadership conferences) will be favourably
+considered</p>
+</li>
+</ul>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights</h3>
 <p>Students can look forward to the wide variety of leadership opportunities
-in Greendale Secondary School</p>
+in Greendale.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA.png">
+<img style="width: 100%" height="auto" width="100%" alt="Leadership journey" src="/images/Greendale_Student_Leadership_Journey_1.png">
 </div>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
-<p><strong><em>Student Leadership Training Programmes</em></strong>
+<p><strong>Student Leadership Training Programmes</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="leadership" src="/images/training_program.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="leadership" src="/images/tranining_program_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Selected student leaders look forward to Greendale’s signature Servant
 Leadership Training Programme. This curated programme aims to equip our
-student leaders with the knowledge and skills to grow as leaders. Our &nbsp;Secondary
+student leaders with the knowledge and skills to grow as leaders. Our Secondary
 2 Student Leaders are mentored by their seniors to develop servant leadership
 traits. Students have the opportunity to hone their leadership skills and
 put them to practice. These skills put them in good stead to take on key
@@ -84,23 +119,94 @@ Below are some of the highlights of opportunities for students to lead.</p>
 </p>
 <p><strong><em>Sec 1 Orientation: Camp R<sup>3</sup>ISE</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_camp_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sec 1 camp" src="/images/Sec_1_camp_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>The Sec 1 Orientation programme is the pinnacle event organised by a team
 of Student Leaders who have undergone the Servant Leadership Training Programme.
 The event is meant to welcome the new Secondary 1 students to the school
 and consists of a series of activities organised by the student leaders.</p>
+<p></p>
 <p><strong><em>Games Carnival</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="game" src="/images/Games_Carnival_2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="games" src="/images/Games_Carnival_3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>One of the main events organised by the Sports Leaders is the Games Carnival.
 This event, usually held in July, is an opportunity for Greendale students
 to come together to build class spirit while competing in a wide array
 of sporting events.</p>
+<p></p>
 <p><strong><em>Teachers’ Day</em></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="teacher's day" src="/images/teacher_s_day.jpg">
+</div>
 <p>Another major event planned by Student Leaders is the Teachers Day Celebration
 in September. Led by the Student Council, the event requires the Student
 Council to work with their peers to design and plan the school-wide programme.</p>
 <p><strong><em>Student Engagement Sessions</em></strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student engagement" src="/images/student_engagement_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student engagement" src="/images/student_engagement_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Greendale Engage is an opportunity where students look forward to each
 year to have their voices heard. The annual engagement sessions are organised
 by the Student Council, where they have the chance to plan, moderate the
@@ -108,6 +214,29 @@ session, listen to the voices of their peers, and propose ideas to address
 issues raised.</p>
 <p><strong><em>National Education Commemorative Days</em></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Our Student Leaders are involved in advocating key character and citizenship
 education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
