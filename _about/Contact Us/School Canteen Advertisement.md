@@ -30,7 +30,7 @@ third_nav_title: Contact Us
 <p>Noodle House</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28th Feb 2024</p>
+<p>30th April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see below</p>
