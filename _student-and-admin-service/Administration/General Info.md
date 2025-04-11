@@ -3,47 +3,68 @@ title: General Info
 permalink: /student-admin-services/administration/general-info/
 description: ""
 third_nav_title: Administration
-variant: markdown
+variant: tiptap
 ---
-The school Administration Office oversees the school administrative functions and provides a suite of services that support teaching and learning and day-to-day operations of the school.
-
-These services, which include general administration, school operations, financial, technical and logistics support, are provided by our School Administration Team (SAT).
-
-In Greendale Secondary, our small and dedicated SAT oversees and provides support for the different administrative areas. &nbsp;We strives to provide quality services to meet the needs of staff, students, parents and stakeholders. We value mutual respect and welcome constructive feedback and comments that are respectful and civil to help us improves our services.
-
-Below are relevant contact for the various administrative functions:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t0cp{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7bu6{background-color:#EAEAEA;text-align:center;vertical-align:middle}
-.tg .tg-kytw{background-color:#EAEAEA;color:#0274BE;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-t0cp" colspan="3"><span style="font-weight:inherit;font-style:inherit;color:#FFF">School Administration Team</span></th>
-  </tr>
-</thead>
+<p>The school Administration Office oversees the school administrative functions
+and provides a suite of services that support teaching and learning and
+day-to-day operations of the school.</p>
+<p>These services, which include general administration, school operations,
+financial, technical and logistics support, are provided by our School
+Administration Team (SAT).</p>
+<p>In Greendale Secondary, our small and dedicated SAT oversees and provides
+support for the different administrative areas. &nbsp;We strives to provide
+quality services to meet the needs of staff, students, parents and stakeholders.
+We value mutual respect and welcome constructive feedback and comments
+that are respectful and civil to help us improves our services.</p>
+<p>Below are relevant contact for the various administrative functions:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Miss Khairunnisha</span></td>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Administration Manager</span></td>
-    <td class="tg-kytw"><a href="mailto:khairunnisha_bakri@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">khairunnisha_bakri@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Mr Mohd Ariff</span></td>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Operations Manager</span></td>
-    <td class="tg-kytw"><a href="mailto:mohd_ariff_abdul_aziz@moe.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">mohd_ariff_abdul_aziz@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">-</span></td>
-    <td class="tg-7bu6"><span style="font-weight:inherit;font-style:inherit;background-color:#EAEAEA">Info-Comm Technology Manager</span></td>
-    <td class="tg-kytw"><a href="mailto:-"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">-</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p>School Administration Team</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Khairunnisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khairunnisha_bakri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisha_bakri@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Ariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_ariff_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_ariff_abdul_aziz@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jamie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Info-Comm Technology Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jamie_chew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jamie_chew@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
