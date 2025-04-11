@@ -55,7 +55,7 @@ that are respectful and civil to help us improves our services.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jamie</p>
+<p>Ms Jamie Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Info-Comm Technology Manager</p>
