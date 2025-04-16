@@ -69,7 +69,7 @@ offered to them.</p>
 <p>Mrs Gudipati Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Allied Educator (Learning &amp; Behavioural Support)</p>
+<p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gudipati_pranathi_reddy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gudipati_pranathi_reddy@moe.edu.sg</a>
