@@ -88,18 +88,6 @@ offered to them.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Phyllis Phua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Health Advisor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phua_ke_yu_phyllis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_ke_yu_phyllis@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
