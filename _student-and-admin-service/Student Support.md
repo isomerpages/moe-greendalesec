@@ -14,7 +14,7 @@ and mental health issues with a trained counsellor.</p>
 strategies to manage and cope with their emotions or situation, while working
 closely with the teachers and family. This enables them to make choices
 for positive change and development, and they gain self-efficacy over time.</p>
-<h3>Allied Educator (Learning &amp; Behavioural Support)</h3>
+<h3>Special Education Needs Officer</h3>
 <p>Our AED LBS provides support to students with mild special educational
 needs such as dyslexia, ADHD or mild ASD and sensory/physical impairments
 studying in mainstream schools.</p>
