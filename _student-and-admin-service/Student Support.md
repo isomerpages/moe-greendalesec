@@ -47,7 +47,7 @@ offered to them.</p>
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_weng_keong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_weng_keong@moe.edu.sg</a>
+<p><a href="mailto:wong_weng_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_weng_keong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,8 +59,7 @@ offered to them.</p>
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gayathri_batumale@schools.gov" rel="noopener noreferrer nofollow" target="_blank">gayathri_batumale@schools.gov</a>
-<a href="mailto:gayathri_batumale@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<p><a href="mailto:gayathri_batumale@schools.gov" rel="noopener noreferrer nofollow" target="_blank">gayathri_batumale@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -72,7 +71,7 @@ offered to them.</p>
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gudipati_pranathi_reddy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gudipati_pranathi_reddy@moe.edu.sg</a>
+<p><a href="mailto:gudipati_pranathi_reddy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gudipati_pranathi_reddy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
