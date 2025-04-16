@@ -15,9 +15,9 @@ strategies to manage and cope with their emotions or situation, while working
 closely with the teachers and family. This enables them to make choices
 for positive change and development, and they gain self-efficacy over time.</p>
 <h3>Special Education Needs Officer</h3>
-<p>Our AED LBS provides support to students with mild special educational
-needs such as dyslexia, ADHD or mild ASD and sensory/physical impairments
-studying in mainstream schools.</p>
+<p>Our Special Education Needs Officer provides support to students with
+mild special educational needs such as dyslexia, ADHD or mild ASD and sensory/physical
+impairments studying in mainstream schools.</p>
 <h3>Education &amp; Career Guidance Counsellor</h3>
 <p>Our ECG counsellor helps students at schools, polytechnics and ITE explore
 their strengths, interest and aspirations. Through conversations with the
