@@ -272,11 +272,12 @@ media to share positive messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
-(DTE)</p>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/" rel="noopener nofollow" target="_blank">Click this photo to find out more on DSA: Design, Technology &amp; Engineering (DTE)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Outdoor Adventure</p>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/" rel="noopener nofollow" target="_blank">Click this photo to find out more on DSA: Outdoor Adventure</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
