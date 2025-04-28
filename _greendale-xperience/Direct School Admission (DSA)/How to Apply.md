@@ -6,4 +6,6 @@ description: ""
 image: /images/dsa-poster-2023.jpg
 third_nav_title: Direct School Admission (DSA)
 ---
+<h2>How to Apply</h2>
+<p></p>
 <p></p>
