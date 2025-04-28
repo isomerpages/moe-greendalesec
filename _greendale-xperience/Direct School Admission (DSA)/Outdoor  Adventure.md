@@ -163,11 +163,12 @@ to place every year.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Leadership</p>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-student-leadership/" rel="noopener nofollow" target="_blank">Click this photo to find out more on DSA: Leadership</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
-(DTE)</p>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/" rel="noopener nofollow" target="_blank">Click this photo to find out more on DSA: Design, Technology &amp; Engineering (DTE)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
