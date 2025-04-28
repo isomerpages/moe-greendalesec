@@ -242,7 +242,9 @@ education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
 media to share positive messages.</p>
 <p></p>
-<p></p>
+<h3>How to Apply</h3>
+<p>For more information on how to apply for DSA, click <a href="https://cms.isomer.gov.sg/greendale-xperience/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
+</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
