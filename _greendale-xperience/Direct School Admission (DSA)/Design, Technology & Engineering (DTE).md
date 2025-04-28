@@ -149,6 +149,8 @@ where they will present their ideas to judges from community partners such
 as the <strong>Land Transport Authority</strong>, <strong>ST Microelectronics</strong>, <strong>James Dyson Foundation</strong>,
 and SIT. The finals are open to the public, offering students a platform
 to enhance their presentation and communication skills.</p>
+<h3>How to Apply</h3>
+<p>For more information on how to apply for DSA, click here</p>
 <p></p>
 <p></p>
 <p></p>
