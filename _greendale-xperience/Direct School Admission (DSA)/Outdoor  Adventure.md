@@ -60,6 +60,35 @@ qualities and leadership skills&nbsp;are strengthened.</p>
 <p></p>
 </li>
 </ul>
+<h2>Selection</h2>
+<p>DSA selection is a rigorous process.</p>
+<p>Candidates who would like to apply for DSA-Outdoor Education should ideally
+possess the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good conduct and character (at least a VERY GOOD for conduct grade)</p>
+</li>
+<li>
+<p>Outdoor experience (e.g. participation in school-based outdoor activities
+such as Primary 5 Outdoor Camp, cycling, non-school based rock-climbing
+/ canoeing enrichment activities)</p>
+</li>
+<li>
+<p>Positive attitude towards adventure</p>
+</li>
+<li>
+<p>Personal confidence and self-esteem through taking on real-life challenges</p>
+</li>
+<li>
+<p>Keen on acquiring and developing a range of skills in outdoor activities,
+expeditions and exploration.</p>
+</li>
+<li>
+<p>Passion for conservation and sustainable development</p>
+</li>
+</ul>
+<p>Shortlisted candidates will attend an interview session and take part
+in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights - General</h3>
 <p>Students accepted under DSA-Outdoor Adventure will be developed through
 a comprehensive and rigorous talent development programme that involves
