@@ -17,6 +17,29 @@ programmes and activities that will enhance their skills and competencies
 in coding, robotics, and technology. There will also be opportunities to
 partner and collaborate with institutions of higher learning and industries.
 Students will receive a well-rounded, holistic, and enriching experience.</p>
+<h2>Selection</h2>
+<p>DSA selection is a rigorous process.</p>
+<p>Candidates who would like to apply for DSA–Design, Technology and Engineering
+(DTE) should ideally possess the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Strong interest in STEM-related areas such as coding, robotics, and engineering
+design</p>
+</li>
+<li>
+<p>Relevant experience or exposure (e.g. participation in coding competitions,
+robotics clubs, STEM-related workshops or projects)</p>
+</li>
+<li>
+<p>Demonstrates skills in problem-solving, critical thinking, and innovation</p>
+</li>
+<li>
+<p>Demonstrates good conduct, a resilient character, and teamwork skills.</p>
+</li>
+</ul>
+<p>Shortlisted candidates will attend an interview session and take part
+in a hands-on task or scenario-based activity to assess their aptitude
+and passion for technology and engineering.</p>
 <p>Below are some of the key programmes and leadership development opportunities
 that successful DSA-DTE students can look forward to:</p>
 <h3>Highlights - <strong>Robotics Club</strong></h3>
