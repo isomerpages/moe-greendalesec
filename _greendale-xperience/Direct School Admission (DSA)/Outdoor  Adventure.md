@@ -163,7 +163,7 @@ skills such as map reading, pacing and usage of compass bearings. To keep
 the competition exciting, the venue of the competition changes from place
 to place every year.</p>
 <h3>How to Apply</h3>
-<p>For more information on how to apply for DSA, click <a href="https://cms.isomer.gov.sg/greendale-xperience/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
+<p>For more information on how to apply for DSA, click <a href="/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
