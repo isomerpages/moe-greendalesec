@@ -173,7 +173,7 @@ as the <strong>Land Transport Authority</strong>, <strong>ST Microelectronics</s
 and SIT. The finals are open to the public, offering students a platform
 to enhance their presentation and communication skills.</p>
 <h3>How to Apply</h3>
-<p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply//dsa-how-to-apply/" rel="noopener nofollow" target="_blank">here</a>
+<p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply/" rel="noopener nofollow" target="_blank">here</a>
 </p>
 <p></p>
 <p></p>
