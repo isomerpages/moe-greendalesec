@@ -243,7 +243,7 @@ events such as Racial Harmony Day and National Day, and make use of social
 media to share positive messages.</p>
 <p></p>
 <h3>How to Apply</h3>
-<p>For more information on how to apply for DSA, click <a href="/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
+<p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply//dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
 </p>
 <p></p>
 <table style="minWidth: 75px">
