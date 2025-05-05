@@ -31,7 +31,7 @@ third_nav_title: Direct School Admission (DSA)
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete and submit the online application through the DSA-Sec Portal
-<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>by 3 June 2025 (3 p.m.)</p>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>by 3 June 2025 (3 p.m.)</p>
 <p>Do note that late submissions will not be considered</p>
 </td>
 </tr>
