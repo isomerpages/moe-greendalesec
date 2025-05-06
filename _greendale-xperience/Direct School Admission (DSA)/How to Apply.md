@@ -9,7 +9,6 @@ third_nav_title: Direct School Admission (DSA)
 <h2>How to Apply</h2>
 <p></p>
 <p>The Direct School Admission (DSA) 2025 exercise starts <strong>on 7 May 2025 (11 a.m.) and ends on 3 June 2025 (3 p.m.)</strong>.</p>
-<p>DSA-Sec 2025 exercise is now closed.</p>
 <h4>Timeline of DSA-Sec 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -30,8 +29,8 @@ third_nav_title: Direct School Admission (DSA)
 <p>7 May 2025 (11 a.m.) to 3 June 2025 (3 p.m.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Complete and submit the online application through the DSA-Sec Portal
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>by 3 June 2025 (3 p.m.)</p>
+<p>Complete and submit the online application through the <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>
+<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank"></a>by 3 June 2025 (3 p.m.)</p>
 <p>Do note that late submissions will not be considered</p>
 </td>
 </tr>
