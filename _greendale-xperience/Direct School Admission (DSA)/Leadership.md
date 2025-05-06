@@ -242,7 +242,9 @@ education messages and school values. They serve as emcees at various school
 events such as Racial Harmony Day and National Day, and make use of social
 media to share positive messages.</p>
 <p></p>
-<p></p>
+<h3>How to Apply</h3>
+<p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
+</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -270,11 +272,12 @@ media to share positive messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Design, Technology &amp; Engineering
-(DTE)</p>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/" rel="noopener nofollow" target="_blank">Click this photo to find out more on DSA: Design, Technology &amp; Engineering (DTE)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click this photo to find out more on DSA: Outdoor Adventure</p>
+<p><a href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/" rel="noopener nofollow" target="_blank">Click this photo to find out more on DSA: Outdoor Adventure</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
