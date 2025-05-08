@@ -47,3 +47,11 @@ School based on their talent in the following 3 areas of talent and achievements
 </table>
 <p>Please click on any of the photographs shown above to find out more about
 the specific DSA area @ Greendale Secondary School.</p>
+<p></p>
+<p>Parents and students are encouraged to choose schools wisely based on
+the student’s aptitudes and strengths, bearing in mind the schools’ academic
+and non-academic requirements, and the programmes available to develop
+the area of talent.</p>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from Years 1 – 4.</p>
