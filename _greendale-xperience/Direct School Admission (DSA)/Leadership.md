@@ -63,6 +63,14 @@ EAGLES (Leadership), attendance at leadership conferences) will be favourably
 considered</p>
 </li>
 </ul>
+<p>Applicants who do not have prior experience may also apply.&nbsp;The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants. Note that meeting all the criteria
+does not guarantee that a student will be shortlisted / given an offer.
+Parents will receive notification from Greendale Secondary School by 1
+August 2025 if students have been shortlisted to undergo Direct School
+Admission (DSA) selection. All Applicants will receive their application
+outcomes between 25 Aug and 4 Sep 2025.</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights</h3>
