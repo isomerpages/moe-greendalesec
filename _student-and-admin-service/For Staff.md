@@ -10,8 +10,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset Request</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
@@ -31,6 +30,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">Human Resource Portal (HRP)</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset Request</a>
 </p>
 </li>
 <li>
