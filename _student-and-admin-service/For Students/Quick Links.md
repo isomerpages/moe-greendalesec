@@ -40,6 +40,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://forms.gle/rEjXBEnTKn3tKVEQ7" rel="noopener nofollow" target="_blank">Discipline Reporting Form</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/canteenfeedbackform-" rel="noopener nofollow" target="_blank">Canteen Feedback Form</a>
 </p>
 </li>
@@ -51,3 +55,4 @@ variant: tiptap
 <p>For other student related matters, please click on the links on the right
 (or bottom, if viewing via mobile smartphone) side of this page.</p>
 <p>Thank you!</p>
+<p></p>
