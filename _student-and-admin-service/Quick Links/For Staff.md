@@ -36,7 +36,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://go.gov.sg/gdss-e-services" rel="noopener noreferrer nofollow" target="_blank">School e-Services Portal</a>
-<br><em>(Click on the above link to report faulty school facilities, discipline related incidents, and MIMS/ Student iCON password reset request)</em>
+<br><em>(Click on the above link to report faulty school facilities, discipline related incidents, and Canteen Feedback)</em>
 </p>
 </li>
 <li>
