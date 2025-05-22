@@ -42,9 +42,5 @@ variant: tiptap
 <p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Form.SG</a>
 </p>
 </li>
-<li>
-<p><a href="https://go.gov.sg/dreamdale-gdls" rel="noopener noreferrer nofollow" target="_blank">Dreamdale ECG website</a>
-</p>
-</li>
 </ul>
 <p></p>
