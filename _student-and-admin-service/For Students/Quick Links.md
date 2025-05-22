@@ -36,6 +36,14 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://forms.gle/i9Wi9HPw9YjHZ5ZW7" rel="noopener nofollow" target="_blank">Facilities Fault Reporting Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/canteenfeedbackform-" rel="noopener nofollow" target="_blank">Canteen Feedback Form</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Release_of_2024_O_Level_Results_Admin_Briefing_Slides_10Jan25.pdf" rel="noopener noreferrer nofollow" target="_blank">Release of 2024 GCE O-Level Results</a>
 </p>
 </li>
