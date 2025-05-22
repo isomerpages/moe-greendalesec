@@ -2,6 +2,7 @@ collections:
   student-and-admin-service:
     output: true
     order:
+      - Quick Links/.keep
       - For Staff.md
       - For Students/.keep
       - For Students/Quick Links.md
