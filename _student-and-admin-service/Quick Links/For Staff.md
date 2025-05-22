@@ -11,6 +11,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset Request</a>
+</p>
+</li>
+<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
 </li>
