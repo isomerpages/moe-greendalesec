@@ -5,12 +5,8 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/gdss-e-services" rel="noopener noreferrer nofollow" target="_blank">School e-Services Portal</a>
-<br><em>(Click on the above link to report faulty school facilities, discipline related incidents and Canteen Feedback)</em>
-</p>
-</li>
 <li>
 <p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset Request</a>
 </p>
