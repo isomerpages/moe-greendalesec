@@ -1,9 +1,9 @@
 ---
-title: For Staff
+title: Quick Links
 permalink: /quick-links/staff/
 description: ""
-third_nav_title: Quick Links
 variant: tiptap
+third_nav_title: For Staffs
 ---
 <ul data-tight="true" class="tight">
 <li>
@@ -31,17 +31,25 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/gdss-e-services" rel="noopener noreferrer nofollow" target="_blank">School e-Services Portal</a>
-<br><em>(Click on the above link to report faulty school facilities, discipline related incidents, and MIMS/ Student iCON password reset request)</em>
+<p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset Request</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.gle/rEjXBEnTKn3tKVEQ7" rel="noopener nofollow" target="_blank">Report Faulty School Facilities</a>
+</p>
+</li>
+<li>
+<p><a href="https://forms.gle/rEjXBEnTKn3tKVEQ7" rel="noopener nofollow" target="_blank">Discipline Reporting Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/canteenfeedbackform-" rel="noopener nofollow" target="_blank">Canteen Feedback Form</a>
 </p>
 </li>
 <li>
 <p><a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Form.SG</a>
 </p>
 </li>
-<li>
-<p><a href="https://go.gov.sg/dreamdale-gdls" rel="noopener noreferrer nofollow" target="_blank">Dreamdale ECG website</a>
-</p>
-</li>
 </ul>
+<p></p>
 <p></p>

@@ -2,8 +2,10 @@ collections:
   student-and-admin-service:
     output: true
     order:
+      - For Staffs/Quick Links.md
+      - For Staffs/.keep
       - For Students/.keep
-      - For Students/For Students.md
+      - For Students/Quick Links.md
       - For Students/Booklists.md
       - For Students/School Calendar.md
       - For Students/Class Timetable.md
@@ -16,5 +18,3 @@ collections:
       - Administration/Other Forms of Subsidy.md
       - Administration/The Straits Times School Pocket Money Fund.md
       - Student Support.md
-      - Quick Links/.keep
-      - Quick Links/For Staff.md
