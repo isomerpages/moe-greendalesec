@@ -3,7 +3,7 @@ title: Quick Links
 permalink: /quick-links/staff/
 description: ""
 variant: tiptap
-third_nav_title: For Staffs
+third_nav_title: For Staff
 ---
 <ul data-tight="true" class="tight">
 <li>

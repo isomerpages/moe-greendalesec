@@ -31,12 +31,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>GDLS on Socials</strong>
-<br><a href="https://www.facebook.com/greendalesec" rel="noopener noreferrer nofollow" target="_blank">GDLS on Facebook</a>
-<br><a href="https://www.instagram.com/greendalesecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">GDLS on Instagram</a>
-</p>
-</li>
-<li>
 <p><strong>Class Timetable</strong>
 <br>Please click <a href="/student-admin-services/students/class-timetable/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>

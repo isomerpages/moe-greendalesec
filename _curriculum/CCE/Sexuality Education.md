@@ -46,7 +46,7 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview of Greendale Secondary School’s Sexuality Education Programme for 2024</strong></h4>
+<h4><strong>Overview of Greendale Secondary School’s Sexuality Education Programme for 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
