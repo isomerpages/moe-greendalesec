@@ -849,7 +849,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk delivered through a pre-recorded video</p>
+<p>Mass Talk delivered through a pre-recorded videos</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
