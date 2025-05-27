@@ -890,7 +890,7 @@ of assertiveness and responsible decision-making</p>
 <ol start="10" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
+supplementary sexuality education programs by MOE-approved external providers.</p>
 <p></p>
 </li>
 <li>
