@@ -1,0 +1,20 @@
+collections:
+  about:
+    output: true
+    order:
+      - School Leaders' Message.md
+      - School Videos/.keep
+      - School Videos/Principal's Address (Open House 2024).md
+      - "School Videos/School Corporate Video: Growing Hearts, Growing Minds.md"
+      - School Videos/PSG Outreach Video.md
+      - Vision, Mission & Values.md
+      - Greendale Family/.keep
+      - Greendale Family/School Staff.md
+      - Greendale Family/School Steering Committee.md
+      - Greendale Family/Class Mentors.md
+      - School Advisory Committee.md
+      - School History.md
+      - School Symbols.md
+      - Contact Us/.keep
+      - Contact Us/School Information.md
+      - Contact Us/School Canteen Advertisement.md

@@ -1,0 +1,11 @@
+collections:
+  parents-and-partners:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/Information for Parents.md
+      - For Parents/GDLS on Socials.md
+      - For Parents/Parents Gateway.md
+      - Industry Partners.md
+      - Community Partners.md
+      - Alumni.md
