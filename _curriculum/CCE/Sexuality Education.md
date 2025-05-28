@@ -849,7 +849,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -890,7 +890,7 @@ of assertiveness and responsible decision-making</p>
 <ol start="10" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
+supplementary sexuality education programs by MOE-approved external providers.</p>
 <p></p>
 </li>
 <li>
@@ -909,7 +909,7 @@ The completed form is to be submitted by 31/01/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s Sexuality Education programme.</p>
+or to seek clarification about the school’s Sexuality Education programmes.</p>
 </li>
 </ol>
 <p></p>
