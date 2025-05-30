@@ -19,8 +19,8 @@ hours.&nbsp;</p>
 <p><strong>Option B</strong>: To disable the DMA settings after-school hours.</p>
 </li>
 </ul>
-<p>Parents/guardians can request to change your choice of DMA settings at
-any time through the <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank">DMA Change Request Form.</a>
+<p>Parents can request to change your choice of DMA settings at any time
+through the <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank">DMA Change Request Form.</a>
 </p>
 <h4></h4>
 <p></p>
