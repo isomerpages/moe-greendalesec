@@ -2,7 +2,6 @@ collections:
   parents-and-partners:
     output: true
     order:
-      - For Parents/Information on After School DMA Settings Change Request.md
       - For Parents/.keep
       - For Parents/Information for Parents.md
       - For Parents/GDLS on Socials.md
