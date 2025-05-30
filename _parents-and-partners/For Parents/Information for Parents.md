@@ -75,5 +75,29 @@ to school. Thank you.
 <br><a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download Application Form</a>
 </p>
 </li>
+<li>
+<p><strong>After-School DMA Settings Change Request</strong>
+</p>
+<p>Parents can request to change your choice of DMA settings at any time
+through the <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank"><u>DMA Change Request Form.</u></a>
+</p>
+<p>Parents may choose from the following options:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Default: I</strong>n-School DMA setting to continue after school
+hours</p>
+</li>
+<li>
+<p><strong>Option A</strong>: To be able to modify DMA settings after-school
+hours.&nbsp;</p>
+</li>
+<li>
+<p><strong>Option B</strong>: To disable the DMA settings after-school hours.</p>
+</li>
 </ul>
+</li>
+</ul>
+<p>
+<br>
+</p>
 <p></p>
