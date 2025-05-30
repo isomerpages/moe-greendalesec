@@ -8,8 +8,8 @@ third_nav_title: For Parents
 <p><strong>After-School DMA Options<br></strong>For parents who prefer the
 default DMA setting,&nbsp;<strong>no action is required</strong>. The in-school
 DMA settings will continue to operate after school hours.</p>
-<p>Parents/guardians who prefer alternative DMA settings can choose from
-the following options:&nbsp;</p>
+<p>Parents who prefer alternative DMA settings can choose from the following
+options:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Option A</strong>: To be able to modify DMA settings after-school
