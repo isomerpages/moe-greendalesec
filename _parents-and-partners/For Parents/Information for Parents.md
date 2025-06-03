@@ -154,7 +154,8 @@ provides information such as income criterion and benefits</p>
 </ul>
 </li>
 <li>
-<p>Straits Time School Pocket Money Fund</p>
+<p><strong>Straits Time School Pocket Money Fund</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please click to <a href="https://www.greendalesec.moe.edu.sg/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">download</a> the
