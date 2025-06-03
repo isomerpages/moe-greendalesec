@@ -82,7 +82,7 @@ WhatsApp Group Chats</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click <a href="https://www.greendalesec.moe.edu.sg/files/SHA-Parents-Letter_Opt-Out-Form-2019.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/SHA-Parents-Letter_Opt-Out-Form-2019.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the Parent's letter / Opt-Out form.</p>
 </li>
 <li>
