@@ -37,7 +37,7 @@ how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
 provides information on the benefit/sum assured, coverage and other details.</p>
 </li>
 <li>
-<p>Parents can refer to the <a href="student-gpa-user-guide-parent.pdf" rel="noopener nofollow" target="_blank">user guide</a> and
+<p>Parents can refer to the <a href="/files/student-gpa-user-guide-parent.pdf" rel="noopener nofollow" target="_blank">user guide</a> and
 go to this <a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a> for
 eSubmission of claims.</p>
 </li>
@@ -72,7 +72,7 @@ via this <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" t
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to this <a href="Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a> on
+<p>Refer to this <a href="/files/Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a>on
 WhatsApp Group Chats</p>
 </li>
 </ul>
