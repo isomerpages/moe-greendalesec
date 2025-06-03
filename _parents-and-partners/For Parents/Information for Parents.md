@@ -144,7 +144,7 @@ provides information such as income criterion and benefits.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click to <a href="https://go.gov.sg/neasrf" rel="noopener nofollow" target="_blank">download</a> the
+<p>Please click to <a href="/files/neasrf.pdf" rel="noopener nofollow" target="_blank">download</a> the
 application form.</p>
 </li>
 <li>
