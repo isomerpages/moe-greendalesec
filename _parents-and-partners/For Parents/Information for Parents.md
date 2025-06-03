@@ -23,7 +23,7 @@ the application.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download this <a href="/files/Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a>on
+<p>Download this <a href="/files/Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a> on
 how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
 </li>
 </ul>
