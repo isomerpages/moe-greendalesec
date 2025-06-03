@@ -43,6 +43,17 @@ eSubmission of claims.</p>
 </li>
 </ul>
 </li>
+<li>
+<p><strong>Cycling Registration Form and Advisory Note</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please refer to the&nbsp;<a href="https://form.gov.sg/61c2b2fb1dd3cd0013b089e1" rel="noopener noreferrer nofollow" target="_blank">Advisory Note</a>&nbsp;and
+acknowledge it if your child is cycling to school. This will help maintain
+a register of students who cycle to school.</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>School Matters</h4>
 <ul data-tight="true" class="tight">
@@ -69,6 +80,16 @@ WhatsApp Group Chats</p>
 <li>
 <p><strong>School Health Advisor Programme</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click <a href="https://www.greendalesec.moe.edu.sg/files/SHA-Parents-Letter_Opt-Out-Form-2019.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the Parent's letter / Opt-Out form.</p>
+</li>
+<li>
+<p>Parents may refer to the <a href="https://www.greendalesec.moe.edu.sg/files/SHA-FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a> for
+more details on the SHA programme.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Class Timetable</strong>
@@ -133,6 +154,15 @@ provides information such as income criterion and benefits</p>
 </ul>
 </li>
 <li>
+<p>Straits Time School Pocket Money Fund</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click to <a href="https://www.greendalesec.moe.edu.sg/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">download</a> the
+application form.</p>
+</li>
+</ul>
+</li>
+<li>
 <p><strong>Other Forms of Bursary</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -143,7 +173,6 @@ provides information such as income criterion and benefits</p>
 </ul>
 </li>
 </ul>
-<h4></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Application for Admission to Greendale Sec School</strong>
@@ -213,27 +242,6 @@ acknowledge it. This will help maintain a register of students who cycle
 to school. Thank you.
 <br><a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download Application Form</a>
 </p>
-</li>
-<li>
-<p><strong>After-School DMA Settings Change Request</strong>
-</p>
-<p>Parents can request to change your choice of DMA settings at any time
-through the <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank"><u>DMA Change Request Form.</u></a>
-</p>
-<p>Parents may choose from the following options:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Default: I</strong>n-School DMA setting to continue after school
-hours</p>
-</li>
-<li>
-<p><strong>Option A</strong>: To be able to modify DMA settings after-school
-hours.&nbsp;</p>
-</li>
-<li>
-<p><strong>Option B</strong>: To disable the DMA settings after-school hours.</p>
-</li>
-</ul>
 </li>
 </ul>
 <p>
