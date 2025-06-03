@@ -5,6 +5,72 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
+<h3>For Parents</h3>
+<h4>Administrative Matters</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>After-School DMA Settings Change Request</strong>
+</p>
+<p>Parents can request to change your choice of DMA settings at any time
+through the <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank"><u>DMA Change Request Form.</u></a>
+</p>
+</li>
+<li>
+<p><strong>Self-Service Bill Payment@SingPost (SAM)</strong>
+</p>
+<p>Download this <a href="Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a> on
+how to make self-service bill payment at Singpost(SAM)</p>
+</li>
+</ul>
+<h4>School Matters</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">Class Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">Booklists</a>
+</p>
+</li>
+</ul>
+<h4>Financial Matters</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Financial Assistance &amp; Bursary</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>MOE Financial Assistance Application Form (eFAS) for 2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a> for
+the application form</p>
+</li>
+<li>
+<p>Download this <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> which
+provides information such as income criterion and benefits.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Other Forms of Bursary</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click <a href="/student-admin-services/administration/other-forms-of-subsidy/" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Application for Admission to Greendale Sec School</strong>
