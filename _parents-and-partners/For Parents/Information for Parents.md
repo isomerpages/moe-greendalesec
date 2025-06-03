@@ -86,7 +86,7 @@ WhatsApp Group Chats</p>
 the Parent's letter / Opt-Out form.</p>
 </li>
 <li>
-<p>Parents may refer to the <a href="https://www.greendalesec.moe.edu.sg/files/SHA-FAQ.pdf" rel="noopener nofollow" target="_blank">Frequently Asked Questions</a> for
+<p>Parents may refer to the <a href="/files/SHA-FAQ.pdf" rel="noopener nofollow" target="_blank">Frequency Asked Questions</a> for
 more details on the SHA programme.</p>
 </li>
 </ul>
