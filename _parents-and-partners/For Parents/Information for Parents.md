@@ -33,7 +33,7 @@ how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to the <a href="Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet </a>which
+<p>Refer to the <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet</a> which
 provides information on the benefit/sum assured, coverage and other details.</p>
 </li>
 <li>
