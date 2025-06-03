@@ -72,7 +72,7 @@ via this <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" t
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to this <a href="/files/Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a>on
+<p>Refer to this <a href="/files/Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a> on
 WhatsApp Group Chats</p>
 </li>
 </ul>
