@@ -9,14 +9,24 @@ variant: tiptap
 <h4>Administrative Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">Application for Admission to Greendale Sec School</a>
+<p><strong>Application for Admission to Greendale Sec School</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click <a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">here</a> for
+the application.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Self-Service Bill Payment @SingPost SAM</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Download this <a href="Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a> on
 how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
@@ -32,18 +42,43 @@ provides information on the benefit/sum assured, coverage and other details.</p>
 <h4>School Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank">After-School DMA Settings Change Request Form</a>
+<p><strong>After-School DMA Settings Change Request Form</strong>
 </p>
-<p>Parents can request to change your choice of DMA settings at any time.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents can request to change your choice of DMA settings at any time
+via this <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank">DMA Change Request Form</a>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>School Guidelines on Use of WhatsApp Group Chat</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Refer to this <a href="Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a> on
+WhatsApp Group Chats</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Class Timetable</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click to <a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">download</a> the
+class timetable</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Booklist</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click to <a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">download</a> the
+booklist</p>
 <p></p>
 </li>
-<li>
-<p><a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">Class Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">Booklists</a>
-</p>
+</ul>
 </li>
 </ul>
 <h4>Financial Matters</h4>
