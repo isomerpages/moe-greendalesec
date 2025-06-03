@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click <a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">here</a> for
 the application.</p>
 </li>
 </ul>
@@ -35,6 +35,11 @@ how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
 <li>
 <p>Refer to the <a href="Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet </a>which
 provides information on the benefit/sum assured, coverage and other details.</p>
+</li>
+<li>
+<p>Parents can refer to the <a href="student-gpa-user-guide-parent.pdf" rel="noopener nofollow" target="_blank">user guide</a> and
+go to this <a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a> for
+eSubmission of claims.</p>
 </li>
 </ul>
 </li>
@@ -62,26 +67,32 @@ WhatsApp Group Chats</p>
 </ul>
 </li>
 <li>
-<p>Class Timetable</p>
+<p><strong>School Health Advisor Programme</strong>
+</p>
+</li>
+<li>
+<p><strong>Class Timetable</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click to <a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">download</a> the
+<p>Please click to <a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">download</a> the
 class timetable</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Booklist</p>
+<p><strong>Booklist</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click to <a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">download</a> the
+<p>Please click to <a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">download</a> the
 booklist</p>
 <p></p>
 </li>
 </ul>
 </li>
 </ul>
-<h4>Financial Matters</h4>
+<h4>Financial and Bursary Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Financial Assistance &amp; Bursary</strong>
@@ -104,6 +115,20 @@ the application form</p>
 <li>
 <p>Download this <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> which
 provides information such as income criterion and benefits.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>School Transport Subsidy Scheme (By North East CDC)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click to <a href="https://go.gov.sg/neasrf" rel="noopener nofollow" target="_blank">download</a> the
+application form.</p>
+</li>
+<li>
+<p>Download this <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> which
+provides information such as income criterion and benefits</p>
 </li>
 </ul>
 </li>
