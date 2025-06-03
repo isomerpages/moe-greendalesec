@@ -13,9 +13,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
-</li>
-<li>
 <p><strong>Self-Service Bill Payment @SingPost SAM</strong>
 </p>
 <p>Download this <a href="Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a> on
