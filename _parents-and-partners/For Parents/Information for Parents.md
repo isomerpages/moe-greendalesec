@@ -55,7 +55,7 @@ a register of students who cycle to school.</p>
 </ul>
 </li>
 </ul>
-<h4>School Matters</h4>
+<h4>Other School Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>After-School DMA Settings Change Request Form for PLD</strong>
