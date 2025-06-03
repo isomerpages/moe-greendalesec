@@ -5,8 +5,8 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3>For Parents</h3>
-<h4>Administrative Matters</h4>
+<h2>For Parents</h2>
+<h3>Administrative Matters</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Application for Admission to Greendale Sec School</strong>
@@ -55,7 +55,7 @@ a register of students who cycle to school.</p>
 </ul>
 </li>
 </ul>
-<h4>Other School Matters</h4>
+<h3>Other School Matters</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>After-School DMA Settings Change Request Form for PLD</strong>
@@ -113,7 +113,7 @@ booklist</p>
 </ul>
 </li>
 </ul>
-<h4>Financial and Bursary Matters</h4>
+<h3>Financial and Bursary Matters</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Financial Assistance &amp; Bursary</strong>
