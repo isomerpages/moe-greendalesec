@@ -9,7 +9,7 @@ variant: tiptap
 <h4>Administrative Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Application for Admission to Greendale Sec School</strong>
+<p><a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">Application for Admission to Greendale Sec School</a>
 </p>
 </li>
 <li>
