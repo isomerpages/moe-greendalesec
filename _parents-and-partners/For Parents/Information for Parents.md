@@ -88,8 +88,8 @@ booklist</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>Please click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
+more information</p>
 </li>
 </ul>
 </li>
