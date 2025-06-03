@@ -19,16 +19,6 @@ the application.</p>
 </ul>
 </li>
 <li>
-<p><strong>Self-Service Bill Payment @SingPost SAM</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Download this <a href="/files/Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a> on
-how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
-</li>
-</ul>
-</li>
-<li>
 <p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -74,20 +64,6 @@ via this <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" t
 <li>
 <p>Refer to this <a href="/files/Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a> on
 WhatsApp Group Chats</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>School Health Advisor Programme</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click <a href="/files/SHA-Parents-Letter_Opt-Out-Form-2019.pdf" rel="noopener nofollow" target="_blank">here</a> for
-the Parent's letter / Opt-Out form.</p>
-</li>
-<li>
-<p>Parents may refer to the <a href="/files/SHA-FAQ.pdf" rel="noopener nofollow" target="_blank">Frequency Asked Questions</a> for
-more details on the SHA programme.</p>
 </li>
 </ul>
 </li>
@@ -140,26 +116,11 @@ provides information such as income criterion and benefits.</p>
 </ul>
 </li>
 <li>
-<p><strong>School Transport Subsidy Scheme (By North East CDC)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click to <a href="/files/neasrf.pdf" rel="noopener nofollow" target="_blank">download</a> the
-application form.</p>
-</li>
-<li>
-<p>Download this <a href="/files/School-Transport-Subsidy-Scheme-EDM.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> which
-provides information such as income criterion and benefits</p>
-</li>
-</ul>
-</li>
-<li>
 <p><strong>Straits Time School Pocket Money Fund</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click to <a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">download</a> the
-application form.</p>
+<p>Application for 2025 is closed.</p>
 </li>
 </ul>
 </li>
