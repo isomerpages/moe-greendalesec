@@ -158,7 +158,7 @@ provides information such as income criterion and benefits</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click to <a href="https://www.greendalesec.moe.edu.sg/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">download</a> the
+<p>Please click to <a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">download</a> the
 application form.</p>
 </li>
 </ul>
