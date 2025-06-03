@@ -9,21 +9,37 @@ variant: tiptap
 <h4>Administrative Matters</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>After-School DMA Settings Change Request</strong>
-</p>
-<p>Parents can request to change your choice of DMA settings at any time
-through the <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank"><u>DMA Change Request Form.</u></a>
+<p><strong>Application for Admission to Greendale Sec School</strong>
 </p>
 </li>
 <li>
-<p><strong>Self-Service Bill Payment@SingPost (SAM)</strong>
+<p></p>
+</li>
+<li>
+<p><strong>Self-Service Bill Payment @SingPost SAM</strong>
 </p>
 <p>Download this <a href="Printed-Guide-final.pdf" rel="noopener nofollow" target="_blank">guide</a> on
-how to make self-service bill payment at Singpost(SAM)</p>
+how to make self-service bill payment with SAMKiosk, Web or Mobile.</p>
+</li>
+<li>
+<p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Refer to the <a href="Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet </a>which
+provides information on the benefit/sum assured, coverage and other details.</p>
+</li>
+</ul>
 </li>
 </ul>
 <h4>School Matters</h4>
 <ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank">After-School DMA Settings Change Request Form</a>
+</p>
+<p>Parents can request to change your choice of DMA settings at any time.</p>
+<p></p>
+</li>
 <li>
 <p><a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">Class Timetable</a>
 </p>
