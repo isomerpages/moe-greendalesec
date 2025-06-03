@@ -8,11 +8,7 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset Request</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/gdlss-unlocksls" rel="noopener nofollow" target="_blank">Unlock Student Learning Space(SLS) Request Form</a>
+<p><a href="https://go.gov.sg/gdls-mims-pwreset" rel="noopener nofollow" target="_blank">MIMS Password Reset/Unlock SLS Request Form</a>
 </p>
 </li>
 <li>
