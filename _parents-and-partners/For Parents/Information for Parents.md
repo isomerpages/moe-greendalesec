@@ -34,7 +34,7 @@ communication.</p>
 </ul>
 </li>
 <li>
-<p><strong>Digital Learning Tools</strong>
+<p><strong>Personal Learning Device (PLD)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -83,6 +83,11 @@ e-Submission of claims.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>For fees and financial support schemes,</p>
+<p>👉 Click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
+</li>
+<li>
 <p>MOE Financial Assistance Scheme (FAS) – 2025</p>
 <p>Submit your application using the MOE eFAS form.</p>
 <p>👉 Click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a> for
@@ -97,7 +102,7 @@ information on income criteria and benefits.</p>
 <p></p>
 </li>
 <li>
-<p>Other Forms of Bursary</p>
+<p>Other Forms of Subsidy</p>
 <p>👉 Click <a href="/student-admin-services/administration/other-forms-of-subsidy/" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
 </li>
@@ -115,7 +120,16 @@ more information</p>
 Learn about the steps to enroll your child at GDLS.</p>
 </li>
 </ul>
-<p></p>
+</li>
+<li>
+<p><strong>Financial Assistance &amp; Bursary</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
+more information</p>
+</li>
+</ul>
 <p>
 <br>
 </p>
