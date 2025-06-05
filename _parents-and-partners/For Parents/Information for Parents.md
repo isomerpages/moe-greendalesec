@@ -115,24 +115,12 @@ more information</p>
 Learn about the steps to enroll your child at GDLS.</p>
 </li>
 </ul>
-</li>
-</ol>
-<h3></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Financial Assistance &amp; Bursary</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
-more information</p>
-</li>
-</ul>
+<p></p>
 <p>
 <br>
 </p>
 </li>
-</ul>
+</ol>
 <p>
 <br>
 </p>
