@@ -67,7 +67,7 @@ note.</p>
 insurance scheme.</p>
 <p>👉 Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
-<p>👉 Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>👉 Click <a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener nofollow" target="_blank">here</a> for
 e-Submission of claims.</p>
 <p></p>
 </li>
