@@ -54,15 +54,8 @@ submit your update.</p>
 <p><a href="https://form.gov.sg/61c2b2fb1dd3cd0013b089e1" rel="noopener nofollow" target="_blank">Cycling Advisory Note</a>:
 If your child cycles to school, please review and acknowledge the advisory
 note.</p>
-<p></p>
 </li>
 </ul>
-</li>
-<li>
-<p><strong>Miscellaneous &amp; School Fees</strong>
-</p>
-<p>👉 Click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
-more information.</p>
 </li>
 </ol>
 <h3>💼 Financial Support &amp; Insurance Matters</h3>
