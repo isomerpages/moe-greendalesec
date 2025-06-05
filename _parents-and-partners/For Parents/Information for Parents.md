@@ -54,8 +54,15 @@ submit your update.</p>
 <p><a href="https://form.gov.sg/61c2b2fb1dd3cd0013b089e1" rel="noopener nofollow" target="_blank">Cycling Advisory Note</a>:
 If your child cycles to school, please review and acknowledge the advisory
 note.</p>
+<p></p>
 </li>
 </ul>
+</li>
+<li>
+<p><strong>Miscellaneous &amp; School Fees</strong>
+</p>
+<p>👉 Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
+more information.</p>
 </li>
 </ol>
 <h3>💼 Financial Support &amp; Insurance Matters</h3>
@@ -67,9 +74,13 @@ note.</p>
 insurance scheme.</p>
 <p>👉 Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
+<p>👉 Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
+e-Submission of claims.</p>
+<p></p>
 </li>
 <li>
-<p>Financial Assistance &amp; Bursaries</p>
+<p><strong>Financial Assistance &amp; Bursaries</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE Financial Assistance Scheme (FAS) – 2025</p>
@@ -94,90 +105,19 @@ more information</p>
 </li>
 </ol>
 <h3>🏫 For Parents Considering GDLS for Their Child</h3>
-<h3>Administrative Matters</h3>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p><strong>Application for Admission to Greendale Sec School</strong>
+<p><strong>Admissions Information</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click <a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">here</a> for
-the application.</p>
+<p><a href="https://go.gov.sg/gdss-application-for-admission" rel="noopener nofollow" target="_blank">Application Process</a>:
+Learn about the steps to enroll your child at GDLS.</p>
 </li>
 </ul>
 </li>
-<li>
-<p><strong>Group Personal Accident (GPA) Insurance Matters (For All Students)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Refer to the <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Sheet</a> which
-provides information on the benefit/sum assured, coverage and other details.</p>
-</li>
-<li>
-<p>Parents can refer to the <a href="/files/student-gpa-user-guide-parent.pdf" rel="noopener nofollow" target="_blank">user guide</a> and
-go to this <a href="https://studentgpa.incomegroupins.com.sg/#/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student GPA Claims Portal</a> for
-eSubmission of claims.</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Cycling Registration Form and Advisory Note</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please refer to the&nbsp;<a href="https://form.gov.sg/61c2b2fb1dd3cd0013b089e1" rel="noopener noreferrer nofollow" target="_blank">Advisory Note</a>&nbsp;and
-acknowledge it if your child is cycling to school. This will help maintain
-a register of students who cycle to school.</p>
-</li>
-</ul>
-</li>
-</ul>
-<h3>Other School Matters</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>After-School DMA Settings Change Request Form for PLD</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Parents can request to change your choice of DMA settings at any time
-via this <a href="https://go.gov.sg/gdlss-dma-request" rel="noopener nofollow" target="_blank">DMA Change Request Form</a>.</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>School Guidelines on Use of WhatsApp Group Chat</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Refer to this <a href="/files/Guidelines-on-WhatsApp-group-chats.pdf" rel="noopener nofollow" target="_blank">guidelines</a> on
-WhatsApp Group Chats</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Class Timetable</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click to <a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">download</a> the
-class timetable</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Booklist</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click to <a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">download</a> the
-booklist</p>
-<p></p>
-</li>
-</ul>
-</li>
-</ul>
-<h3>Financial and Bursary Matters</h3>
+</ol>
+<h3></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Financial Assistance &amp; Bursary</strong>
@@ -186,39 +126,6 @@ booklist</p>
 <li>
 <p>Please click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
 more information</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>MOE Financial Assistance Application Form (eFAS) for 2025</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a> for
-the application form</p>
-</li>
-<li>
-<p>Download this <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> which
-provides information such as income criterion and benefits.</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Straits Time School Pocket Money Fund</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Application for 2025 is closed.</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Other Forms of Bursary</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click <a href="/student-admin-services/administration/other-forms-of-subsidy/" rel="noopener nofollow" target="_blank">here</a>
-</p>
 </li>
 </ul>
 <p>
