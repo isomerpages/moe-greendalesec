@@ -74,6 +74,7 @@ e-Submission of claims.</p>
 <li>
 <p><strong>Financial Assistance &amp; Bursaries</strong>
 </p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>For fees and financial support schemes,</p>
