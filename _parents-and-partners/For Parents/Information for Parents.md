@@ -61,7 +61,7 @@ note.</p>
 <li>
 <p><strong>Miscellaneous &amp; School Fees</strong>
 </p>
-<p>👉 Click <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>👉 Click <a href="/student-admin-services/administration/financial-assistance-bursary/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
 </li>
 </ol>
