@@ -79,6 +79,15 @@ the application form.</p>
 <p>📄 Download this <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> for
 information on income criteria and benefits.</p>
 </li>
+<li>
+<p>The Straits Times School Pocket Money Fund</p>
+<p>Application for 2025 is closed.</p>
+</li>
+<li>
+<p>Other Forms of Bursary</p>
+<p>👉 Click <a href="/student-admin-services/administration/other-forms-of-subsidy/" rel="noopener nofollow" target="_blank">here</a> for
+more information</p>
+</li>
 </ul>
 </li>
 </ol>
