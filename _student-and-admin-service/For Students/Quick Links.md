@@ -12,10 +12,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
-</p>
-</li>
-<li>
 <p><a href="https://forms.gle/L25e8xP7udoaB8297" rel="noopener noreferrer nofollow" target="_blank">IDEA (Student Suggestion Scheme)</a>
 </p>
 </li>
