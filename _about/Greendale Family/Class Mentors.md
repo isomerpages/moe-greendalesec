@@ -326,10 +326,10 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rinita</p>
+<p>Mr Tan Boon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rinita_nadavan@schools.gov.sg" rel="noopener nofollow" target="_blank">rinita_nadavan@schools.gov.sg</a>
+<p><a href="tan_boon_hwee_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_boon_hwee_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -440,6 +440,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sean_tan_meng_loong@schools.gov.sg" rel="noopener nofollow" target="_blank">sean_tan_meng_loong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tey Ser Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tey_ser_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">tey_ser_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -778,18 +790,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teng_ming_kiat_william@schools.gov.sg" rel="noopener nofollow" target="_blank">teng_ming_kiat_william@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fang Suxian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fang_suxian@schools.gov.sg" rel="noopener nofollow" target="_blank">fang_suxian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
