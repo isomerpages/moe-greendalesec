@@ -87,7 +87,7 @@ variant: tiptap
 <p>HOD / Character &amp; Citizenship Education (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_xue_ting_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_xue_ting_adeline@schools.gov.sg</a>
+<p><a href="tan_khia_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_khia_yee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
