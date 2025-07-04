@@ -357,6 +357,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Tze Kun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/STEM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sng_tze_kun@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_tze_kun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
