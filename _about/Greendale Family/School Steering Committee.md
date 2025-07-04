@@ -287,30 +287,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Halimah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:halimah_mohmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">halimah_mohmad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Khia Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_khia_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_khia_yee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jason Lian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -378,6 +354,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:crystal_lim_qian_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_lim_qian_yi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sng Tze Kun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/STEM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sng_tze_kun@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_tze_kun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
