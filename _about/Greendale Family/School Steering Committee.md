@@ -362,7 +362,7 @@ variant: tiptap
 <p>Mr Sng Tze Kun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/STEM</p>
+<p>SH/Science, Tech, Engineering &amp; Maths</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sng_tze_kun@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_tze_kun@schools.gov.sg</a>
