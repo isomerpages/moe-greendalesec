@@ -38,7 +38,7 @@ school.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Application Form</a>
+<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">Download Application Form</a>
 </p>
 </li>
 <li>
