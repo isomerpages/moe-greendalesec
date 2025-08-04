@@ -93,7 +93,7 @@ information on income criteria and benefits.</p>
 <li>
 <p>The Straits Times School Pocket Money Fund</p>
 <p>Application for 2026 is opened.</p>
-<p>👉 Click <a href="/student-admin-services/administration//the-straits-times-school-pocket-money-fund/" rel="noopener nofollow" target="_blank">here</a> for
+<p>👉 Click <a href="/student-admin-services/administration/the-straits-times-school-pocket-money-fund/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
 <p></p>
 </li>
