@@ -96,7 +96,7 @@ variant: tiptap
 <p>Ms Sharifah Firhana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / English</p>
+<p>HOD / English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alsagoff_sharifah_firhana_anwar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alsagoff_sharifah_firhana_anwar@schools.gov.sg</a>
