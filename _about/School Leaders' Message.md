@@ -4,9 +4,6 @@ permalink: /about/school-leaders-message/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2434.jpg">
-</div>
 <p>Our Greendale Experience has indeed been rich and vibrant this year. The
 full suite of programmes on offer, such as our signature GARANG, Jogathon,
 Games Carnival and the SIT challenge have provided numerous opportunities
@@ -53,4 +50,4 @@ how to set up, maintain and care for the new flora under their charge.</p>
 all our partners, Parent Support Group, the Alumni, RSAF and Cloversoft.
 We express our heartfelt thanks to all who are part of the Greendale Experience,
 as we seek to grow and glow as a Greendale family.</p>
-<p>To a happy and enriching 2024!</p>
+<p>To a happy and enriching 2025!</p>
