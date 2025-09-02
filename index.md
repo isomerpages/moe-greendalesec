@@ -17,7 +17,7 @@ sections:
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
   - infopic:
-      title: Principal's Address (Open House 2024)
+      title: Principal's Address
       subtitle: Greendale secondary school
       id: infopic
       description: Find out how we cultivate growing hearts & growing minds anchored
@@ -37,7 +37,7 @@ sections:
       button: Parent Support Group Video
       url: /psg-outreach-video/
       alt: Image alt text
-      image: /images/IMG_8090.jpg
+      image: /images/PSG_Pix.jpg
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
@@ -54,7 +54,7 @@ sections:
         critically and apply what they have learnt in real life.
       button: Find Out More
       alt: THINKERS
-      image: /images/thinker.jpg
+      image: /images/Thinkers_Pix_2.jpg
       url: /about/about/vision-mission-values/
   - infopic:
       title: LEADERS
