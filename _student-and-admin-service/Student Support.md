@@ -77,6 +77,18 @@ offered to them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Blythe Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">blythe_germaine_tan_an@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Adeline Ng</p>
 </td>
 <td rowspan="1" colspan="1">
