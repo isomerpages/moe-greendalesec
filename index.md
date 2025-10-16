@@ -20,8 +20,8 @@ sections:
       title: Open House 2025
       subtitle: GREENDALE SECONDARY SCHOOL
       id: infopic
-      description: Explore CTS, ALP & green spaces. Grow and glow with us on 📅
-        Saturday, 15 November 2025 🕘 9am – 1pm 📍 Greendale Secondary School,
+      description: Explore CTS, ALP & green spaces. Grow and glow with us on  📅
+        Saturday, 15 November 2025  🕘 9am – 1pm  📍 Greendale Secondary School,
         51 Edgedale Plains
       image: /images/Cover_photo_1_.jpg
       alt: Image alt text
