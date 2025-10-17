@@ -17,12 +17,22 @@ sections:
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
   - infopic:
+      title: Open House 2025
+      subtitle: GREENDALE SECONDARY SCHOOL
+      id: infopic
+      description: Explore CTS, ALP & green spaces. Grow and glow with us on Sat 15
+        Nov, 9am–1pm @ 51 Edgedale Plains.
+      image: /images/Cover_photo_1_.jpg
+      alt: Image alt text
+      button: locate our school
+      url: https://maps.app.goo.gl/Npqt5XMF9MvGVkSx9
+  - infopic:
       title: Principal's Address
       subtitle: Greendale secondary school
       id: infopic
-      description: Find out how we cultivate growing hearts & growing minds anchored
-        in CTS-Collaboration,Thinking&Safety.Watch this video to see what makes
-        Greendale grow & glow!
+      description: Find out how we cultivate growing hearts&growing minds anchored in
+        CTS-Collaboration,Thinking and Safety.Watch this video to see what makes
+        Greendale grow&glow!
       button: Watch Principal's Address
       url: /about/school-videos/p-address-open-house-2024/
       image: /images/IMG_2434.jpg
