@@ -7,15 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Greendale Secondary
-      background: /images/20220517_092823.jpg
-      button: Click here for Principal's Address
+      background: /images/WhatsApp_Image_2025_10_19_at_09_46_49.jpg
       url: /about/school-videos/p-address-open-house-2024/
-      subtitle: Growing Hearts . Growing Minds
       key_highlights:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
+        - title: School leaders' message
+          description: Watch School Leaders' Message
+          url: /about/school-videos/p-address-open-house-2024/
   - infopic:
       title: Open House 2025
       subtitle: GREENDALE SECONDARY SCHOOL
