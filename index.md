@@ -8,12 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/WhatsApp_Image_2025_10_19_at_09_46_49.jpg
-      button: Click here for Principal's Address
       url: /about/school-videos/p-address-open-house-2024/
       key_highlights:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
+        - title: School leaders' message
+          description: Watch School Leaders' Message
+          url: /about/school-videos/p-address-open-house-2024/
   - infopic:
       title: Open House 2025
       subtitle: GREENDALE SECONDARY SCHOOL
