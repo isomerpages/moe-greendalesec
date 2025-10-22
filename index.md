@@ -30,9 +30,9 @@ sections:
       title: Principal's Address
       subtitle: Greendale secondary school
       id: infopic
-      description: Find out how we cultivate growing hearts&growing minds anchored in
-        CTS-Collaboration,Thinking and Safety.Watch this video to see what makes
-        Greendale grow&glow!
+      description: Find out how we cultivate growing hearts & growing minds anchored
+        in Collaboration, Thinking and Safety. Listen to Principal’s message
+        here.
       button: Watch Principal's Address
       url: /about/school-videos/p-address-open-house-2024/
       image: /images/IMG_2434.jpg
