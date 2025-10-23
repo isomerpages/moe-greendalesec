@@ -311,58 +311,6 @@ students:</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Term</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Does include</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Does not include</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gross Household Income</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· Gross income of family members in the same household
-<br>
-<br>· Gross income of family members who contribute to the income of the household
-<br>· Include allowances e,g. overtime, claims
-<br>· Include employee’s CPF contribution</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· National Service allowance earned by NS men
-<br>
-<br>· Severance compensation and insurance payment
-<br>· Alimony payment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dependent Children</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>· Unmarried children below 16 years old
-<br>
-<br>· Unmarried children over 16 years old and receiving full time education
-<br>· Unmarried handicapped children</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
