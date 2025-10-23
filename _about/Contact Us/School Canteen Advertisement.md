@@ -27,10 +27,10 @@ third_nav_title: Contact Us
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Noodle House</p>
+<p>Muslim Noodle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30th April 2025</p>
+<p>15th November 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see below</p>
@@ -70,10 +70,12 @@ email OR to the School’s General Office.
 <br><em>Address: 51 Edgedale Plains<br>Contact No: 63158616<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">Greendale_ss@moe.edu.sg</a><br>Contact Person: Ms Khairunnisha Bte Bakri, Administration Manager</em>
 </p>
 </li>
-</ul>
+<li>
 <p>After the closing date, shortlisted applicants will be notified for an
 interview and will be required to provide food sampling for the School
 Canteen Selection Committee at the applicant’s own expense.</p>
+</li>
+</ul>
 <p><strong><u>Requirements</u></strong>
 <br>Interested applicants must meet the following criteria:</p>
 <ul data-tight="true" class="tight">
