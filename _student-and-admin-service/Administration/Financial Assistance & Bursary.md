@@ -363,9 +363,13 @@ students:</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moe_fas_EL_2024.jpg">
-</div>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Revised Provisions under MOE's financial assistance schemes for Schools</p>
+<p></p>
+</li>
+</ol>
 <p>For more details, please refer to:</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Eligibility/Submission Checklist</a>
 </p>
