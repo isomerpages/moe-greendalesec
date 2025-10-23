@@ -86,8 +86,6 @@ more information.</p>
 <p>Submit your application using the MOE eFAS form.</p>
 <p>👉 Click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a> for
 the application form.</p>
-<p>📄 Download this <a href="/files/Document_4a_MOE_FAS_pamphlet__EL_.pdf" rel="noopener nofollow" target="_blank">pamphlet</a> for
-information on income criteria and benefits.</p>
 <p></p>
 </li>
 <li>
