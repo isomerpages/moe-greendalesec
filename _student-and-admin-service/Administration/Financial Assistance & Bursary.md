@@ -3,254 +3,520 @@ title: Financial Assistance & Bursary
 permalink: /student-admin-services/administration/financial-assistance-bursary/
 description: ""
 third_nav_title: Administration
-variant: markdown
+variant: tiptap
 ---
-### MISCELLANEOUS &amp; SCHOOL FEES
-
-1.  Miscellaneous and School Fees are collected&nbsp;between 20th&nbsp;of every month to 5th&nbsp;of next month. For students on GIRO, fees will be deducted on 26th&nbsp;of the month or the following working day if 26th&nbsp;the month falls on a non-working day.
-2.  We encourage parents to make fees payment through GIRO. It is more convenient and safer as students need not bring large amount of cash to school.
-3.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table below (until 31 Dec 2023):
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TYPES OF STUDENTS</span></th>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">SCHOOL FEES</span></th>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">MISC FEES</span></th>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">2</span><span style="font-weight:inherit;font-style:inherit">ND</span> <span style="font-weight:bold;font-style:inherit">TIER MISC FEES</span></th>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">TOTAL</span></th>
-  </tr>
-</thead>
+<h3>MISCELLANEOUS &amp; SCHOOL FEES</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Miscellaneous and School Fees are collected&nbsp;between 20th&nbsp;of
+every month to 5th&nbsp;of next month. For students on GIRO, fees will
+be deducted on 26th&nbsp;of the month or the following working day if 26th&nbsp;the
+month falls on a non-working day.</p>
+</li>
+<li>
+<p>We encourage parents to make fees payment through GIRO. It is more convenient
+and safer as students need not bring large amount of cash to school.</p>
+</li>
+<li>
+<p>The Miscellaneous and School fees for Singapore Citizen and Permanent
+Residents are shown in the table below (until 31 Dec 2023):</p>
+</li>
+</ol>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Citizen</span><br><br><span style="font-weight:inherit;font-style:inherit">·      Malay Students</span><br><span style="font-weight:inherit;font-style:inherit">·      Non-Malay Students</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$0.00</span><br><span style="font-weight:inherit;font-style:inherit">$0.00</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$10.00</span><br><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><br><br><span style="font-weight:inherit;font-style:inherit">$20.00</span><br><span style="font-weight:inherit;font-style:inherit">$20.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Permanent Residents</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$500.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$520.00</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>TYPES OF STUDENTS</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>SCHOOL FEES</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>MISC FEES</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>2</strong>ND <strong>TIER MISC FEES</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>TOTAL</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizen
+<br>
+<br>· Malay Students
+<br>· Non-Malay Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>$0.00
+<br>$0.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>$10.00
+<br>$10.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>$10.00
+<br>$10.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>$20.00
+<br>$20.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Permanent Residents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$500.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$520.00</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-4.  The Miscellaneous and School fees for Singapore Citizen and Permanent Residents are shown in the table below (2024):
-
-| TYPES OF STUDENTS | SCHOOL FEES | SINGLE TIER MISC FEES (NEW) | TOTAL |
-| -------- | -------- | -------- | -------- |
-| Singapore Citizen Malay Students | $0.00 | $20.00 | $20.00 |
-| Singapore Citizen Non-Malay Students | $0.00 | $20.00 | $20.00 |
-|Singapore Permanent Residents | $560.00 | $20.00 | $580.00 |
-
-5.  School fees for International Student are as follows (until 31 Dec 2023):
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sm4r{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">FEES</span></th>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">ASEAN*</span></th>
-    <th class="tg-sm4r"><span style="font-weight:bold;font-style:inherit">Non-ASEAN</span></th>
-  </tr>
-</thead>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>The Miscellaneous and School fees for Singapore Citizen and Permanent
+Residents are shown in the table below (2024):</p>
+</li>
+</ol>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">School Fees</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$910.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,770.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Misc Fees</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">2</span><span style="font-weight:inherit;font-style:inherit">nd</span> <span style="font-weight:bold;font-style:inherit">Tier Fees</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$10.00</span></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Total Fees</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$930.00</span></td>
-    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">$1,790.00</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>TYPES OF STUDENTS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SCHOOL FEES</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SINGLE TIER MISC FEES (NEW)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>TOTAL</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizen Malay Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Citizen Non-Malay Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$0.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Permanent Residents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$560.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$580.00</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-_\*List of ASEAN countries: Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam and Brunei_
-
-6.  Students who are eligible for an Edusave Account can use it to pay the 2nd&nbsp;Tier Miscellaneous Fees, whether they are on GIRO or on cash payment. Students who wish to do so can obtain the application form from the General Office.
-7.  GIRO deductions are made monthly. If the deduction for a particular month is unsuccessful due to insufficient funds, the amount will be deducted together with next month’s fees. The monthly GIRO deduction will be carried out on the 26th&nbsp;of each month.
-8.  The GIRO account will be suspended if it fails in the following month or exceeds 2 months fees. Once the arrears are settled in cash/cheque, the GIRO account will be automatically re-instated.
-
-### APPLICATION FOR MOE-FINANCIAL ASSISTANCE SCHEME (MOE-FAS)
-
-The following financial assistance schemes are available to needy Singaporean students:
-
-1.  Financial Assistance by Ministry of Education
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c1uv" colspan="2"><span style="font-weight:bold;font-style:inherit">Income Criteria</span></th>
-  </tr>
-</thead>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>School fees for International Student are as follows (until 31 Dec 2023):</p>
+</li>
+</ol>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income of</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">not exceeding $3,000 per month</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income of</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Per Capita Income not exceeding $750 per month</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>FEES</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>ASEAN*</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Non-ASEAN</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$910.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,770.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Misc Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>nd <strong>Tier Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Total Fees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$930.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1,790.00</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Term</span></th>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Does include</span></th>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Does not include</span></th>
-  </tr>
-</thead>
+<p><em>*List of ASEAN countries: Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Vietnam and Brunei</em>
+</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Students who are eligible for an Edusave Account can use it to pay the
+2nd&nbsp;Tier Miscellaneous Fees, whether they are on GIRO or on cash payment.
+Students who wish to do so can obtain the application form from the General
+Office.</p>
+</li>
+<li>
+<p>GIRO deductions are made monthly. If the deduction for a particular month
+is unsuccessful due to insufficient funds, the amount will be deducted
+together with next month’s fees. The monthly GIRO deduction will be carried
+out on the 26th&nbsp;of each month.</p>
+</li>
+<li>
+<p>The GIRO account will be suspended if it fails in the following month
+or exceeds 2 months fees. Once the arrears are settled in cash/cheque,
+the GIRO account will be automatically re-instated.</p>
+</li>
+</ol>
+<h3>APPLICATION FOR MOE-FINANCIAL ASSISTANCE SCHEME (MOE-FAS)</h3>
+<p>The following financial assistance schemes are available to needy Singaporean
+students:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Financial Assistance by Ministry of Education</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Gross Household Income</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         Gross income of family members in the same household</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Gross income of family members who contribute to the income of the household</span><br><span style="font-weight:inherit;font-style:inherit">·         Include allowances e,g. overtime, claims</span><br><span style="font-weight:inherit;font-style:inherit">·         Include employee’s CPF contribution</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">·         National Service allowance earned by NS men</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Severance compensation and insurance payment</span><br><span style="font-weight:inherit;font-style:inherit">·         Alimony payment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Dependent Children</span></td>
-    <td class="tg-dox4" colspan="2"><span style="font-weight:inherit;font-style:inherit">·         Unmarried children below 16 years old</span><br><br><span style="font-weight:inherit;font-style:inherit">·         Unmarried children over 16 years old and receiving full time education</span><br><span style="font-weight:inherit;font-style:inherit">·         Unmarried handicapped children</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p><strong>Income Criteria</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gross Household Income of</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>not exceeding $4,000 per month</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gross Household Income of</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Per Capita Income not exceeding $1000 per month</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/moe_fas_EL_2024.jpg)
-
-For more details, please refer to:
-
-[MOE FAS Eligibility/Submission Checklist](https://www.moe.gov.sg/financial-matters/financial-assistance)
-
-### How to apply
-
-Application for Financial Assistance is open throughout the year. Students who are eligible are to apply via the online application portal by clicking here &gt; [MOE Financial Assistance Application Form (eFAS) for 2025](https://go.gov.sg/moe-efas)
-		 
-To renew the financial assistance for the next calendar year, students will have to submit a NEW application with supporting documents. Students are encouraged to submit their new applications by end October in order to use the Textbook Grant, should their application qualify for MOE Financial Assistance.
-
-2.  Other Financial Assistance and Bursary by other Organisations
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Name of Bursary</span></th>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Organisation</span></th>
-    <th class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Requirement/How to obtain form</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Potong Pasir Constituency Citizens’ Consultative Committee Application for Study Motivational Awards</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Potong Pasir CC</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NTUC Fairprice Study Grant</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">NTUC Fairprice</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Parent must be Fairprice member</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol North CCC Community Education Assistance Scheme</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol North</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol East CCC Community Education Assistance Scheme</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol East</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol West CCC Community Education Assistance Scheme</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Pasir-Ris Punggol West</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CC</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Buddhist Federation SBF Bursary Award</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Singapore Buddhist Federation</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from Singapore Buddhist Federation</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CDAC-SFCCA Bursary</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CDAC</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from CDAC centres, schools, CDAC website:</span> <a href="http://www.cdac.org.sg/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">www.cdac.org.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MDIS Scholarship and Bursary Awards</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">MDIS</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from school in November</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">The Straits Times Pocket Money Fund</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Straits Times</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from school</span></td>
-  </tr>
-  <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">CTS Educational Awards 2019</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Chettiars’ Temple Society</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Obtain from school in October</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Term</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Does include</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Does not include</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gross Household Income</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· Gross income of family members in the same household
+<br>
+<br>· Gross income of family members who contribute to the income of the household
+<br>· Include allowances e,g. overtime, claims
+<br>· Include employee’s CPF contribution</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· National Service allowance earned by NS men
+<br>
+<br>· Severance compensation and insurance payment
+<br>· Alimony payment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dependent Children</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>· Unmarried children below 16 years old
+<br>
+<br>· Unmarried children over 16 years old and receiving full time education
+<br>· Unmarried handicapped children</p>
+</td>
+</tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moe_fas_EL_2024.jpg">
+</div>
+<p>For more details, please refer to:</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Eligibility/Submission Checklist</a>
+</p>
+<h3>How to apply</h3>
+<p>Application for Financial Assistance is open throughout the year. Students
+who are eligible are to apply via the online application portal by clicking
+here &gt; <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2025</a>
+</p>
+<p>To renew the financial assistance for the next calendar year, students
+will have to submit a NEW application with supporting documents. Students
+are encouraged to submit their new applications by end October in order
+to use the Textbook Grant, should their application qualify for MOE Financial
+Assistance.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Other Financial Assistance and Bursary by other Organisations</p>
+</li>
+</ol>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Name of Bursary</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Organisation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Requirement/How to obtain form</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Potong Pasir Constituency Citizens’ Consultative Committee Application
+for Study Motivational Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Potong Pasir CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NTUC Fairprice Study Grant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC Fairprice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parent must be Fairprice member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir-Ris Punggol North CCC Community Education Assistance Scheme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pasir-Ris Punggol North</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir-Ris Punggol East CCC Community Education Assistance Scheme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pasir-Ris Punggol East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir-Ris Punggol West CCC Community Education Assistance Scheme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pasir-Ris Punggol West</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from CC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Buddhist Federation SBF Bursary Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Buddhist Federation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from Singapore Buddhist Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CDAC-SFCCA Bursary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CDAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from CDAC centres, schools, CDAC website: <a href="http://www.cdac.org.sg/" rel="noopener noreferrer nofollow" target="_blank">www.cdac.org.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDIS Scholarship and Bursary Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from school in November</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Straits Times Pocket Money Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Straits Times</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CTS Educational Awards 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chettiars’ Temple Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obtain from school in October</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
