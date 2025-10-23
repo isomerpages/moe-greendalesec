@@ -367,6 +367,91 @@ students:</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Revised Provisions under MOE's financial assistance schemes for Schools</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Schemes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Current Provisions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Revised Provision</p>
+<p>(From AY2026)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>MOE FAS</p>
+</li>
+<li>
+<p>SPED FAS</p>
+</li>
+<li>
+<p>MOE ISB (for students with GHI ≤ $4,000 or PCI ≤ $1,000)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="2">
+<p>100% fee subsidies (no change)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Free textbooks and uniforms (no change)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Meal subsidies that pay for at least 7 meals per week for primary level
+and at least 10 meals per week for secondary level (no change)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Transport subsidies:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>65% of monthly school bus fares for primary level only</p>
+</li>
+<li>
+<p>Monthly public transport subsidies of $17 for all levels</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Transport subsidies (enhanced):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>70% of monthly school bus fares for primary level only</p>
+</li>
+<li>
+<p>Monthly public transport subsidies of $21 for primary and secondary levels.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cash bursary of $1,200 for pre-university students only</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cash bursary of $1,600 for pre-university students only (enhanced)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 </li>
 </ol>
