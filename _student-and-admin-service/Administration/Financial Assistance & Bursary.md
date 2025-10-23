@@ -335,7 +335,7 @@ students:</p>
 </th>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>MOE FAS</p>
@@ -388,9 +388,6 @@ and at least 10 meals per week for secondary level (no change)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Cash bursary of $1,200 for pre-university students only</p>
 </td>
