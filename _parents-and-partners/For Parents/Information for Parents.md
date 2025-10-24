@@ -82,7 +82,7 @@ e-Submission of claims.</p>
 more information.</p>
 </li>
 <li>
-<p>MOE Financial Assistance Scheme (FAS) – 2025</p>
+<p>MOE Financial Assistance Scheme (FAS) – 2026</p>
 <p>Submit your application using the MOE eFAS form.</p>
 <p>👉 Click <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">here</a> for
 the application form.</p>
@@ -90,7 +90,7 @@ the application form.</p>
 </li>
 <li>
 <p>The Straits Times School Pocket Money Fund</p>
-<p>Application for 2026 is opened.</p>
+<p>Application for 2026 is closed.</p>
 <p>👉 Click <a href="/student-admin-services/administration/the-straits-times-school-pocket-money-fund/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
 <p></p>
