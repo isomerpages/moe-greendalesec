@@ -406,7 +406,7 @@ and at least 10 meals per week for secondary level (no change)</p>
 <h3>How to apply</h3>
 <p>Application for Financial Assistance is open throughout the year. Students
 who are eligible are to apply via the online application portal by clicking
-here &gt; <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2025</a>
+here &gt; <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE Financial Assistance Application Form (eFAS) for 2026</a>
 </p>
 <p>To renew the financial assistance for the next calendar year, students
 will have to submit a NEW application with supporting documents. Students
