@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme
 permalink: /greendale-xperience/national-digital-literacy-programme/
 description: ""
+variant: markdown
 ---
 In March 2020, MOE launched the National Digital Literacy Programme (NDLP) to help students strengthen their digital literacy. Throughout their educational journey, students will be able to acquire digital skills across four components in the “Find, Think, Apply, Create” framework.
 
@@ -18,7 +19,7 @@ One of the components of the NDLP is the introduction of Personal Learning Devic
 
 The PLD will enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
-The school-prescribed PLD is the Acer Chromebook Spin R753TN (Enhanced).
+The school-prescribed PLD is the Acer Chromebook Spin R857TN (Enhanced).
 
 Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Subsidies are available for students who require funding support to purchase the PLD.
 
