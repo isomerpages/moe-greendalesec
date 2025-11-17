@@ -7,25 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/WhatsApp_Image_2025_10_19_at_09_46_49.jpg
-      url: /about/school-videos/p-address-open-house-2024/
+      background: /images/20220517_092823.jpg
+      url: /about/school-leaders-message/
       key_highlights:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
-        - title: School leaders' message
-          description: Read School Leaders' Message
-          url: /about/school-leaders-message/
-  - infopic:
-      title: Open House 2025
-      subtitle: GREENDALE SECONDARY SCHOOL
-      id: infopic
-      description: Explore CTS, ALP & green spaces. Grow and glow with us on Sat 15
-        Nov, 9am–1pm @ 51 Edgedale Plains.
-      image: /images/Cover_photo_1_.jpg
-      alt: Image alt text
-      button: locate our school
-      url: https://maps.app.goo.gl/Npqt5XMF9MvGVkSx9
+      title: Greendale Secondary
+      button: Click here for Principal's Address
   - infopic:
       title: Principal's Address
       subtitle: Greendale secondary school
