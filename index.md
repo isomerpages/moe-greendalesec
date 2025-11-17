@@ -16,16 +16,6 @@ sections:
       title: Greendale Secondary
       button: Click here for Principal's Address
   - infopic:
-      title: Open House 2025
-      subtitle: GREENDALE SECONDARY SCHOOL
-      id: infopic
-      description: Explore CTS, ALP & green spaces. Grow and glow with us on Sat 15
-        Nov, 9am–1pm @ 51 Edgedale Plains.
-      image: /images/Cover_photo_1_.jpg
-      alt: Image alt text
-      button: locate our school
-      url: https://maps.app.goo.gl/Npqt5XMF9MvGVkSx9
-  - infopic:
       title: Principal's Address
       subtitle: Greendale secondary school
       id: infopic
