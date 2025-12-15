@@ -53,6 +53,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Ashiq Mohamed Elia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:greendale_ss@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
