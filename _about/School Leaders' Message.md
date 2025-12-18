@@ -4,7 +4,7 @@ permalink: /about/school-leaders-message/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>2026 School Leaders’ Website Message:</u></strong></h4>
+<h4><strong><u>2026 School Leaders’ Message:</u></strong></h4>
 <p><strong>A Message to All Greendale Students</strong>
 <br><strong>Growing and Glowing into 2026!</strong>
 <br>2025 has been an incredible year for Greendale — filled with energy, teamwork,
