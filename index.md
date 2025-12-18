@@ -13,8 +13,21 @@ sections:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
+        - title: Release of 2025 N-Level Results
+          description: Click for more information
+          url: student-admin-services/students/
       title: Greendale Secondary
       button: Click here for Principal's Address
+  - infopic:
+      title: Information for 2026 S1 Students
+      subtitle: Greendale secondary school
+      id: infopic
+      description: "Our heartiest welcome! Explore our registration site for key
+        information to kickstart your journey:"
+      button: Click here
+      url: https://sites.google.com/moe.edu.sg/gdlss1reg2026
+      image: /images/Sec_1_Registration_Sch_Website_Banner.jpg
+      alt: Image alt text
   - infopic:
       title: Principal's Address
       subtitle: Greendale secondary school
