@@ -227,18 +227,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Haryani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_haryani_ramlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_haryani_ramlan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Goh Cheng Hian</p>
 </td>
 <td rowspan="1" colspan="1">
