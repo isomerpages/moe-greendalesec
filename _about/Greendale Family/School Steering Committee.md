@@ -165,13 +165,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Darius Tan</p>
+<p>Ms Sarah Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mathematics</p>
+<p>HOD / Mathematics (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jun_rong_darius@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_rong_darius@schools.gov.sg</a>
+<p><a href="mailto:sarah_lee_su-yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_lee_su-yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
