@@ -311,13 +311,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Lee</p>
+<p>Ms Tan Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sarah_lee_su-yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_lee_su-yi@schools.gov.sg</a>
+<p><a href="mailto:tan_wan_ting_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_ting_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
