@@ -15,7 +15,7 @@ sections:
           url: https://www.facebook.com/GreendaleSec/
         - title: Release of 2025 N-Level Results
           description: Click for more information
-          url: ""
+          url: https://cms.isomer.gov.sg/files/2025_GCE_N_Level_Results_Release.pdf
       title: Greendale Secondary
       button: Click here for Principal's Address
   - infopic:
