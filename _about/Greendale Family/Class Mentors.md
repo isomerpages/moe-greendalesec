@@ -22,23 +22,10 @@ variant: tiptap
 <p>1A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gajaeshini</p>
+<p>Mr Zhuo Jianxiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: gajaeshini_sri_kathan@schools.gov.sg" rel="noopener nofollow" target="_blank">gajaeshini_sri_kathan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Sng Tze Kun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sng_tze_kun@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_tze_kun@</a>
-<a href="mailto:sng_tze_kun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:zhuo_jianxiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_jianxiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -47,11 +34,10 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Gek Kiang</p>
+<p>Ms Tan Wan Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: koh_gek_kiang@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_gek_kiang@</a>
-<a href="mailto:koh_gek_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">schools.gov.sg</a>
+<p><a href="mailto:tan_wan_ting_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wan_ting_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -60,7 +46,7 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Yu Zhen</p>
+<p>Mr Muhd Taufiq</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chang_yu_zhen@schools.gov.sg" rel="noopener nofollow" target="_blank">chang_yu_zhen@schools.gov.sg</a>
