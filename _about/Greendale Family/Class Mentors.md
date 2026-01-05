@@ -204,10 +204,10 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azli</p>
+<p>Ms Gajaeshini d/o Sri Kanthan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_azli_azfar_onn@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_azli_azfar_onn@schools.gov.sg</a>
+<p><a href="mailto:gajaeshini_sri_kathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gajaeshini_sri_kathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -216,10 +216,10 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandy Tan</p>
+<p>Mr Sng Tze Kun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yi_xuan_a@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_yi_xuan_a@schools.gov.sg</a>
+<p><a href="mailto:sng_tze_kun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_tze_kun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
