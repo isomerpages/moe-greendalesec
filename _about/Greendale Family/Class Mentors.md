@@ -178,22 +178,10 @@ variant: tiptap
 <p>1H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pee Kai Hing</p>
+<p>Mrs Sarah Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pee_kai_hing@schools.gov.sg" rel="noopener nofollow" target="_blank">pee_kai_hing@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Hui Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_hui_kheng@schools.gov.sg" rel="noopener nofollow" target="_blank">tay_hui_kheng@school.gov.sg</a>
+<p><a href="mailto:toh_foong_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_foong_choo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
