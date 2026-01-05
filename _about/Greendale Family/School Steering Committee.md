@@ -415,7 +415,7 @@ variant: tiptap
 <p>YH (Lower Sec) / Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chng_rui_qing_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@schools.gov.sg</a>
+<p><a href="mailto:tng_wee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -427,7 +427,7 @@ variant: tiptap
 <p>Assistant YH (Ag) / Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_kerry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kerry@schools.gov.sg</a>
+<p><a href="mailto:chng_rui_qing_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -436,10 +436,10 @@ variant: tiptap
 <p>Ms Lim Kerry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Sec) Secondary 3</p>
+<p>YH (Upper Sec) / Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
+<p><a href="mailto:lim_kerry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kerry@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -451,7 +451,7 @@ variant: tiptap
 <p>Assistant YH / Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tng_wee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@schools.gov.sg</a>
+<p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
