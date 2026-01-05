@@ -410,10 +410,10 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sean Tan</p>
+<p>Ms Lim Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sean_tan_meng_loong@schools.gov.sg" rel="noopener nofollow" target="_blank">sean_tan_meng_loong@moe.edu.sg</a>
+<p><a href="mailto:lim_xi@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>lim_xi@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
