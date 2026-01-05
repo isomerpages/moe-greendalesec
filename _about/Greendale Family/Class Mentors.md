@@ -616,10 +616,10 @@ variant: tiptap
 <p>4A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Augustine Seah</p>
+<p>Mr Sean Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seah_wee_kiat_augustine@schools.gov.sg" rel="noopener nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
+<p><a href="mailto:sean_tan_meng_loong@moe.edu.sg" rel="noopener nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
 </p>
 </td>
 </tr>
