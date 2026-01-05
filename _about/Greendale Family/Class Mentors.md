@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mr Ng Chye Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:janani_vijayan@schools.gov.sg" rel="noopener nofollow" target="_blank">janani_vijayan@schools.gov.sg</a>
+<p><a href="mailto:ng_chye_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_chye_wah@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
