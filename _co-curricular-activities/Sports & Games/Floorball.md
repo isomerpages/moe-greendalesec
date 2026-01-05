@@ -3,9 +3,21 @@ title: Floorball
 permalink: /curriculum/co-curriculum/ccas/sports-games/floorball/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-Training is 3 times weekly and a single session would typically consist of physical training and sharpening of technical skills. Students are taught basic technical floorball skills of dribbling and passing to defending. Students also view the recording of past games and jot down their reflection in their journals as well as to think of strategies for subsequent games. Floorball students also have the opportunity to take part in external competitions and friendlies to sharpen their skills and to gain experience. These training sessions are interlaced with bonding activities to promote camaraderie among teammates. 
-
-In 2020,  our B Division girls made it to the 2nd round for that year’s tournament before National Games were suspended due to Covid-19.
-
-![](/images/BL0_4974.jpg)
+<p>Floorball provides students with a dynamic and engaging platform to develop
+both sporting skills and strong character. Through regular training and
+competition like NSG and friendly matches, students learn the importance
+of teamwork, discipline, and commitment, as success in floorball depends
+on cooperation, communication, and mutual support. Floorballers also learn
+to persevere through setbacks and are encouraged to continuously reflect
+on their performance to improve it. Beyond physical fitness and agility,
+the Floorball CCA nurtures confidence, leadership, and responsibility,
+empowering students to grow into well-rounded individuals who embody the
+school’s values while representing the school with pride.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorball.jpg">
+</div>
+<p></p>
