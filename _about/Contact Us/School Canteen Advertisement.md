@@ -30,7 +30,7 @@ third_nav_title: Contact Us
 <p>Muslim Noodle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15th November 2025</p>
+<p>15th March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Please see below</p>
