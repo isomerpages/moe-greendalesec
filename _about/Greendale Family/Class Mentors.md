@@ -434,10 +434,10 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Beh Yu Lin</p>
+<p>Mr Tan Boon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beh_yu_lin@schools.gov.sg" rel="noopener nofollow" target="_blank">beh_yu_lin@schools.gov.sg</a>
+<p><a href="https://www.greendalesec.moe.edu.sg/about/Greendale-Family/class-mentors/tan_boon_hwee_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_boon_hwee_a@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -446,10 +446,10 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Chang</p>
+<p>Ms Chua Ming Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_how_chun@schools.gov.sg" rel="noopener nofollow" target="_blank">chang_how_chun@schools.gov.sg</a>
+<p><a href="mailto:chua_ming_xiu@schools.gov.sg" rel="noopener nofollow" target="_blank">chang_how_chun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -458,10 +458,10 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lingesh</p>
+<p>Mr Kelvin Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lingesh_nadason@schools.gov.sg" rel="noopener nofollow" target="_blank">lingesh_nadason@schools.gov.sg</a>
+<p><a href="mailto:chan_tak_khin_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chan_tak_khin_kelvin@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
