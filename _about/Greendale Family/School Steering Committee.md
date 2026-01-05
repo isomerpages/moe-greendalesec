@@ -201,6 +201,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Azmy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Physical Education &amp; Co-Curricular Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azmy_rizmanali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azmy_rizmanali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Tan Jie Qi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -369,6 +381,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zurianee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zurianee_zainal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zurianee_zainal@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -385,10 +409,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Lee</p>
+<p>Ms Tng Wee Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH (Ag) / Secondary 1</p>
+<p>YH (Lower Sec) / Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_rui_qing_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_rui_qing_rachel@schools.gov.sg</a>
@@ -397,10 +421,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Kerry</p>
+<p>Mrs Rachel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Lower Sec) / Secondary 2</p>
+<p>Assistant YH (Ag) / Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_kerry@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_kerry@schools.gov.sg</a>
@@ -409,10 +433,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Pin Lang Paige</p>
+<p>Ms Lim Kerry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant YH / Secondary 3</p>
+<p>YH (Upper Sec) Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_pin_lang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_pin_lang@schools.gov.sg</a>
@@ -421,10 +445,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tng Wee Li</p>
+<p>Ms Koh Pin Lang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>YH (Upper Sec)/ Secondary 4 &amp; 5</p>
+<p>Assistant YH / Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tng_wee_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_wee_li@schools.gov.sg</a>
