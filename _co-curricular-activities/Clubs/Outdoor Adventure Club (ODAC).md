@@ -22,6 +22,10 @@ modules, leadership camps, and national-level competitions. Signature programmes
 such as outdoor cooking challenges, climbing courses, sea expeditions,
 and adventure camps allow students to apply skills in real-world contexts,
 reinforcing learning beyond the classroom.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250414_075135009_iOS.jpg">
+</div>
 <p>Beyond technical proficiency, ODAC places strong emphasis on character
 and values education. Through challenge and adversity, students learn perseverance,
 teamwork, accountability, and self-management. ODAC explicitly develops
@@ -41,6 +45,7 @@ and C Division Boys 3rd Place at NORS, clinched First Place at G.A.R.A.N.G
 (Girls’ Team), and attained top results in orienteering and climbing events.
 Students have also completed demanding milestones such as a 40km SEA Kayaking
 Expedition, 1-Star Kayaking Certification, and annual ODAC leadership camps.</p>
+<p></p>
 <p>ODAC continues to nurture confident, resilient, and grounded individual
 students who dare to challenge limits, grow through adversity, and live
 the spirit of adventure together.</p>
