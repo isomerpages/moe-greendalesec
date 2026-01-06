@@ -9,7 +9,7 @@ variant: tiptap
 <p>The Angklung &amp; Kulintang Ensemble is a musical group that plays the
 traditional Indonesian instruments, Angklung and Kulintang, which originated
 from West Java and Sulawesi respectively.</p>
-<p>&nbsp;</p>
+<p></p>
 <h4><strong>What is an Angklung?</strong></h4>
 <p>An Angklung is a musical instrument which comprises two to four bamboo
 tubes loosely supported in a square bamboo frame. They slide to and fro
@@ -56,6 +56,7 @@ will be twice a week.</p>
 </p>
 <p><strong>2021: Certificate of Accomplishment</strong>
 </p>
+<p></p>
 <blockquote>
 <p>SYF 2025:</p>
 </blockquote>
@@ -80,8 +81,7 @@ Certificate of Distinction.</p>
 </div>
 <h4><strong>Public Performances</strong></h4>
 <blockquote>
-<p><strong>Rhythms of Greendale - VIA</strong>
-</p>
+<p>Rhythms of Greendale - VIA</p>
 </blockquote>
 <p>A public performing arts showcase at Oasis Terraces.</p>
 <p></p>
@@ -94,8 +94,7 @@ Certificate of Distinction.</p>
 </div>
 <blockquote>
 <p></p>
-<p><strong>Eladneerg</strong>
-</p>
+<p>Eladneerg</p>
 </blockquote>
 <p>Biennial School Public Performances (held in even number years)</p>
 <p></p>
@@ -115,36 +114,30 @@ Certificate of Distinction.</p>
 </div>
 <p></p>
 <blockquote>
-<p><strong>Community Performances at Punggol 21 CC</strong>
-</p>
+<p>Community Performances at Punggol 21 CC</p>
 </blockquote>
 <p>Public performances to celebrate Hari Raya &amp; Racial Harmony Day</p>
-<p><strong><em>Hari Raya in 2024</em></strong>
+<p><em>Hari Raya in 2024</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya_2024.png">
 </div>
-<p><strong><em>Racial Harmony Day in 2025</em></strong>
+<p><em>Racial Harmony Day in 2025</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RHD.png">
 </div>
 <p></p>
 <blockquote>
-<p><strong>Post-GE2020 Appreciation Dinner</strong>
-</p>
+<p>Post-GE2020 Appreciation Dinner</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_1.jpg">
 </div>
