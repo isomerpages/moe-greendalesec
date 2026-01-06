@@ -152,5 +152,5 @@ Certificate of Distinction.</p>
 </div>
 <p></p>
 <h4><strong>Angklung Google Site</strong></h4>
-<p>More information on Angklung programmes can be found at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gdls-angklung</a>
+<p>More information on Angklung programmes can be found at: <a href="https://go.gov.sg/gdls-angklung" rel="noopener nofollow" target="_blank"> https://go.gov.sg/gdls-angklung</a>
 </p>
