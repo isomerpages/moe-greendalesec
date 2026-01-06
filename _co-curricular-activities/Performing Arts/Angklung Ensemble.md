@@ -38,13 +38,12 @@ is played using mallets with rubber-tipped heads.</p>
 </div>
 <p></p>
 <h4><strong>Format of CCA</strong></h4>
-<p><strong><em>F-2-F training sessions</em></strong>
+<p><strong><em><u>F-2-F training sessions</u></em></strong>
 </p>
 <p>Angklung and Kulintang training sessions, with our instructor, Mr Dzulkifli,
 will be twice a week.</p>
 <p>Venue: Angklung Room, next to Cafe, at Level 1</p>
-<p>&nbsp;</p>
-<p><strong><em>CCA Sessions:</em></strong>
+<p><strong><em><u>CCA Sessions:</u></em></strong>
 </p>
 <p>Every Monday: 2:45 to 5:45 pm</p>
 <p>Every Wednesday: 2:45pm to 5:45pm</p>
@@ -140,11 +139,11 @@ Certificate of Distinction.</p>
 <blockquote>
 <p><strong>Post-GE2020 Appreciation Dinner</strong>
 </p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_2.png">
 </div>
-</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_1.jpg">
