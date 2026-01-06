@@ -17,11 +17,11 @@ self-control.</p>
 </div>
 <p>The Greendale Fencing Team comprises energetic and dedicated students
 from all levels committed to honing their fencing craft. A typical training
-session involves an hour of warm-up exercises that focuses on foot work
-and blade work before fencers pit their skills against one another during
-the final hour. With the support and direction provided by their coaches
-and encouragement from their teammates, Greendale fencers have brought
-the following laurels to the school:</p>
+session involves an hour of warm-up exercises that focus on foot work and
+blade work before fencers pit their skills against one another during the
+final hour. With the support and direction provided by their coaches and
+encouragement from their teammates, Greendale fencers have brought the
+following laurels to the school:</p>
 <p><u>2025</u>
 </p>
 <p>National School Games B Division Boys 2<sup>nd</sup> Placing</p>
