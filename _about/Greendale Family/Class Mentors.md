@@ -46,7 +46,7 @@ variant: tiptap
 <p>1B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Taufiq</p>
+<p>Mr Muhammad Taufiq</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_taufiq_najmuddeen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_taufiq_najmuddeen@schools.gov.sg</a>
@@ -70,7 +70,7 @@ variant: tiptap
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Crystal Lim Qian Yi</p>
+<p>Ms Crystal Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:crystal_lim_qian_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_lim_qian_yi@schools.gov.sg</a>
@@ -276,7 +276,7 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Suriani</p>
+<p>Mdm Suriani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:suriani_buang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_buang@schools.gov.sg</a>
@@ -324,7 +324,7 @@ variant: tiptap
 <p>2F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ngern Yen Lee</p>
+<p>Ms Eve Ngern</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ngern_yen_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngern_yen_lee@schools.gov.sg</u></a>
@@ -363,7 +363,7 @@ variant: tiptap
 <p>Mr Seng Mun Kong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seng_mun_kong@schools.gov.sg" rel="noopener nofollow" target="_blank"><u><br>seng_mun_kong@moe.edu.sg</u></a>
+<p><a href="mailto:seng_mun_kong@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>seng_mun_kong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -449,7 +449,7 @@ variant: tiptap
 <p>Ms Chua Ming Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_ming_xiu@schools.gov.sg" rel="noopener nofollow" target="_blank">chang_how_chun@schools.gov.sg</a>
+<p><a href="mailto:chua_ming_xiu@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_ming_xiu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -470,7 +470,7 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Thong</p>
+<p>Mdm Eunice Thong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thong_hui_fang_eunice@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">thong_hui_fang_eunice@schools.gov.sg</a>
@@ -619,7 +619,7 @@ variant: tiptap
 <p>Mr Sean Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sean_tan_meng_loong@moe.edu.sg" rel="noopener nofollow" target="_blank">seah_wee_kiat_augustine@moe.edu.sg</a>
+<p><a href="mailto:sean_tan_meng_loong@schools.gov.sg" rel="noopener nofollow" target="_blank">sean_tan_meng_loong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
