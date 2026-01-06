@@ -41,8 +41,9 @@ respond to changing water and weather conditions, nurturing <strong>critical and
 These soft skills are valuable not only in the CCA, but also in school
 and future life beyond the classroom</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canoeing_pic2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Canoeing_3.jpg">
 </div>
 <p>The Canoeing CCA is proud of the achievements of its students and seniors,
 who have laid a strong foundation for the team. In <strong>2025</strong>,
