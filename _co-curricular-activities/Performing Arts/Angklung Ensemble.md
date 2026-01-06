@@ -141,3 +141,16 @@ Certificate of Distinction.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_1.jpg">
 </div>
 <p></p>
+<h4>School Performances</h4>
+<blockquote>
+<p>Performing the National Anthem at school NDP</p>
+</blockquote>
+<p>Angklung CCA performing for our National Anthem at school NDP 2024 &amp;
+2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/national_anthem_2025.jpg">
+</div>
+<p></p>
+<h4><strong>Angklung Google Site</strong></h4>
+<p>More information on Angklung programmes can be found at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gdls-angklung</a>
+</p>
