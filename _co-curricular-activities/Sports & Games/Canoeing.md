@@ -48,10 +48,10 @@ and future life beyond the classroom</p>
 <p>The Canoeing CCA is proud of the achievements of its students and seniors,
 who have laid a strong foundation for the team. In <strong>2025</strong>,
 the team achieved a <strong>4th place podium finish in the JK2 500m event</strong>,
-a testament to the discipline, teamwork, and determination of the paddlers.
-Beyond medals and results, seniors have built a culture of commitment,
-mutual support, and pride in the CCA, inspiring juniors to continue striving
-for excellence.</p>
+during the National school games(NSG), a testament to the discipline, teamwork,
+and determination of the paddlers. Beyond medals and results, seniors have
+built a culture of commitment, mutual support, and pride in the CCA, inspiring
+juniors to continue striving for excellence.</p>
 <p>Join the Canoeing CCA and paddle forward with us—one stroke, one race,
 and one shared journey at a time.</p>
 <p></p>
