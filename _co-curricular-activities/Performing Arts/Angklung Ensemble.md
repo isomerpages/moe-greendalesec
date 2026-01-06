@@ -99,7 +99,9 @@ Certificate of Distinction.</p>
 </p>
 <p>Biennial School Public Performances (held in even number years)</p>
 <p>&nbsp;</p>
+</blockquote>
 <p>Eladneerg V in 2024 – at The Republic Cultural Centre (TRCC)</p>
+<blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_eladneerg_3.jpg">
