@@ -151,6 +151,6 @@ Certificate of Distinction.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/national_anthem_2025.jpg">
 </div>
 <p></p>
-<h4><strong>Angklung Google Sites</strong></h4>
+<h4><strong>Angklung Google Site</strong></h4>
 <p>More information on Angklung programmes can be found at: <a href="https://go.gov.sg/gdls-angklung" rel="noopener nofollow" target="_blank">https://go.gov.sg/gdls-angklung</a>
 </p>
