@@ -9,7 +9,6 @@ variant: tiptap
 <p>The Angklung &amp; Kulintang Ensemble is a musical group that plays the
 traditional Indonesian instruments, Angklung and Kulintang, which originated
 from West Java and Sulawesi respectively.</p>
-<p></p>
 <h4><strong>What is an Angklung?</strong></h4>
 <p>An Angklung is a musical instrument which comprises two to four bamboo
 tubes loosely supported in a square bamboo frame. They slide to and fro
