@@ -51,7 +51,7 @@ will be twice a week.</p>
 <p></p>
 <h4><strong>Achievements</strong></h4>
 <blockquote>
-<h4>Singapore Youth Festival (SYF) at SOTA</h4>
+<p>Singapore Youth Festival (SYF) at SOTA</p>
 </blockquote>
 <p><strong>2019, 2023 &amp; 2025: Certificate of Distinction</strong>
 </p>
@@ -97,19 +97,56 @@ Certificate of Distinction.</p>
 <p></p>
 <p><strong>Eladneerg</strong>
 </p>
-<p>Biennial School Public Performances (held in even number years)</p>
-<p>&nbsp;</p>
 </blockquote>
-<p>Eladneerg V in 2024 – at The Republic Cultural Centre (TRCC)</p>
+<p>Biennial School Public Performances (held in even number years)</p>
+<p></p>
+<p><em>Eladneerg V in 2024 – at The Republic Cultural Centre (TRCC)</em>
+</p>
 <blockquote>
 <p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_eladneerg_3.jpg">
 </div>
-</blockquote>
-<p>Eladneerg IV in 2022 – recording in school</p>
+<p><em>Eladneerg IV in 2022 – recording in school</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2022_eleadneerg.png">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Community Performances at Punggol 21 CC</strong>
+</p>
+</blockquote>
+<p>Public performances to celebrate Hari Raya &amp; Racial Harmony Day</p>
+<p><strong><em>Hari Raya in 2024</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hari_raya_2024.png">
+</div>
+<p><strong><em>Racial Harmony Day in 2025</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RHD.png">
+</div>
+<p></p>
+<blockquote>
+<p><strong>Post-GE2020 Appreciation Dinner</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_2.png">
+</div>
+</blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/parliament_house_1.jpg">
 </div>
 <p></p>
