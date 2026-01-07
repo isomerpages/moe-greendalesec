@@ -1,8 +1,9 @@
 ---
-title: Art Club
+title: Art & Culture Club
 permalink: /curriculum/co-curriculum/ccas/clubs/art-club/
 description: ""
 third_nav_title: Clubs
+variant: tiptap
 ---
 ![](/images/IMG_6574.jpg)
 “Every Art Club member is a Leader who is Creative, Confident and Compassionate.’ The club aims to develop all members into creative individuals who are resilient, demonstrate team spirit and possess compassion for others.
