@@ -53,4 +53,6 @@ Youth Tech Championship (NYTC), Singapore Institute of Technology (SIT)
 Community Challenge, VEX Robotics (DSTA-DSO-VJC Robotics Challenge), National
 Olympiad of Artificial Intelligence (NOAI)</p>
 <p></p>
+<p><em>In Robotics, we don't just build machines; we build the confidence to solve problems that don't have an answer key yet</em>
+</p>
 <p></p>
