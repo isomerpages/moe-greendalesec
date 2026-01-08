@@ -134,7 +134,7 @@ or ask her questions online.</p>
 </p>
 </li>
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">wong_kok_loong_marcus@moe.edu.sg</a>
+<p>Email:&nbsp;<a href="mailto:wong_kok_loong_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_loong_marcus@moe.edu.sg</a>
 </p>
 </li>
 </ul>
