@@ -130,16 +130,16 @@ Students may make an appointment with her through the following means,
 or ask her questions online.</p>
 <ul>
 <li>
-<p>Online booking form:&nbsp;<a href="https://www.booking.gov.sg/public/services/D36YEo6y/availability?spId=Gevzgoeo&amp;anonymous=true" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/gdlssecg</a>
+<p>Online booking form:&nbsp;<a href="https://go.gov.sg/gdlssecg" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/gdlssecg</a>
 </p>
 </li>
 <li>
-<p>Email:&nbsp;<a href="mailto:ng_ling_ling_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_ling_adeline@schools.gov.sg</a>
+<p>Email:&nbsp;<a href="mailto:wong_kok_loong_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kok_loong_marcus@moe.edu.sg</a>
 </p>
 </li>
 </ul>
-<p>Please note that Ms Adeline Ng is available at GDLS every Tuesday and
-Wednesday from 8am to 5pm.</p>
+<p>Please note that Mr Marcus Wong is available at GDLS every Wednesday and
+Thursday from 8am to 5pm.</p>
 <h3>MySkillsFuture Portal – Online Resource for Secondary Students</h3>
 <p>Students can also explore their career interests, gather education and
 industry information, and have their personal profiling or resume created

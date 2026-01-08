@@ -44,7 +44,7 @@ offered to them.</p>
 <p>Mr Wong Weng Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_weng_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_weng_keong@schools.gov.sg</a>
@@ -68,7 +68,7 @@ offered to them.</p>
 <p>Mrs Gudipati Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Education Needs Officer</p>
+<p>Senior Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gudipati_pranathi_reddy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gudipati_pranathi_reddy@schools.gov.sg</a>
@@ -83,19 +83,19 @@ offered to them.</p>
 <p>Special Education Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">blythe_germaine_tan_an@schools.gov.sg</a>
+<p><a href="mailto:blythe_germaine_tan_an@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">blythe_germaine_tan_an@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Ng</p>
+<p>Mr Marcus Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ling_ling_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_ling_adeline@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_kok_loong_marcus@moe.edu.sg</a>
 </p>
 </td>
 </tr>
