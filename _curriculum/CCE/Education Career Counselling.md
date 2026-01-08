@@ -138,8 +138,8 @@ or ask her questions online.</p>
 </p>
 </li>
 </ul>
-<p>Please note that Ms Adeline Ng is available at GDLS every Tuesday and
-Wednesday from 8am to 5pm.</p>
+<p>Please note that Mr Marcus Wong is available at GDLS every Wednesday and
+Thursday from 8am to 5pm.</p>
 <h3>MySkillsFuture Portal – Online Resource for Secondary Students</h3>
 <p>Students can also explore their career interests, gather education and
 industry information, and have their personal profiling or resume created
