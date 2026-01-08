@@ -79,7 +79,7 @@ diploma courses.</p>
 <p></p>
 <p>Students who are eligible to apply for PFP will receive a copy of Form
 P in person. Interested students are required to submit their applications
-online via the PFP website at <a rel="noopener noreferrer nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.html</a>.</p>
+online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.htm" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.htm</a>.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -122,7 +122,7 @@ eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points or
 lower and meet the subject-specific requirements for their chosen course.</p>
 <p></p>
 <p>Eligible Secondary 4 N(A) students may submit their DPP applications online
-via the DPP application portal at <a rel="noopener noreferrer nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.</p>
+via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -158,7 +158,7 @@ via the DPP application portal at <a rel="noopener noreferrer nofollow" target="
 </table>
 <p></p>
 <p>More information on DPP and eligibility requirements can be found at
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/</a>
+<a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/" rel="noopener nofollow" target="_blank">https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/</a>
 </p>
 <p></p>
 <p><strong>Education and Career Guidance (ECG) Information</strong>
@@ -168,18 +168,18 @@ available to them to make informed decisions about their next steps. They
 may refer to the following websites for more information:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MOE's CourseFinder (<a rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/coursefinder</a>)</p>
+<p>MOE's CourseFinder (<a href="https://moe.gov.sg/coursefinder" rel="noopener nofollow" target="_blank">https://moe.gov.sg/coursefinder</a>)</p>
 </li>
 <li>
-<p>MySkillsFuture Student Portal (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)</p>
+<p>MySkillsFuture Student Portal (<a href="https://go.gov.sg/mysfsec" rel="noopener nofollow" target="_blank">https://go.gov.sg/mysfsec</a>)</p>
 </li>
 <li>
-<p>PSEI Open Houses (<a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/ataglance</a>)</p>
+<p>PSEI Open Houses (<a href="http://go.gov.sg/ataglance" rel="noopener nofollow" target="_blank">http://go.gov.sg/ataglance</a>)</p>
 </li>
 </ul>
 <p></p>
 <p>For additional advice, your child can book an ECG counselling appointment
-with the ECG Centre@MOE (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>).</p>
+with the ECG Centre@MOE (<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>).</p>
 <p></p>
 <p><strong>We wish our Class of 2025 all the best for the upcoming results release!</strong>
 </p>
