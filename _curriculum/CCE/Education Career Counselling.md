@@ -123,11 +123,11 @@ or career prospects.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg4.png">
 </div>
 <h5>ECG Counselling Service</h5>
-<p>Our ECG Counsellor, Ms Adeline Ng, supports students (individually or
+<p>Our ECG Counsellor, Mr Marcus Wong, supports students (individually or
 in small groups) by exploring their interests and strengths, and addressing
 their concerns or questions about education options and career exploration.
-Students may make an appointment with her through the following means,
-or ask her questions online.</p>
+Students may make an appointment with him through the following form below,
+or contact him through email.</p>
 <ul>
 <li>
 <p>Online booking form:&nbsp;<a href="https://go.gov.sg/gdlssecg" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/gdlssecg</a>
