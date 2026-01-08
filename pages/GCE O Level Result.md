@@ -62,7 +62,7 @@ O-Level examination results.</p>
 </table>
 <p></p>
 <p>Refer to the JAE website for more details:</p>
-<p>(<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>).</p>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>.</p>
 <p>&nbsp;</p>
 <p><strong>Progression Pathways for Secondary 4 Normal(Academic) Students</strong>
 </p>
