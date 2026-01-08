@@ -79,7 +79,7 @@ diploma courses.</p>
 <p></p>
 <p>Students who are eligible to apply for PFP will receive a copy of Form
 P in person. Interested students are required to submit their applications
-online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.htm" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.htm</a>.</p>
+online via the PFP website at <a href="https://pfp.polytechnic.edu.sg/PFP/index.html" rel="noopener nofollow" target="_blank">https://pfp.polytechnic.edu.sg/PFP/index.htm</a>.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -122,7 +122,8 @@ eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points or
 lower and meet the subject-specific requirements for their chosen course.</p>
 <p></p>
 <p>Eligible Secondary 4 N(A) students may submit their DPP applications online
-via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses</a>.</p>
+via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses.</a>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
