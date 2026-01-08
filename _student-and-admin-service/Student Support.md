@@ -89,13 +89,13 @@ offered to them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Ng</p>
+<p>Mr Marcus Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_ling_ling_adeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ling_ling_adeline@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_kok_loong_marcus@moe.edu.sg</a>
 </p>
 </td>
 </tr>
