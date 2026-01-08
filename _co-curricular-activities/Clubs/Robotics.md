@@ -6,6 +6,10 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h2><strong>Robotics Club: Engineering the Future</strong></h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics_Pic2.jpg">
+</div>
 <p>At GDLS Robotics, we are more than just a "coding club”. We are an incubator
 for the next generation of engineers, designers, and innovators. We empower
 students to transform abstract ideas into tangible solutions for real-world
@@ -55,4 +59,8 @@ Olympiad of Artificial Intelligence (NOAI)</p>
 <p></p>
 <p><em>In Robotics, we don't just build machines; we build the confidence to solve problems that don't have an answer key yet</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Robotics_Pic1.jpg">
+</div>
 <p></p>
