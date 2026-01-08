@@ -122,7 +122,7 @@ eligible to apply if they obtain a raw ELMAB3 aggregate of 19 points or
 lower and meet the subject-specific requirements for their chosen course.</p>
 <p></p>
 <p>Eligible Secondary 4 N(A) students may submit their DPP applications online
-via the DPP application portal at <a href="www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">www.ite.edu.sg/apply-for-ite-courses.</a>
+via the DPP application portal at <a href="http://www.ite.edu.sg/apply-for-ite-courses" rel="noopener nofollow" target="_blank">http://www.ite.edu.sg/apply-for-ite-courses.</a>
 </p>
 <p></p>
 <table style="minWidth: 50px">
