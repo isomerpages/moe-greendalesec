@@ -1,0 +1,4 @@
+collections:
+  release-of-gce-results:
+    output: true
+    order: []
