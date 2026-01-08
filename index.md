@@ -13,9 +13,9 @@ sections:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
-        - title: Release of 2025 N-Level Results
+        - title: Release of 2025 O-Level Results
           description: Click for more information
-          url: student-admin-services/students/
+          url: /gce-o-level-result/
       title: Greendale Secondary
       button: Click here for Principal's Address
   - infopic:
