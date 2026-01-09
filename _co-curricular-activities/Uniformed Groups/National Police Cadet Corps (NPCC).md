@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc.jpg">
-</div>
 <p>In Greendale Secondary School, the National Police Cadet Corps (NPCC)
 unit is committed to developing cadets into active, responsible citizens
 and community leaders. Closely affiliated with the Singapore Police Force,
@@ -34,6 +31,24 @@ attained the Gold Award in the National Police Cadet Corps Unit Overall
 Proficiency Award for 16 consecutive years. Outstanding Sec 4 cadet leaders
 have also been conferred the SPF–NPCC Badge in recognition of their leadership
 and service</p>
-<p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_1_npcc.jpg">
+</div>
+<p><em>Greendale Secondary School NPCC Cadets taking part in 66<sup>th</sup> NPCC Annual Parade 2025</em>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_2_npcc.jpg">
+</div>
+<p><em>NPCC Area 4 Games Day 2025</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3_npcc.jpg">
+</div>
+<p><em>Secondary 3 Cadets Public Outreach Programme - Police Youth Ambassador 2025</em>
+<br>
 <br>
 </p>
