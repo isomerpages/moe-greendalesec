@@ -3,14 +3,35 @@ title: Theatricks!
 permalink: /curriculum/co-curriculum/ccas/performing-arts/theatricks/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-![](/images/theatricks.jpg)
-
-_The best acting is instinctive. It's not intellectual, it's not mechanical, it's instinctive.”_  
-\- Craig MacDonald
-
-For the students, being in Theatricks! provides them with an outlet to express their emotions- acting makes them feel more alive. We leave the stage with no regrets. We don’t dictate, we don’t force, we provide guidance and ideas, but it is up to the students to create the end product. 
-
-Every week, the students go through hours of actor’s training, stage blocking and countless runs of scenes and the whole performance. It takes a team working together both on stage and back stage to eventually create that final piece on stage. 
-
-We nurture students to become confident individuals and draw on their youthful exuberance and fearlessness to tackle any role head on. The values that develop in our students become life skills. Our efforts have been recognized as the drama group attained the Certificate of Accomplishment (2013, 2015, 2017 and 2019) in the Singapore Youth Festival.
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thetricks_pic_4.jpg">
+</div>
+<p>Theatricks! provides students with a rich and purposeful platform to learn
+the fundamentals of theatre-making and performance while developing a deep
+appreciation for the art form. Through a structured training programme,
+aspiring thespians are equipped with essential theatrical skills, including
+lighting, sound, and stage direction, and are guided to use their bodies
+effectively to create characters, stage actions, and visual images.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thetricks_pic_2.jpg">
+</div>
+<p>Learning in the club is highly collaborative, with students co-creating
+various elements of performances alongside instructors and teachers, fostering
+teamwork and creative ownership. Structured reflections are embedded throughout
+the programme to help students become mindful of their growth and learning
+journey. Beyond hands-on training, students broaden their perspectives
+through career talks and learning journeys to experience professional drama
+performances.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thetricks_pic_5.jpg">
+</div>
+<p>The club’s commitment to excellence and holistic development has been
+recognised with Certificates of Accomplishment in 2021, 2023, and 2025,
+reflecting the strong foundation in theatre arts that the students have
+developed.</p>
+<p></p>

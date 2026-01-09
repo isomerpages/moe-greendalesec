@@ -201,7 +201,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Azmy</p>
+<p>Mr Azmy Rizman Ali</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Physical Education &amp; Co-Curricular Activities</p>
