@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_6574.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_01_13_at_2_44_06_PM.jpg">
 </div>
 <h4><strong>Our Vision: Every Member a Leader</strong></h4>
 <p>At the Art and Culture Club (ACC), we believe every member is a leader
