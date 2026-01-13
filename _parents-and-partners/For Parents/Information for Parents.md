@@ -51,7 +51,7 @@ submit your update.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/61c2b2fb1dd3cd0013b089e1" rel="noopener nofollow" target="_blank">Cycling Advisory Note</a>:
+<p><a href="go.gov.sg/gdlss-cycling-ackform" rel="noopener nofollow" target="_blank">Cycling Advisory Note</a>:
 If your child cycles to school, please review and acknowledge the advisory
 note.</p>
 </li>
