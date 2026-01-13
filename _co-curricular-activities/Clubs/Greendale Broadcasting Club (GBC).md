@@ -16,7 +16,8 @@ and videography to build up their portfolio.</p>
 <p>Members also have opportunities to develop core journalism skills, including
 planning, filming, interviewing, and editing in a 26-hour program using
 iPads. Every year, they will participate in “Our Schools, Our Stories”
-competition, organized by MOE.</p>
+competition, organized by MOE. GBC achieved the distinction award for the
+Infocomm Media Club Youth Awards in 2022.</p>
 <p>Beyond technical competencies, the club nurtures teamwork, communication,
 and responsibility. By participating in the club, members build confidence,
 technical competence, and a deeper appreciation of media as a powerful
