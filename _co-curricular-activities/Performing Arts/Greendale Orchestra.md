@@ -3,10 +3,25 @@ title: Greendale Orchestra
 permalink: /curriculum/co-curriculum/ccas/performing-arts/greendale-orchestra/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-![](/images/BL0_5169.jpg)
-
-Greendale Orchestra is made up of plucked strings, woodwinds, bowed strings and percussion instruments. The Orchestra provides a platform for young musicians to share their passion and create music together. With more than 70 members, Greendale Orchestra aims to nurture young musicians through our weekly sectional and combined practices conducted by experienced music instructors. During sectional practices, students are grouped according to their instruments and are taught by instructors in small groups. Combined practices allow students to play together as an orchestra.
-
-In 2020,  the Ministry of Education’s Arts Education Branch published a promotional video for the Visual Performing Arts CCA. The video served as a platform to raise awareness of the benefits of students participating in VPA CCA. Greendale Orchestra is grateful for the opportunity to be one of the seven schools featured in this video.
-
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Syf_ochestrator.jpg">
+</div>
+<p>Greendale Orchestra is a vibrant ensemble comprising plucked strings,
+bowed strings, woodwinds and percussion instruments. It provides students
+with a nurturing platform to develop their musicianship, discipline and
+teamwork while discovering the joy of making music together.</p>
+<p>With more than 70 members, the Orchestra emphasises both individual growth
+and collective excellence through weekly sectional and combined practices
+led by experienced music instructors. Sectional practices focus on building
+strong technical foundations in small instrument-based groups, while combined
+practices bring all sections together to perform as a unified orchestra.</p>
+<p>The Orchestra meets every Monday and Wednesday from 2.45 p.m. to 5.45
+p.m., where students also take part in bonding sessions that strengthen
+friendships and team spirit.</p>
+<p>Greendale Orchestra performs regularly at the school’s biannual concert
+ELADNEERG and its annual community engagement performances at Oasis Terraces,
+Rhythms of Greendale. In 2025, the Orchestra achieved a Certificate of
+Accomplishment at the Singapore Youth Festival Arts Presentation.</p>
