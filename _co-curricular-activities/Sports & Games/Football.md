@@ -26,3 +26,12 @@ and extended the competition season from January to August.</p>
 <p>As a CCA, Greendale remains committed to nurturing discipline, teamwork,
 respect, and resilience in its student-athletes, while striving for excellence
 both on and off the field.</p>
+<p></p>
+<p><strong>Current coach:</strong> Mr Bhushan Doshi&nbsp;
+<br>
+</p>
+<p><strong>Teachers:&nbsp;</strong>
+</p>
+<p>Mr Taufiq,&nbsp;</p>
+<p>Mr Ng Jin Rong,&nbsp;</p>
+<p>Mr Kelvin Chan</p>
