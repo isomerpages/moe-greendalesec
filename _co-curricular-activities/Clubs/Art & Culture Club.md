@@ -20,6 +20,10 @@ while working together to add vibrancy and highlight the themes for our
 various school celebrations. Through weekly sessions, members get to brainstorm
 and share ideas, see their creations take shape and take pride in the appreciation
 of their efforts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/art_club_photo_2.jpg">
+</div>
 <p>We curate workshops that are conducted by qualified professionals which
 help to develop cultural/social awareness while exploring the creative
 significance of the visible art forms. Among the workshops conducted in
