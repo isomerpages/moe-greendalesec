@@ -679,7 +679,6 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <h4><strong>Secondary 5</strong></h4>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -741,23 +740,6 @@ alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
