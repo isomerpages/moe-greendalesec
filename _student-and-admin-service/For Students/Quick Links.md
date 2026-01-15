@@ -43,6 +43,10 @@ variant: tiptap
 <p><a href="/files/Release_of_2024_O_Level_Results_Admin_Briefing_Slides_10Jan25.pdf" rel="noopener noreferrer nofollow" target="_blank">Release of 2025 GCE N-Level Re</a>
 <a href="/files/2025_GCE_N_Level_Results_Release.pdf" rel="noopener nofollow" target="_blank">sults</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Release_of_2025_O_Level_Results_Briefing_Slides_14Jan_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Release of 2025 GCE O-Level Results</a>
+</p>
 <p></p>
 </li>
 </ul>
