@@ -855,12 +855,12 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons </strong>are to
 respond through Parents Gateway or complete an opt-out form that is available
-<a href="/files/ANNEX_A_Parents_Opt_out_form_for_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>a and submit to the school by 13<sup>th</sup> Feb 2026.</p>
+<a href="/files/ANNEX_A_Parents_Opt_out_form_for_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>, and submit to the school by 13<sup>th</sup> Feb 2026.</p>
 <p></p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> Programme </strong>are to respond
 through Parents Gateway or complete an opt-out form that is available
-<a href="/files/ANNEX_B_eTeens_for_Secondary_Schools_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>a and submit to the school by 13<sup>th</sup> Feb 2026.</p>
+<a href="/files/ANNEX_B_eTeens_for_Secondary_Schools_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>, and submit to the school by 13<sup>th</sup> Feb 2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at +65 6315 8616 or <a rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
