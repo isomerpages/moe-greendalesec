@@ -223,8 +223,9 @@ etc.)</p>
 <p></p>
 <h4><strong>Secondary 2</strong></h4>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -238,6 +239,10 @@ etc.)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Lesson Title/ Duration</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -268,7 +273,37 @@ etc.)</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Role for Everyone</p>
+<p>Lesson 1</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focus on how the family, culture and society can influence
+one’s perception of their gender roles. Students will learn what gender
+stereotypes are (e.g. males traditionally as breadwinners and females traditionally
+as doing household chores) and how gender stereotypes are formed. &nbsp;Students
+will discuss how one’s understanding of gender roles should not be limited
+by gender stereotypes, for example women can be pilots, while men can be
+nurses.</p>
+<p>&nbsp;</p>
+<p>Students learn to focus on their personal strengths to pursue their interests
+and build their self- confidence.</p>
+<p>&nbsp;</p>
+<p>Students will also learn about the definitions of biological sex, gender
+identity, gender expression and sexual orientation. They will learn to
+treat everyone with respect and empathy.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -300,8 +335,14 @@ as a male or female</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
