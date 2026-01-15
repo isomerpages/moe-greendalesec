@@ -104,10 +104,11 @@ which are of prime concern at this age.</p>
 <p><strong>Lesson Overview</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives</p>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
 <p>At the end of the lesson, students will be able to:</p>
-</th>
+</td>
 <th rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
@@ -116,7 +117,7 @@ which are of prime concern at this age.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,9 +159,6 @@ in dating vary among individuals</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Being Aware, Being Safe</p>
 <p>Lesson 2</p>
 <p>(60 mins)</p>
@@ -185,9 +183,6 @@ self-concept</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>More than Meets the Eye</p>
 <p>Lesson 3</p>
@@ -221,6 +216,73 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Secondary 2</strong></h4>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Unit</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
