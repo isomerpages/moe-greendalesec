@@ -270,7 +270,7 @@ etc.)</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
+<p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -855,7 +855,7 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons </strong>are to
 respond through Parents Gateway or complete an opt-out form that is available
-<a href="/files/ANNEX_A_Parents_Opt_out_form_for_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>and submit to the school by 13<sup>th</sup> Feb 2026.</p>
+<a href="/files/ANNEX_A_Parents_Opt_out_form_for_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>a and submit to the school by 13<sup>th</sup> Feb 2026.</p>
 <p></p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> Programme </strong>are to respond
