@@ -5,72 +5,64 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<h3><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sexuality Education (SEd) in schools aims to enable students to understand
-the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships with others, including
-those with members of the opposite sex, and make wise, informed and responsible
-decisions on sexuality matters. SEd is premised on the importance of the
-family as the basic unit of society. This means encouraging healthy, heterosexual
-marriages and stable nuclear family units with extended family support.
-The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
-<p></p>
-</li>
-<li>
-<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
-<p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
-<p></p>
-</li>
-<li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
-</li>
-</ol>
-<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<h2><strong>MOE Sexuality Education in Schools</strong></h2>
+<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+(SEd) in schools aims to enable students to understand the physiological,
+social and emotional changes they experience as they mature, develop healthy
+and rewarding relationships with others, including those with members of
+the opposite sex, and make wise, informed and responsible decisions on
+sexuality matters. SEd is premised on the importance of the family as the
+basic unit of society. This means encouraging healthy, heterosexual marriages
+and stable nuclear family units with extended family support. The teaching
+and learning of SEd is based on respect for the values and beliefs of the
+different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+Sexuality Education are to:</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+students in managing their physiological, social and emotional changes
+as they grow up and develop safe and healthy relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
+to make wise, informed and responsible decisions on sexuality matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+develop a moral compass and respect for themselves and others by having
+positive mainstream values and attitudes about sexuality that are premised
+on the family as the basic unit of society.</p>
+<p>&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
+relationships based on love and respect (which are the foundation for strong
+families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>Abstinence before marriage is the best protection against STIs/HIV and
+unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones</p>
+<p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview of Greendale Secondary School’s Sexuality Education Programme for 2025</strong></h4>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>Sexuality Education is delivered in a holistic manner through the school
-curriculum. The content for Sexuality Education is grouped into five main
-themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information on the scope of Sexuality Education in the school curriculum.</p>
+<h4><strong>Overview of GREENDALE Secondary School’s Sexuality Education Programme for 2026</strong></h4>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+is delivered in a holistic manner through the school curriculum. The content
+for Sexuality Education is grouped into five main themes: Human Development,
+Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
+Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for more
+information on the scope of Sexuality Education in the school curriculum.</p>
 <p></p>
-</li>
-<li>
-<p>The subjects that incorporate topics on sexuality include:
-<br>a. Science
-<br>b. Character and Citizenship Education (CCE)</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
+topics on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+<p></p>
 <h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
-</li>
-</ol>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p>The values and attitudes of our youth towards sexuality are increasingly
-shaped by their peers, exposure to the media, popular culture and the internet.
-Adolescence is a complex stage in life as the adolescent attempts to find
-his/her own identity and often struggles with new social relationships.
-The period of middle adolescence (generally from 15 – 17 years old) can
-be a turbulent period for adolescents. The gap between physical and emotional/cognitive
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes
+of our youth towards sexuality are increasingly shaped by their peers,
+exposure to the media, popular culture and the internet. Adolescence is
+a complex stage in life as the adolescent attempts to find his or her own
+identity and often struggles with new social relationships. The period
+of middle adolescence (generally from 15 – 17 years old) can be a turbulent
+period for adolescents. The gap between physical and emotional/cognitive
 maturity may result in a tendency to act on impulse, experiment with various
 activities (including sexual activities), sometimes without understanding
 the unpleasant consequences that may arise from such experimentation. The
@@ -79,17 +71,17 @@ ability to act responsibly.&nbsp; Given the pressures faced by the middle
 adolescent from within themselves and from peers, it is important to build
 a strong sense of self-worth, personal conviction and an understanding
 of the possible consequences of sexual behaviour.</p>
+<p>&nbsp;</p>
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality
+Education lessons, secondary students will have the opportunity to develop
+a positive self-esteem, develop their character, and expand their understanding
+and repertoire of skills to deal with various issues related to sexuality,
+which are of prime concern at this age.</p>
 <p></p>
-</li>
-<li>
-<p>Through the Sexuality Education lessons, secondary students will have
-the opportunity to develop a positive self-esteem, develop their character,
-and expand their understanding and repertoire of skills to deal with various
-issues related to sexuality, which are of prime concern at this age.</p>
+<h4><strong>At GREENDALE Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h4>
 <p></p>
-</li>
-</ol>
-<h4><strong>At Greendale Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<h4><strong>&nbsp;Secondary 1</strong></h4>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -100,35 +92,29 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="5">
-<p><strong>Secondary 1</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Unit</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Lesson Title / Duration</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Lesson Overview</strong>
 </p>
-</td>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>(e.g.Term 1 Week 2)</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
@@ -146,8 +132,6 @@ will have the opportunity to better understand the considerations involved
 in making responsible decisions towards dating and romantic relationships
 and understand how to build healthy and supportive relationships, both
 online and offline.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -160,7 +144,7 @@ in helpful ways that are reflective of our values and principles</p>
 romantic love)</p>
 </li>
 <li>
-<p>recognise the importance and understand what builds healthy and supportive
+<p>recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
@@ -170,7 +154,7 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -185,22 +169,17 @@ sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
 of self.&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -227,18 +206,23 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences</p>
 </li>
+<li>
+<p>recognise that there are moral and legal consequences of risky sexual
+behaviours, pornography access and acting irresponsibly or maliciously
+when online (e.g. spreading of online falsehoods, flouting copyright laws,
+etc.)</p>
+</li>
 </ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise that there are moral and
-legal consequences of risky sexual behaviours, pornography access and acting
-irresponsibly or maliciously when online (e.g. spreading of online falsehoods,
-flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>Secondary 2</strong></h4>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -249,44 +233,47 @@ flouting copyright laws, etc.)</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="5">
-<p><strong>Secondary 2</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Unit</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Lesson Overview</strong>
 </p>
-</td>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
+<th rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
 </td>
+</tr>
+</tbody>
+</table>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
+</th>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>Respectful Relationships &amp; Safety</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A Role for Everyone</p>
-<p>Lesson 1</p>
-<p>(60&nbsp; mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
@@ -319,16 +306,15 @@ as a male or female</p>
 <p>understand what sexual orientation entails</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Safety Challenge</p>
-<p>Lesson 2A</p>
-<p>(60 mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on the issue of online grooming and cyber-flashing.
@@ -340,7 +326,6 @@ and safety.</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -368,8 +353,8 @@ will learn the importance of respecting one another’s boundaries in relationsh
 This lesson emphasises the importance of responsible decision-making, the
 value of sexual abstinence, the need for help seeking. Students will be
 aware of Singapore laws protecting minors, such as the legal consequences
-of having sex with a minor, abortion and the abandonment of babies.&nbsp;</p>
-<p>&nbsp;</p>
+of having sex with a minor, abortion and the abandonment of babies.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -383,13 +368,16 @@ exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 4 Week 1</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Secondary 3</strong></h4>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -400,24 +388,18 @@ both offline and online</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="5">
-<p><strong>Secondary 3</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Unit</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Title/ Duration</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Lesson Overview</strong>
 </p>
-</td>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
@@ -426,12 +408,12 @@ both offline and online</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>(e.g.Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -447,7 +429,6 @@ well-being as well as relationships with others. Students will also learn
 how emotional reactions can affect relationships positively or negatively.
 Students will also learn that maturity and readiness are important when
 entering into a dating relationship.&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -460,15 +441,17 @@ offline</p>
 <p>understand that expectations of oneself and others may differ and can
 affect one’s emotions, thoughts and behaviours</p>
 </li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p>recognise what healthy dating relationships involve and know that readiness
 is important when entering into a dating relationship</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 1</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -478,32 +461,42 @@ is important when entering into a dating relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
+a breakup and know that relationship-building involves personal emotions
 and vulnerabilities, and changes and challenges. Students will also learn
 that a decision to end a relationship will have consequences on oneself
 and others, and that grief and loss due to rejections and broken relationships
 is normal and that one can recover from the experience. They will learn
 that there are healthy ways of coping with breakdowns in relationships
 and that family and friends are important pillars of support.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that relationship-building
-involves personal emotions and vulnerabilities, and changes and challenges</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that a decision
-to end a relationship will have consequences on oneself and others</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know that grief and
-loss due to rejections and broken relationships is normal and one can recover
-from the experience</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; know there are healthy
-ways of coping with broken relationships, and family and friends are important
-pillars of support</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>now that relationship-building involves personal emotions and vulnerabilities,
+and changes and challenges</p>
+</li>
+<li>
+<p>know that a decision to end a relationship will have consequences on oneself
+and others</p>
+</li>
+<li>
+<p>know that grief and loss due to rejections and broken relationships is
+normal and one can recover from the experience</p>
+</li>
+<li>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>When Respect Takes Centre Stage</p>
 <p>Lesson 2</p>
@@ -535,11 +528,13 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 1 Week 10</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Secondary 4</strong></h4>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -550,24 +545,18 @@ alignment with our beliefs</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="5">
-<p><strong>Secondary 4</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Unit</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Title</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Lesson Overview</strong>
 </p>
-</td>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
@@ -576,17 +565,18 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
+<p><strong>(e.g.Term 1 Week 2)</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Levelling the Ground Lesson 1</p>
 <p>(60 mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students think critically about gender stereotypes
@@ -610,11 +600,9 @@ one’s experiences, cause harm to the self-esteem of oneself and others
 and should be avoided</p>
 </li>
 </ul>
-<p><em>&nbsp;</em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -622,6 +610,7 @@ and should be avoided</p>
 <p>When Love Hurts</p>
 <p>Lesson 2</p>
 <p>(60 mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson aims to help students recognise unhealthy relationships and
@@ -633,7 +622,7 @@ one can get out of such a relationship safely. Students will learn when,
 where and how to seek help from trusted adults (e.g. family, teachers,
 school counsellors) in the supportive environment that they have if they
 or their friends are involved in an unhealthy relationship.</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -646,60 +635,17 @@ and friends are important pillars of support</p>
 and dating violence, and understand the physiological and psychological,
 social impact on victims</p>
 </li>
-<li>
-<p>understand that we need moral courage and wisdom to recognise and end
-relationships that are unhealthy and cause harm to our mental and emotional
-well-being</p>
-</li>
-<li>
-<p>understand the importance of ensuring that non-verbal messages match with
-verbal ones, when communicating personal and emotional boundaries in a
-relationship</p>
-</li>
 </ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand that we need
+moral courage and wisdom to recognise and end relationships that are unhealthy
+and cause harm to our mental and emotional well-being</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand the importance
+of ensuring that non-verbal messages match with verbal ones, when communicating
+personal and emotional boundaries in a relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For Better or For Worse</p>
-<p>Lesson 3</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on building a positive relationship with one’s partner
-in a marriage. Students will understand that while a marriage, defined
-in Singapore as a union between a man and a woman, requires mutual commitment
-and effort like the other relationships in their lives, what sets a marriage
-apart is its lifelong commitment. Students will learn that what really
-matters to sustain and maintain a long-term romantic relationship leading
-to marriage is understanding the other person’s perspective and effectively
-communicating with each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>know that long-term romantic relationships leading to marriage involve
-understanding oneself and others in the intellectual, emotional, social
-and moral dimensions</p>
-</li>
-<li>
-<p>know that marriage entails a union between a man and a woman based on
-love, trust, commitment, and requires mutual effort</p>
-</li>
-<li>
-<p>understand that conflicts are normal in any relationship, including marriage,
-and the way in which a couple handles conflict is critical to the success
-of their marriage</p>
-</li>
-</ul>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -707,6 +653,7 @@ of their marriage</p>
 <p>There’s Always More to a Story</p>
 <p>Lesson 4</p>
 <p>(60 mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will revisit the impact of pornography and deepen
@@ -731,6 +678,8 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Secondary 5</strong></h4>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -741,35 +690,27 @@ alignment with our beliefs</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="5">
-<p><strong>Secondary 5</strong>
+<th rowspan="1" colspan="1">
+<p>Unit</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Title</strong>
 </p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Unit</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lesson Title / Duration</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Lesson Overview</strong>
 </p>
-</td>
+</th>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Time Period</p>
+<p>(e.g.Term 1 Week 2)</p>
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -778,7 +719,7 @@ alignment with our beliefs</p>
 <td rowspan="1" colspan="1">
 <p>This is Where I Draw the Line</p>
 <p>(60 mins)</p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will understand that different individuals have
@@ -788,7 +729,6 @@ of showing respect to the opposite sex by using appropriate words and actions.
 Students will examine personal boundaries from different perspectives and
 learn the importance of making sound values-based decisions and acting
 in consideration of the well-being of themselves and others.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -800,30 +740,48 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
-<ol start="8">
-<li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
-</li>
-<li>
-<p>Students are taught skills such as decision-making, assertiveness and
-negotiation to say “no” to sex and negative peer pressure. They also learn
-that the impact of STIs/HIV extends beyond themselves and involves their
-family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.</p>
-</li>
-</ol>
-<h4><strong>At Greendale Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong></h4>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
+programme that was developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. <em>eTeens</em> is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
+skills such as decision-making, assertiveness and negotiation to say “no”
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family, and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.</p>
+<p><strong>At GREENDALE Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
+</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -832,20 +790,20 @@ Abstinence and upholding family values are the key messages.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Topics/Lessons</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Programme Learning Objectives</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
 <p><strong>(e.g. Term 3 Week 9)</strong>
 </p>
-</td>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -855,15 +813,21 @@ Abstinence and upholding family values are the key messages.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
 </li>
 </ul>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
@@ -879,37 +843,25 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 1</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong>Sexuality Education lessons </strong>are to
+respond through Parents Gateway or complete an opt-out form that is available
+<a href="/files/ANNEX_A_Parents_Opt_out_form_for_SEd_Lessons_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>and submit to the school by 13<sup>th</sup> Feb 2026.</p>
 <p></p>
-<p><strong>Information for Parents</strong>
-</p>
-<ol start="10" data-tight="true" class="tight">
-<li>
-<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
-supplementary sexuality education programs by MOE-approved external providers.</p>
-<p></p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://form.gov.sg/677f440d999ce3dc3fd6838a" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
-form is to be submitted by 31/01/2025.</p>
-<p></p>
-</li>
-<li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="https://form.gov.sg/677f44997e69fe74e838438d" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 31/01/2025.</p>
-<p></p>
-</li>
-<li>
-<p>Parents can contact the school at <a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a> for discussion
-or to seek clarification about the school’s Sexuality Education programmes.</p>
-</li>
-</ol>
-<p></p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong><em>eTeens</em> Programme </strong>are to respond
+through Parents Gateway or complete an opt-out form that is available
+<a href="/files/ANNEX_B_eTeens_for_Secondary_Schools_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>and submit to the school by 13<sup>th</sup> Feb 2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at +65 6315 8616 or <a rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
