@@ -273,20 +273,10 @@ etc.)</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A Role for Everyone</p>
 <p>Lesson 1</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>mins)</p>
+<p>(60 mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
@@ -327,6 +317,9 @@ as a male or female</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Online Safety Challenge</p>
+<p>Lesson 2A</p>
+<p>(60 mins)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
