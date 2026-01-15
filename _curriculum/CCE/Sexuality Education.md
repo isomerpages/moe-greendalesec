@@ -673,12 +673,194 @@ alignment with our beliefs</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Better or For Worse</p>
-<p>Lesson 3</p>
+<p>Term 3 Week 5</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Secondary 5</strong></h4>
+<p></p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Unit</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Title</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Objectives</strong>
+</p>
+<p>At the end of the lesson, students will be able to:</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Time Period</p>
+<p>(e.g.Term 1 Week 2)</p>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respectful Relationships &amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This is Where I Draw the Line</p>
 <p>(60 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>In this lesson, students will understand that different individuals have
+different emotional and physical boundaries. This lesson highlights the
+need to respect the boundaries of others and reinforces the importance
+of showing respect to the opposite sex by using appropriate words and actions.
+Students will examine personal boundaries from different perspectives and
+learn the importance of making sound values-based decisions and acting
+in consideration of the well-being of themselves and others.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
+programme that was developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. <em>eTeens</em> is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
+skills such as decision-making, assertiveness and negotiation to say “no”
+to sex and negative peer pressure. They also learn that the impact of STIs/HIV
+extends beyond themselves and involves their family, and the importance
+of responsible decision-making and seeking help. Abstinence and upholding
+family values are the key messages.</p>
+<p><strong>At GREENDALE Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
+</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Topics/Lessons</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Programme Learning Objectives</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+<p><strong>(e.g. Term 3 Week 9)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mass Talk delivered through a pre-recorded video</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:</p>
+</li>
+</ul>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Classroom-based Lesson</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Week 9</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
+out of the Sexuality Education lessons, <em>eTeens</em> and/or supplementary
+sexuality education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong>Sexuality Education lessons </strong>are to
+respond through Parents Gateway or complete an opt-out form that is available
+<a href="/files/ANNEX_A_Parents_Opt_out_form_for_SEd_Lessons_2026.pdf" rel="noopener nofollow" target="_blank">here</a>and submit to the school by 13<sup>th</sup> Feb 2026.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
+children out of the <strong><em>eTeens</em> Programme </strong>are to respond
+through Parents Gateway or complete an opt-out form that is available
+<a href="/files/ANNEX_B_eTeens_for_Secondary_Schools_2026.pdf" rel="noopener nofollow" target="_blank">here</a>and submit to the school by 13<sup>th</sup> Feb 2026.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at +65 6315 8616 or <a rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
