@@ -246,7 +246,21 @@ etc.)</p>
 <p>At the end of the lesson, students will be able to:</p>
 </td>
 <th rowspan="1" colspan="1">
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time Period</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>(e.g.Term 1 Week 2)</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -257,10 +271,23 @@ etc.)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>know that one’s understanding of gender roles should not be limited by
+gender stereotypes</p>
+</li>
+<li>
+<p>develop an appreciation of one’s own unique qualities and characteristics
+as a male or female</p>
+</li>
+<li>
+<p>understand what sexual orientation entails</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
