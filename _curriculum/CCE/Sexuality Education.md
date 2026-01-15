@@ -80,8 +80,7 @@ which are of prime concern at this age.</p>
 <p></p>
 <h4><strong>At GREENDALE Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong></h4>
 <p></p>
-<p><strong>&nbsp;Secondary 1</strong>
-</p>
+<h4><strong>&nbsp;Secondary 1</strong></h4>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -221,7 +220,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
