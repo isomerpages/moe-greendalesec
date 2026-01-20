@@ -38,11 +38,12 @@ school.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">Download Application Form</a>
+<p><a href="/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf" rel="noopener nofollow" target="_blank">Download Applicafiletion Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declaration Form</a>
+<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declarati</a>
+<a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">on Form</a>
 </p>
 </li>
 </ul>
