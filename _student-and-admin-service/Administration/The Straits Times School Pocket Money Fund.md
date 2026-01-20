@@ -42,8 +42,7 @@ school.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declarati</a>
-<a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">on Form</a>
+<p><a href="/files/Annex_B___Income_declaration_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Income Declaration Form</a>
 </p>
 </li>
 </ul>
