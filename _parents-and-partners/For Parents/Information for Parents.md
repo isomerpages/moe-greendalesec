@@ -90,7 +90,7 @@ the application form.</p>
 </li>
 <li>
 <p>The Straits Times School Pocket Money Fund</p>
-<p>Application for 2026 is closed.</p>
+<p>Applications for 2026 are open.</p>
 <p>👉 Click <a href="/student-admin-services/administration/the-straits-times-school-pocket-money-fund/" rel="noopener nofollow" target="_blank">here</a> for
 more information.</p>
 <p></p>
