@@ -1,5 +1,5 @@
 ---
-title: National Cadet Corps
+title: National Cadet Corps (NCC) Air
 permalink: /curriculum/co-curriculum/ccas/ugs/national-cadet-corps-ncc/
 description: ""
 third_nav_title: Uniformed Groups
