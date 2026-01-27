@@ -416,10 +416,16 @@ to:&nbsp;<a href="https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html" rel=
 <p>For information about Direct-Entry-Scheme to Polytechnic Programme (DPP),
 please refer to:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/dpp</a>
 </p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/dreamdale-gdls" rel="noopener noreferrer nofollow" target="_blank">Dreamdale ECG website</a>
+<p>Last, but not least, our very own <strong><em><a href="https://go.gov.sg/dreamdale-gdls" rel="noopener noreferrer nofollow" target="_blank">Dreamdale ECG website</a></em></strong>
 </p>
 </li>
 </ul>
+<p>Greendale Secondary School’s one-stop information on ECG matters. Students
+can use the site to do interview simulations, search for post-secondary
+courses, view sample post-secondary applications write-ups and view virtual
+school tours.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/interview_ex.png">
+</div>
 <p></p>
