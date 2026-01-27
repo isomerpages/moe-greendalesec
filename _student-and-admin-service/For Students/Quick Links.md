@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/gdlssecg" rel="noopener noreferrer nofollow" target="_blank">Appointment to see the ECG Counsellor - Ms Adeline Ng</a>
+<p><a href="https://go.gov.sg/gdlssecg" rel="noopener noreferrer nofollow" target="_blank">Appointment to see the ECG Counsellor</a>
 </p>
 </li>
 <li>
