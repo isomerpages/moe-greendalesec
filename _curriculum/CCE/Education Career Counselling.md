@@ -191,7 +191,7 @@ Students will hear from 2 different professional speakers of their choice.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GDLSAlumni1.jpg">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/GDLSAlumni1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -268,7 +268,7 @@ make informed decisions about their post-secondary education pathways.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITE1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ITE1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -312,7 +312,7 @@ life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/WE1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -325,14 +325,16 @@ life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE3.jpg">
 </div>
+<p>Students present their learning to their peers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WE4.jpg">
 </div>
 </td>
 </tr>
@@ -340,12 +342,14 @@ life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE.jpg">
 </div>
+<p>Students complete their reflections on Padlet</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h5>ECG Counselling Service</h5>
 <p>Our ECG Counsellor, Mr Marcus Wong, supports students (individually or
 in small groups) by exploring their interests and strengths, and addressing
