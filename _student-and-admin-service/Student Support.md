@@ -21,7 +21,7 @@ impairments studying in mainstream schools.</p>
 <h3>Education &amp; Career Guidance Counsellor</h3>
 <p>Our ECG counsellor helps students at schools, polytechnics and ITE explore
 their strengths, interest and aspirations. Through conversations with the
-students, she support students in achieving their post-secondary aspirations.</p>
+students, he support students in achieving their post-secondary aspirations.</p>
 <h3>Student Health Advisor</h3>
 <p>The SHA is a qualified and trained nurse stationed in selected secondary
 schools. Our SHA provides advice and guidance for the students with health-related
