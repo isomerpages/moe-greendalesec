@@ -240,7 +240,7 @@ to possible classifications such as ‘Safe’ World, ‘Connected’ World, ‘
 World etc., using Career Cards.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/worlds1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/worlds1.jpg">
 </div>
 <h3><strong>Experience ITE Programme</strong></h3>
 <p>Institute of Technical Education (ITE) organises a full-day <strong>Experience ITE Programme (EIP)</strong> for
@@ -342,7 +342,7 @@ life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/WE.jpg">
 </div>
 <p>Students complete their reflections on Padlet</p>
 </td>
@@ -350,6 +350,10 @@ life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wep2025.png">
+</div>
 <h5>ECG Counselling Service</h5>
 <p>Our ECG Counsellor, Mr Marcus Wong, supports students (individually or
 in small groups) by exploring their interests and strengths, and addressing
