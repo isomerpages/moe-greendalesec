@@ -256,20 +256,53 @@ our</p>
 <p>Through this programme, students will tour the ITE campus and gain an
 overview of its programmes and courses. This experience aims to help students
 make informed decisions about their post-secondary education pathways.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/ecg3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITE1.jpg">
 </div>
-<h3>Work Attachment Programme</h3>
-<p>The Work Attachment Programme is a 5-day work-readiness</p>
-<p>programme designed to increase students’ understanding of the skills needed
-in the workplace. Students learn how to research options, and acquire new
-skills that are necessary to pursue a career, such as preparing a portfolio.
-The work attachment experience also enhances the students’ future education
-or career prospects.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ecg4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITE2.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITE3.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ITE4.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h3><strong>Work Experience Programme</strong></h3>
+<p>The Work Experience Programme is a 5-day experiential learning opportunity
+designed for <strong>Secondary 3 students</strong> to deepen their understanding
+of the skills needed by professionals in the workplace. The objective of
+the programme is for students to discover their strengths and acquire new
+skills that are necessary to pursue their dream careers in industries of
+their choice. Students who applied are selected based on interviews and
+recommendations from their Class Mentors and Year Heads, and are assigned
+to different organisations to experience different professions in real
+life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
+<p></p>
 <h5>ECG Counselling Service</h5>
 <p>Our ECG Counsellor, Mr Marcus Wong, supports students (individually or
 in small groups) by exploring their interests and strengths, and addressing
