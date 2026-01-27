@@ -177,21 +177,86 @@ Students will hear from 2 different professional speakers of their choice.</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<p>Greendale Alumni students, sharing as working adults</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GDLSAlumni1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GDLSAlumni2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 </tbody>
 </table>
+<p><strong>Keynote speakers</strong> – Speakers from Singapore Institute of
+Management and Creative Director for NDP 2025 were invited to share about
+STEM and events planning experiences to all Secondary 3 students.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
-<h3>Experience Poly / ITE Programme</h3>
-<p>Students spent a few days immersing themselves in one of the Poly / ITE
-courses to get a taste of life as a Poly/ITE student and experience the
-facilities offered.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/keynote1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/keynote2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Worlds Lesson</strong> – students classify different careers according
+to possible classifications such as ‘Safe’ World, ‘Connected’ World, ‘Healthy
+World etc., using Career Cards.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/worlds1.jpg">
+</div>
+<h3><strong>Experience ITE Programme</strong></h3>
+<p>Institute of Technical Education (ITE) organises a full-day <strong>Experience ITE Programme (EIP)</strong> for
+our</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 3 students taking Normal (Academic) subjects and</p>
+</li>
+<li>
+<p>Secondary 2 students taking more subjects at G2.</p>
+</li>
+</ul>
+<p>Through this programme, students will tour the ITE campus and gain an
+overview of its programmes and courses. This experience aims to help students
+make informed decisions about their post-secondary education pathways.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/ecg3.png">
 </div>
