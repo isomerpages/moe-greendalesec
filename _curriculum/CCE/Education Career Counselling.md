@@ -302,7 +302,50 @@ their choice. Students who applied are selected based on interviews and
 recommendations from their Class Mentors and Year Heads, and are assigned
 to different organisations to experience different professions in real
 life over 1 week in the 1<sup>st</sup> week of November yearly.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WE4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>ECG Counselling Service</h5>
 <p>Our ECG Counsellor, Mr Marcus Wong, supports students (individually or
 in small groups) by exploring their interests and strengths, and addressing
