@@ -22,10 +22,10 @@ so that they will continually learn and add value to their future workplace.</p>
 </li>
 <li>
 <p>Inculcate an appreciation for the value of all occupations and how they
-contribute to the well-functioning of the society.</p>
+contribute to the well-functioning of society.</p>
 </li>
 </ul>
-<h3>GDLSS ECG Framework</h3>
+<h3><strong>GDLSS ECG Framework</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -97,14 +97,59 @@ contribute to the well-functioning of the society.</p>
 </tr>
 </tbody>
 </table>
-<h3>Careers Day</h3>
-<p>The objective of the Careers Day is to inspire the Sec 3 students to explore
-career paths and post-secondary education options. Students attend talks
-by guest speakers from a wide variety of industries in the morning and
-visit post-secondary education institutes or industries in the afternoon.</p>
+<h3><strong>Careers Day for Secondary 3 students</strong></h3>
+<p><strong>To provide a platform for students to explore post-secondary options through:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>listening to alumni, currently in post-secondary institutions</p>
+</li>
+<li>
+<p>exploring possible pathways that they can consider after listening to
+alumni sharing;&nbsp;</p>
+</li>
+<li>
+<p>exploring the work-related simulators;</p>
+</li>
+<li>
+<p>gathering information from listening to the professional sharing on two
+careers of choice;</p>
+</li>
+<li>
+<p>Understanding the different ideal worlds that can apply to careers of
+interest via the CCE Worlds lesson.</p>
+</li>
+</ul>
+<p><strong>Alumni sharing</strong> – via gathering according to stream and
+listening together online from our alumi students about their current post-secondary
+institutions, format of education after secondary school and how they applied.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/image19.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Attending professional sharing</strong> – professionals come to
+Greendale Secondary to share about their working life to our students.
+Students will hear from 2 different professional speakers of their choice.</p>
+<p></p>
 <h3>Experience Poly / ITE Programme</h3>
 <p>Students spent a few days immersing themselves in one of the Poly / ITE
 courses to get a taste of life as a Poly/ITE student and experience the
