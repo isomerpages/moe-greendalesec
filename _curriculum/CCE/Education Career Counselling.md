@@ -382,12 +382,12 @@ online via the e-portal:&nbsp;<a href="https://www.myskillsfuture.gov.sg/content
 </div>
 <h3>ECG Guide for Parents</h3>
 <p>Parents who would like some tips and advice on supporting your child in
-his/her key education stages, may read the e-publication titled “<a href="http://www.moe.gov.sg/microsites/ecg-parent-guide" rel="noopener noreferrer nofollow" target="_blank">Journeying with Our Children, Achieving their Aspirations</a>”.</p>
+his/her key education stages, may read the e-publication titled “<a href="https://www.myskillsfuture.gov.sg/content/dam/Article/12806_MOE_Parent Guide 2021.pdf" rel="noopener noreferrer nofollow" target="_blank">journeying with our children</a>”.</p>
 <h3>Some Useful Links</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>To find out more about MOE’s ECG curriculum, please refer to this link:
-<br><a href="https://www.moe.gov.sg/programmes/education-and-career-guidance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/programmes/education-and-career-guidance</a>
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview" rel="noopener noreferrer nofollow" target="_blank">Overview of Education and Career Guidance | MOE</a>
 </p>
 </li>
 <li>
