@@ -1,6 +1,6 @@
 ---
-title: Education Career Counselling
-permalink: /curriculum/character-citizenship-education/education-career-counselling/
+title: Education and Career Guidance
+permalink: /curriculum/character-citizenship-education/education-career-guidance/
 description: ""
 third_nav_title: CCE
 variant: tiptap
