@@ -19,10 +19,10 @@ sections:
       title: Greendale Secondary
       button: Click here for Principal's Address
   - infopic:
-      title: INSPIRING TEACHER OF ENGLISH AWARD 2026
+      title: Inspiring Teacher Of English Award 2026
       subtitle: Greendale secondary school
       id: infopic
-      description: INVITATION FOR NOMINATIONS
+      description: Invitation For Nominations
       button: Click here
       url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
       image: /images/Inspiring_teacher_of_english_award_2026.jpg
