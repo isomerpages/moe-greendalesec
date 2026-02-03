@@ -43,7 +43,7 @@ that are respectful and civil to help us improves our services.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhamad Iskandar Sarkawai</p>
+<p>Mr Md Iskandar Sarkawai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
