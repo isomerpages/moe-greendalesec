@@ -49,7 +49,7 @@ that are respectful and civil to help us improves our services.</p>
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhamad_iskandar_sarkawai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_ariff_abdul_aziz@schools.gov.sg</a>
+<p><a href="mailto:muhamad_iskandar_sarkawai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_iskandar_sarkawai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
