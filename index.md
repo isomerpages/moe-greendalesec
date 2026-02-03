@@ -13,20 +13,19 @@ sections:
         - title: School Facebook
           description: Follow us here for school highlights and event updates!
           url: https://www.facebook.com/GreendaleSec/
-        - title: Release of 2025 O-Level Results
-          description: Click for more information
-          url: /gce-o-level-result/
+        - title: School Instagram
+          description: Find us on social media!
+          url: https://www.instagram.com/greendalesecondaryschool/
       title: Greendale Secondary
       button: Click here for Principal's Address
   - infopic:
-      title: Information for 2026 S1 Students
+      title: Inspiring Teacher Of English Award 2026
       subtitle: Greendale secondary school
       id: infopic
-      description: "Our heartiest welcome! Explore our registration site for key
-        information to kickstart your journey:"
+      description: Invitation For Nominations
       button: Click here
-      url: https://sites.google.com/moe.edu.sg/gdlss1reg2026
-      image: /images/Sec_1_Registration_Sch_Website_Banner.jpg
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/Inspiring_teacher_of_english_award_2026.jpg
       alt: Image alt text
   - infopic:
       title: Principal's Address
@@ -49,7 +48,7 @@ sections:
       button: Parent Support Group Video
       url: /psg-outreach-video/
       alt: Image alt text
-      image: /images/PSG_Pix.jpg
+      image: /images/PSG.jpg
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
