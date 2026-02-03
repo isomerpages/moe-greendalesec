@@ -19,14 +19,13 @@ sections:
       title: Greendale Secondary
       button: Click here for Principal's Address
   - infopic:
-      title: Information for 2026 S1 Students
+      title: INSPIRING TEACHER OF ENGLISH AWARD 2026
       subtitle: Greendale secondary school
       id: infopic
-      description: "Our heartiest welcome! Explore our registration site for key
-        information to kickstart your journey:"
+      description: INVITATION FOR NOMINATIONS
       button: Click here
-      url: https://sites.google.com/moe.edu.sg/gdlss1reg2026
-      image: /images/Sec_1_Registration_Sch_Website_Banner.jpg
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/Inspiring_teacher_of_english_award_2026.jpg
       alt: Image alt text
   - infopic:
       title: Principal's Address
