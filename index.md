@@ -48,7 +48,7 @@ sections:
       button: Parent Support Group Video
       url: /psg-outreach-video/
       alt: Image alt text
-      image: /images/PSG_Pix.jpg
+      image: /images/PSG.jpg
   - infopic:
       title: LEARNERS
       subtitle: "Grow & Glow: The Greendale Way"
