@@ -55,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ashiq Mohamed Elia</p>
+<p>Mr Mohamed Ashiq Mohamed Elias</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal (Admin)</p>
