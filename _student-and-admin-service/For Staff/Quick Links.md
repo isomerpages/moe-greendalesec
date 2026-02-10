@@ -39,6 +39,10 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/gdls-job-request-form" rel="noopener nofollow" target="_blank">Job Request Form</a>
+</p>
+</li>
+<li>
 <p><a href="https://forms.gle/rEjXBEnTKn3tKVEQ7" rel="noopener nofollow" target="_blank">Discipline Reporting Form</a>
 </p>
 </li>
