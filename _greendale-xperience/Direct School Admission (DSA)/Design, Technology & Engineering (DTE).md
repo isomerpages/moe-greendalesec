@@ -37,14 +37,13 @@ robotics clubs, STEM-related workshops or projects)</p>
 <p>Demonstrates good conduct, a resilient character, and teamwork skills.</p>
 </li>
 </ul>
-<p>Applicants who do not have prior experience may also apply.&nbsp;The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants. Note that meeting all the criteria
-does not guarantee that a student will be shortlisted / given an offer.
-Parents will receive notification from Greendale Secondary School by 1
-August 2025 if students have been shortlisted to undergo Direct School
-Admission (DSA) selection. All Applicants will receive their application
-outcomes between 25 Aug and 4 Sep 2025.</p>
+<p>The school will assess applicants based on the selection criteria, which
+may include assessing the potential of the applicants. Note that meeting
+all the criteria does not guarantee that a student will be shortlisted
+/ given an offer. Parents will receive notification from Greendale Secondary
+School by 31 July 2026 if students have been shortlisted to undergo Direct
+School Admission (DSA) selection. All Applicants will receive their application
+outcomes between 24 Aug and 3 Sep 2026.</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a hands-on task or scenario-based activity to assess their aptitude
 and passion for technology and engineering.</p>
@@ -57,7 +56,7 @@ that successful DSA-DTE students can look forward to:</p>
 </div>
 <p>Students accepted under DSA-DTE will be directly allocated to the Robotics
 Club as their Co-Curricular Activity (CCA). This CCA offers many opportunities
-for students to participate in various competitions, such as the <strong>IDE Series (Arduino Maker category)</strong>, <strong>DSTA-DSO-VJC Robotics Challenge</strong>,
+for students to participate in various competitions, such as the <strong>National Youth Tech Championship,</strong>  <strong>IDE Series (Arduino Maker category)</strong>, <strong>DSTA-DSO-VJC Robotics Challenge</strong>,
 and <strong>Drones Odyssey</strong>. Through these competitions and the
 CCA, students will develop their creativity, inventive thinking, design
 thinking, and problem-solving skills.</p>
@@ -73,6 +72,10 @@ thinking, and problem-solving skills.</p>
 </li>
 <li>
 <p><strong>Electronics</strong>
+</p>
+</li>
+<li>
+<p><strong>Arduino coding</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -143,10 +146,28 @@ by the Defence Science Organisation. Students will design and build small
 unpowered, bungee-launched gliders to achieve the farthest and most precise
 flight, demonstrating their creativity and innovation.</p>
 <h3>Highlights - <strong>SIT Community Challenge</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIT_Challenge_Pict_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_10_at_09_49_12.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_02_10_at_09_49_24.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The <strong>SIT Community Challenge</strong>, a signature programme for
 the Secondary 2 cohort, focuses on using <strong>Design Thinking</strong> to
 solve community problems. Through their <strong>Design &amp; Technology</strong> lessons,
@@ -177,9 +198,9 @@ while developing their creativity and collaboration skills.</p>
 <p>Finalists will attend workshops conducted by SIT and its partners to prepare
 for the competition. They will represent the school in the <strong>SIT Community Challenge Finals</strong>,
 where they will present their ideas to judges from community partners such
-as the <strong>Land Transport Authority</strong>, <strong>ST Microelectronics</strong>, <strong>James Dyson Foundation</strong>,
-and SIT. The finals are open to the public, offering students a platform
-to enhance their presentation and communication skills.</p>
+as the <strong>SBS Transit</strong>, <strong>ST Microelectronics</strong> and
+SIT. The finals are open to the public, offering students a platform to
+enhance their presentation and communication skills.</p>
 <h3>How to Apply</h3>
 <p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply/" rel="noopener nofollow" target="_blank">here</a>
 </p>
