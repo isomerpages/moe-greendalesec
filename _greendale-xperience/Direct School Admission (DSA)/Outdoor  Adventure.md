@@ -193,22 +193,25 @@ to combine adventure skills such as navigation, cycling and camp craft.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_3.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_4.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/GaRanG2025_5.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
