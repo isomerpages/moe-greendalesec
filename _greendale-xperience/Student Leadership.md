@@ -36,7 +36,11 @@ Secondary 2 and 3.</p>
 <p>Opportunity to&nbsp;<strong><em>serve and lead</em></strong>&nbsp;school-wide
 events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 <p></p>
+</li>
+</ul>
 <h4>Highlights</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
 <p></p>
