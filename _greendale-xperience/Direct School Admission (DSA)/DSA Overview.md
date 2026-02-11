@@ -25,7 +25,7 @@ School based on their talent in the following 3 areas of talent and achievements
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership3n.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
