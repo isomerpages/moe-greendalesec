@@ -224,11 +224,11 @@ enhance their presentation and communication skills.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership6.jpg">
+<img style="width: 48%;" height="auto" width="100%" alt="" src="/images/Leadership6.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 85%;" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 40%;" height="auto" width="100%" alt="DSA Outdoor" src="/images/LLP_OAE_Photo.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
