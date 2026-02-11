@@ -4,6 +4,7 @@ permalink: /greendale-xperience/student-leadership/
 description: ""
 variant: tiptap
 ---
+<h4>Introduction</h4>
 <p>Leadership is one of the key competencies which the school strives to
 develop in our students. Greendale’s Student Leadership development is
 based on the principles of Servant Leadership, where we aim to groom our
@@ -35,7 +36,30 @@ Secondary 2 and 3.</p>
 <p>Opportunity to&nbsp;<strong><em>serve and lead</em></strong>&nbsp;school-wide
 events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 <p></p>
+</li>
+</ul>
+<h4>Selection</h4>
+<p>DSA selection is a rigorous process.</p>
+<p>Candidates who would like to apply for DSA-Leadership should ideally possess
+the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good conduct and character (at least a VERY GOOD for conduct grade)</p>
+</li>
+<li>
+<p>Leadership experience (at least a Class Leadership role, e.g. Class monitor/Prefect/Peer
+Support Leader)</p>
+</li>
+<li>
+<p>Achievement in good character and leadership (e.g. Edusave Character Award,
+EAGLES (Leadership), attendance at leadership conferences) will be favourably
+considered</p>
+</li>
+</ul>
+<p></p>
 <h4>Highlights</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
 <p></p>
@@ -101,15 +125,9 @@ Below are some of the highlights of opportunities for students to lead.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_camp_1.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_camp_2.jpg">
-</div>
 </th>
 </tr>
 </tbody>

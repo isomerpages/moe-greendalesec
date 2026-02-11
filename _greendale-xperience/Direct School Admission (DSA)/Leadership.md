@@ -9,8 +9,9 @@ variant: tiptap
 <h2>Leadership</h2>
 <p></p>
 <h3></h3>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="DSA Leadership" src="/images/Leadership_Photo_v3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership3.jpg">
 </div>
 <h3>Introduction</h3>
 <p>Leadership is one of the key competencies which the school strives to
@@ -63,22 +64,15 @@ EAGLES (Leadership), attendance at leadership conferences) will be favourably
 considered</p>
 </li>
 </ul>
-<p>Applicants who do not have prior experience may also apply.&nbsp;The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants. Note that meeting all the criteria
-does not guarantee that a student will be shortlisted / given an offer.
-Parents will receive notification from Greendale Secondary School by 31
-July 2026 if students have been shortlisted to undergo Direct School Admission
-(DSA) selection. All applicants will receive their application outcomes
-between 24 Aug and 3 Sep 2026.</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights</h3>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Leadership journey" src="/images/Greendale_Student_Leadership_Journey_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership4.jpg">
 </div>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
@@ -137,13 +131,13 @@ Below are some of the highlights of opportunities for students to lead.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sec 1 camp" src="/images/Sec_1_camp_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership2.jpg">
 </div>
 </th>
 </tr>
@@ -220,36 +214,6 @@ year to have their voices heard. The annual engagement sessions are organised
 by the Student Council, where they have the chance to plan, moderate the
 session, listen to the voices of their peers, and propose ideas to address
 issues raised.</p>
-<p><strong><em>National Education Commemorative Days</em></strong>
-</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Our Student Leaders are involved in advocating key character and citizenship
-education messages and school values. They serve as emcees at various school
-events such as Racial Harmony Day and National Day, and make use of social
-media to share positive messages.</p>
-<p></p>
 <h3>How to Apply</h3>
 <p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
 </p>
