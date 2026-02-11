@@ -220,36 +220,6 @@ year to have their voices heard. The annual engagement sessions are organised
 by the Student Council, where they have the chance to plan, moderate the
 session, listen to the voices of their peers, and propose ideas to address
 issues raised.</p>
-<p><strong><em>National Education Commemorative Days</em></strong>
-</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NE" src="/images/NE_2.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Our Student Leaders are involved in advocating key character and citizenship
-education messages and school values. They serve as emcees at various school
-events such as Racial Harmony Day and National Day, and make use of social
-media to share positive messages.</p>
-<p></p>
 <h3>How to Apply</h3>
 <p>For more information on how to apply for DSA, click <a href="/greendale-xperience/direct-school-admission/dsa-how-to-apply/" rel="noopener nofollow" target="_blank"><u>here</u></a>
 </p>
