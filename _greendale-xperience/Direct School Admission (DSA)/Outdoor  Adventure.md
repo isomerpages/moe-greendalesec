@@ -156,14 +156,80 @@ into lead climbing on sport climbing walls.</p>
 (Secondary 1 and 2) and planning (Secondary 3) or participation in the
 actual Event, a school based adventure race against competitors from other
 schools.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="Garang" src="/images/GaRang_2024_Student_official_with_participants_doing_the_Pacing_activity_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
 can be showcased in a competitive manner. Adventure Race, is open to all
 Secondary Schools island wide. It is a foot race which competitors need
 to combine adventure skills such as navigation, cycling and camp craft.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_3_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Highlights - <strong>National Orienteering Race (Schools) Representation</strong></h3>
 <p>DSA-OA candidates will also have the opportunity to participate in NORS
 against competitors from other schools. The competition will test the participants’
