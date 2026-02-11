@@ -137,13 +137,13 @@ Below are some of the highlights of opportunities for students to lead.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sec 1 camp" src="/images/Sec_1_camp_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sec 1 camp" src="/images/Sec_1_camp_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership2.jpg">
 </div>
 </th>
 </tr>
