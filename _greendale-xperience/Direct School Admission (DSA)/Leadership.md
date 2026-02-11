@@ -78,8 +78,9 @@ in a scenario-based activity as part of the selection process.</p>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Leadership journey" src="/images/Greendale_Student_Leadership_Journey_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership4.jpg">
 </div>
 <p>Below are some of the key programmes successful DSA-Leadership entrants
 can look forward to:</p>
