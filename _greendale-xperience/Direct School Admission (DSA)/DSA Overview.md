@@ -20,16 +20,16 @@ School based on their talent in the following 3 areas of talent and achievements
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering"><img style="width: 100%" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering"><img style="width: 100%;" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership3n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership6.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 100%" height="auto" width="100%" alt="DSA Outdoor Adventure" src="/images/LLP_OAE_Photo_v1.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-outdoor-adventure-education/"><img style="width: 100%;" height="auto" width="100%" alt="DSA Outdoor Adventure" src="/images/LLP_OAE_Photo_v1.jpg"></a>
 </th>
 </tr>
 <tr>
