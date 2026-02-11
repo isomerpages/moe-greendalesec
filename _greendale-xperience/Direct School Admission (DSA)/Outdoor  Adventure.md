@@ -260,12 +260,12 @@ to place every year.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Leadership3.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/"><img style="width: 40%;" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leadership6.jpg">
+</div><a class="isomer-image-wrapper" href="/greendale-xperience/direct-school-admission/dsa-design-technology-engineering/"><img style="width: 40%;" height="auto" width="100%" alt="DSA DTE" src="/images/Pict_7_Arduino_and_3D_printing.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
