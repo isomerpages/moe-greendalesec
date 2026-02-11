@@ -4,6 +4,7 @@ permalink: /greendale-xperience/student-leadership/
 description: ""
 variant: tiptap
 ---
+<h4>Introduction</h4>
 <p>Leadership is one of the key competencies which the school strives to
 develop in our students. Greendale’s Student Leadership development is
 based on the principles of Servant Leadership, where we aim to groom our
