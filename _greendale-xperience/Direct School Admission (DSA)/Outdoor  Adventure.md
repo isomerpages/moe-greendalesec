@@ -152,10 +152,6 @@ to learn how to lead climb and lead belay. This course builds on the top-rope
 skills acquired from SNCS Sport Climbing Level 1 and teaches a progression
 into lead climbing on sport climbing walls.</p>
 <h3>Highlights - <strong>Project GARanG Representation</strong></h3>
-<p>DSA-OA candidates will also have the opportunity to assist in the conduct
-(Secondary 1 and 2) and planning (Secondary 3) or participation in the
-actual Event, a school based adventure race against competitors from other
-schools.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,13 +174,12 @@ schools.</p>
 </tr>
 </tbody>
 </table>
-<p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
-can be showcased in a competitive manner. Adventure Race, is open to all
-Secondary Schools island wide. It is a foot race which competitors need
-to combine adventure skills such as navigation, cycling and camp craft.</p>
-<table style="minWidth: 75px">
+<p>DSA-OA candidates will also have the opportunity to assist in the conduct
+(Secondary 1 and 2) and planning (Secondary 3) or participation in the
+actual Event, a school based adventure race against competitors from other
+schools.</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -202,31 +197,40 @@ to combine adventure skills such as navigation, cycling and camp craft.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_4.jpg">
 </div>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/GaRanG2025_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_5.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
+</tbody>
+</table>
+<p>Project GARanG is a platform where Outdoor Adventure Education (OAE) skills
+can be showcased in a competitive manner. Adventure Race, is open to all
+Secondary Schools island wide. It is a foot race which competitors need
+to combine adventure skills such as navigation, cycling and camp craft.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_6.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GaRanG2025_7.jpg">
+</div>
+</th>
 </tr>
 </tbody>
 </table>
