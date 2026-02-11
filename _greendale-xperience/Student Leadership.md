@@ -38,6 +38,25 @@ events&nbsp;such as Orientation Camp, Teachers’ Day, Games Carnival etc.</p>
 <p></p>
 </li>
 </ul>
+<h4>Selection</h4>
+<p>DSA selection is a rigorous process.</p>
+<p>Candidates who would like to apply for DSA-Leadership should ideally possess
+the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good conduct and character (at least a VERY GOOD for conduct grade)</p>
+</li>
+<li>
+<p>Leadership experience (at least a Class Leadership role, e.g. Class monitor/Prefect/Peer
+Support Leader)</p>
+</li>
+<li>
+<p>Achievement in good character and leadership (e.g. Edusave Character Award,
+EAGLES (Leadership), attendance at leadership conferences) will be favourably
+considered</p>
+</li>
+</ul>
+<p></p>
 <h4>Highlights</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -106,15 +125,9 @@ Below are some of the highlights of opportunities for students to lead.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_camp_1.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_1_camp_2.jpg">
-</div>
 </th>
 </tr>
 </tbody>
