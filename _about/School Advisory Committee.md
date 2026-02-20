@@ -32,7 +32,7 @@ and growth. Here’s to many more shared milestones ahead!</p>
 </p>
 <p><strong>MR JEREMY LIM</strong>
 <br>SAC MEMBER
-<br><em>SENIOR ASSOCIATE <br>GFR RUND</em>
+<br><em>SENIOR ASSOCIATE <br>GFR FUND</em>
 </p>
 <p><strong>MR C. MANOKARAN</strong>
 <br>SAC MEMBER
