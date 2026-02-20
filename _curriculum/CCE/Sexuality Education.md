@@ -309,7 +309,7 @@ as a male or female</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
