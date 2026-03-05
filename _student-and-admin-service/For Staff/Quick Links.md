@@ -35,11 +35,15 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/67e3428a00fc5ff5f506428e" rel="noopener nofollow" target="_blank">Report Fautly ICT/Faciilities Form</a>
+<p><a href="https://form.gov.sg/67e3428a00fc5ff5f506428e" rel="noopener nofollow" target="_blank">Report Faulty ICT/Facilities Form</a>
 </p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/gdls-job-request-form" rel="noopener nofollow" target="_blank">Job Request Form</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/gdls-ict-job-request-form" rel="noopener nofollow" target="_blank">ICT Job Request Form</a>
 </p>
 </li>
 <li>
