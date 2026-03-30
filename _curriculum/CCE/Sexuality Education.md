@@ -809,7 +809,7 @@ assertiveness, negotiation to say ‘no’ to peer pressure)</p>
 way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -825,7 +825,7 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
