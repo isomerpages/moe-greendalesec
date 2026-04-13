@@ -89,12 +89,13 @@ expeditions and exploration.</p>
 </ul>
 <p>Applicants who do not have prior experience may also apply.&nbsp;The school
 will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants. Note that meeting all the criteria
-does not guarantee that a student will be shortlisted / given an offer.
-Parents will receive notification from Greendale Secondary School by 31
+assessing the potential of the applicants.</p>
+<p>Note that meeting all the criteria does not guarantee that a student will
+be shortlisted / given an offer.</p>
+<p>Parents will receive notification from Greendale Secondary School by 31
 July 2026 if students have been shortlisted to undergo Direct School Admission
 (DSA) selection. All Applicants will receive their application outcomes
-between 24 Aug and 3 Sep 2026.</p>
+between 17 Aug and 28 Aug 2026.</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights - General</h3>
