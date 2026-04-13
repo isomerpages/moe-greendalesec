@@ -64,6 +64,9 @@ EAGLES (Leadership), attendance at leadership conferences) will be favourably
 considered</p>
 </li>
 </ul>
+<p>Applicants who do not have prior experience may also apply.&nbsp;The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
 <p>Note that meeting all the criteria does not guarantee the student will
 be shortlisted/given an offer.</p>
 <p>Parents will receive notification from Greendale Secondary School by 31
