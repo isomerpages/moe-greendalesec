@@ -58,3 +58,5 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for from Years 1 – 4.</p>
+<p>Note that meeting all the criteria does not guarantee the student will
+be shortlisted/given an offer.</p>
