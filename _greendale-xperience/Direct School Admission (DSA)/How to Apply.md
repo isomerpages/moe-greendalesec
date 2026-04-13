@@ -8,7 +8,7 @@ third_nav_title: Direct School Admission (DSA)
 ---
 <h2>How to Apply</h2>
 <p></p>
-<p>The Direct School Admission (DSA) 2026 exercise starts <strong>on 6 May 2025 (11 a.m.) and ends on 3 June 2026 (3 p.m.)</strong>.</p>
+<p>The Direct School Admission (DSA) 2026 exercise starts <strong>on 6 May 2026 (11 a.m.) and ends on 2 June 2026 (4:30 p.m.)</strong>.</p>
 <h4>Timeline of DSA-Sec 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -26,20 +26,20 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 May 2025 (11 a.m.) to 3 June 2026 (3 p.m.)</p>
+<p>6 May 2026 (11 a.m.) to 2 June 2026 (4:30 p.m.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete and submit the online application through the <a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" rel="noopener nofollow" target="_blank">DSA-Sec Portal </a>by
-3 June 2026 (3 p.m.)</p>
+2 June 2026 (4:30 p.m.)</p>
 <p>Do note that late submissions will not be considered</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 July2025</p>
+<p>31 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shortlisted applicants for interview will be notified by 31 July2026</p>
+<p>Shortlisted applicants for interview will be notified by 31 July 2026</p>
 </td>
 </tr>
 <tr>
