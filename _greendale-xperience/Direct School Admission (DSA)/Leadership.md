@@ -64,6 +64,9 @@ EAGLES (Leadership), attendance at leadership conferences) will be favourably
 considered</p>
 </li>
 </ul>
+<p>Note that meeting all the criteria does not guarantee the student will
+be shortlisted/given an offer.</p>
+<p></p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
 <h3>Highlights</h3>
