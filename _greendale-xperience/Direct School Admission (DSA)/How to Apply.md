@@ -36,6 +36,14 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>20 July 2026 to 28 August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shortlisted applicants to attend interviews</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>31 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,12 +52,22 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 August 2026 to 3 September 2026</p>
+<p>17 August 2026 to 28 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents of students who receive DSA-Sec offers
-<br>are to submit up to 3 school preferences in the DSA-Sec Portal between
-<br>26 October 2026 (9 a.m.) and 30 October 2026 (3 p.m.)</p>
+<p>Students who have attended interviews will be notified of the interview
+outcome by 28 August 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 October 2026 (9 a.m) to 23 October 2026 (3 p.m)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents of students who receive DSA-Sec offers are to submit up to 3 school
+preferences in the DSA-Sec Portal between 19 October 2026 (9 a.m.) and
+23 October 2026 (3 p.m.)</p>
+<p></p>
 </td>
 </tr>
 <tr>
