@@ -38,12 +38,13 @@ robotics clubs, STEM-related workshops or projects)</p>
 </li>
 </ul>
 <p>The school will assess applicants based on the selection criteria, which
-may include assessing the potential of the applicants. Note that meeting
-all the criteria does not guarantee that a student will be shortlisted
-/ given an offer. Parents will receive notification from Greendale Secondary
-School by 31 July 2026 if students have been shortlisted to undergo Direct
-School Admission (DSA) selection. All Applicants will receive their application
-outcomes between 24 Aug and 3 Sep 2026.</p>
+may include assessing the potential of the applicants.</p>
+<p>Note that meeting all the criteria does not guarantee that a student will
+be shortlisted / given an offer.</p>
+<p>Parents will receive notification from Greendale Secondary School by 31
+July 2026 if students have been shortlisted to undergo Direct School Admission
+(DSA) selection. All Applicants will receive their application outcomes
+between 17 August 2026 to 28 August 2026.</p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a hands-on task or scenario-based activity to assess their aptitude
 and passion for technology and engineering.</p>
