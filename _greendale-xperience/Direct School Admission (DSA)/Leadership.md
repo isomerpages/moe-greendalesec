@@ -69,6 +69,10 @@ be shortlisted/given an offer.</p>
 <p></p>
 <p>Shortlisted candidates will attend an interview session and take part
 in a scenario-based activity as part of the selection process.</p>
+<p>Parents will receive notification from Greendale Secondary School by 31
+July 2026 if students have been shortlisted to undergo Direct School Admission
+(DSA) selection. All Applicants will receive their application outcomes
+between 17 Aug and 28 Aug 2026.</p>
 <h3>Highlights</h3>
 <p>Students can look forward to the wide variety of leadership opportunities
 in Greendale.</p>
