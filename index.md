@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Greendale Secondary School
-description: An Isomer site of the Singapore Government
+description: An Isomer site of the Singapore Government but edited by Greg
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
