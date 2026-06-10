@@ -273,6 +273,9 @@ etc.)</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>A Role for Everyone</p>
+<p>Lesson 1</p>
+<p>(60 mins)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -309,11 +312,14 @@ as a male or female</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Online Safety Challenge</p>
+<p>Lesson 2A</p>
+<p>(60 mins)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,7 +343,7 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +377,7 @@ both offline and online</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
