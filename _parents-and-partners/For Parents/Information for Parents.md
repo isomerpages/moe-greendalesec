@@ -13,10 +13,6 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/student-admin-services/students/class-timetable/" rel="noopener nofollow" target="_blank">Class Timetable</a>:
-Access the latest class schedules for all levels.</p>
-</li>
-<li>
 <p><a href="/student-admin-services/students/booklists/" rel="noopener nofollow" target="_blank">Booklists</a>:
 Find the required textbooks and stationery for each academic year.</p>
 </li>
