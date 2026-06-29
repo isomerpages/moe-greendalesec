@@ -37,6 +37,5 @@ third_nav_title: Contact Us
 </p>
 <p></p>
 <p><a href="tel: +65 63158616" rel="noopener nofollow" target="_blank">+65 63158616</a>
-<br><a href="tel: +65 87259252" rel="noopener nofollow" target="_blank">+65 87259252</a>
 <br><a href="mailto: greendale_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
 <br>Fax: +65 6315 8420</p>
