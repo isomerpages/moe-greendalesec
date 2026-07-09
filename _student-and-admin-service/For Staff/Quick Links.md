@@ -35,7 +35,7 @@ third_nav_title: For Staff
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/admin/form/6a30e601b6de6b8ca60ba6bd" rel="noopener nofollow" target="_blank">Incident Reporting Form</a>
+<p><a href="https://form.gov.sg/6a30e601b6de6b8ca60ba6bd" rel="noopener nofollow" target="_blank">Incident Reporting Form</a>
 </p>
 </li>
 <li>
