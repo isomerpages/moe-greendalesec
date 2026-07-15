@@ -36,7 +36,7 @@ third_nav_title: Direct School Admission (DSA)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 July 2026 to 28 August 2026</p>
+<p>20 July 2026 to 28 July 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Shortlisted applicants to attend interviews</p>
