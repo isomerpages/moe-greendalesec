@@ -9,7 +9,7 @@ third_nav_title: Direct School Admission (DSA)
 <h2>How to Apply</h2>
 <p></p>
 <p>The Direct School Admission (DSA) 2026 exercise starts <strong>on 6 May 2026 (11 a.m.) and ends on 2 June 2026 (4:30 p.m.)</strong>.</p>
-<h4>Timeline of DSA-Sec 2025</h4>
+<h4>Timeline of DSA-Sec 2026</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
