@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Greendale Secondary School
-description: An Isomer site of the Singapore Government
+description: An Isomer site of the Singapore Government but edited by Greg
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -71,7 +71,7 @@ sections:
       title: LEADERS
       subtitle: "Grow & Glow: The Greendale Way"
       description: Students acquire leadership skills through opportunities and
-        experiences to become confident leaders with the heart to serve.
+        experiences to become confident leaders with the heart to serve and excel.
       button: Find Out More
       alt: LEADERS
       image: /images/leader.jpg
