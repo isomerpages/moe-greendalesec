@@ -34,6 +34,8 @@ third_nav_title: Contact Us
 <p>
 <br>
 <br><strong>General Enquiries &amp; Feedback</strong>
-<br><a href="tel:+6563158616" rel="noopener noreferrer nofollow" target="_blank">+65 6315 8616</a>
-<br><a href="mailto:greendale_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
+</p>
+<p></p>
+<p><a href="tel: +65 63158616" rel="noopener nofollow" target="_blank">+65 63158616</a>
+<br><a href="mailto: greendale_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">greendale_ss@moe.edu.sg</a>
 <br>Fax: +65 6315 8420</p>
